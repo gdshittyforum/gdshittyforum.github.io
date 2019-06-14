@@ -34,8 +34,11 @@
                 <div id="records">
                     <center>
                         <hr>
+                        <div id="level-info" style="font-size: 25px">
                         <div id="records-score"></div>
                         <div id="records-id"></div>
+                        <div id="records-pass"></div>
+                        </div>
                         <hr>
                         <div id="records-title"><strong>Records</strong></div><br>
                         <div id="qualification"><strong id="levelqualify"></strong>% or better required to qualify<br><br>
@@ -329,6 +332,7 @@
             $("#levelqualify").text(entry.percentToQualify);
             $("#records-score").html(`<strong>100% when scores : ${getPoint(rank)}</strong>`);
             $("#records-id").html(`<strong>Level ID : ${entry.id}</strong>`);
+            $("#records-pass").html(`<strong>Level Password : ${entry.pass}</strong>`);
             $("#inside-level-author").html(final_author);
             $(record_node).empty();
             entry.vids.sort(function(a, b) {
