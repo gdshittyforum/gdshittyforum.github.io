@@ -677,19 +677,6 @@ const d = {
 		{
 			"vids": [
 			],
-			"name": "Shitty Crimson Planet",
-			"author": "Megum",
-			"more": "",
-			"id": 48784423,
-			"pass": "456654",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=-Kfb7zk5u6s",
-			"key": 49
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-			],
 			"name": "Shitty Plasma Pulse Finale",
 			"author": "Segone",
 			"more": "",
