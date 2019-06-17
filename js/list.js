@@ -560,12 +560,155 @@ const d = {
 		{
 			"vids": [
 			],
+			"name": "Shitty Theory of Alchemy",
+			"author": "Megum",
+			"more": "",
+			"id": 44316721,
+			"pass": "Free copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=sXlylJu_K-0",
+			"key": 40
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Team Z",
+			"author": "Megum",
+			"more": "",
+			"id": 44803429,
+			"pass": "Not allow copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=mFQO0Xnc4Vc",
+			"key": 41
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Sigma",
+			"author": "Megum",
+			"more": "",
+			"id": 52840973,
+			"pass": "167349",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=bUz7ePRVGAk",
+			"key": 42
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Zaphkiel",
+			"author": "Segone",
+			"more": "",
+			"id": 47330439,
+			"pass": "767676",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=Xqjz3ReDHa0",
+			"key": 43
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Carnage Mode",
+			"author": "Megum",
+			"more": "",
+			"id": 49588119,
+			"pass": "023689",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=g-NAgrh8XXI",
+			"key": 44
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Demonicat",
+			"author": "AcropolisBoy and more [AcropolisBoy]",
+			"more": "ASPIbonalba, AlexTheGS33, Megum, ThePhoenix, AcropolisBoy, Yan (CorporalPickachu) and Axaison",
+			"id": 50297621,
+			"pass": "805353",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=zy_ffRfA4Y4",
+			"key": 45
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Spacial Rend",
+			"author": "Megum",
+			"more": "",
+			"id": 45378040,
+			"pass": "258046",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=0No9zvaqtsU",
+			"key": 46
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Firewall",
+			"author": "Megum",
+			"more": "",
+			"id": 47602904,
+			"pass": "083003",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=tiEkO120tlc",
+			"key": 47
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Crimson Planet",
+			"author": "Megum",
+			"more": "",
+			"id": 48784423,
+			"pass": "456654",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=-Kfb7zk5u6s",
+			"key": 48
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Crimson Planet",
+			"author": "Megum",
+			"more": "",
+			"id": 48784423,
+			"pass": "456654",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=-Kfb7zk5u6s",
+			"key": 49
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Plasma Pulse Finale",
+			"author": "Segone",
+			"more": "",
+			"id": 43048173,
+			"pass": "656656",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=WmH9o17MVX4",
+			"key": 49
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
 			"more": "none",
 			"id": 52617967,
 			"pass": "Free copy",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=-u-ijZwZuz4",
 			"legacyKey": 0
 		}
