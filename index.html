@@ -152,6 +152,17 @@
 
     function getHz(hz) {
         var hzs = 1.0;
+        var hzInt = parseInt(hz.replace("Bypass", "").replace("hz", "").replace("bypass", "").replace("Hz", "").replace("HZ", ""));
+        if (hzInt >= 100) {
+            hzs = 1;
+        } else if (hzInt >= 70) {
+            hzs = 1.25;
+        } else {
+            hzs = 1.5;
+        }
+        if (hz == "Mobile") {
+            hzs = 2.0
+        }
         return hzs;
     }
 

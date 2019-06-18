@@ -697,8 +697,126 @@ const d = {
 			"pass": "Free copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=-u-ijZwZuz4",
+			"legacyKey": 9
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Mystic",
+			"author": "Megum",
+			"more": "none",
+			"id": 49699914,
+			"pass": "236598",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=RHQwN9bKGjo",
+			"legacyKey": 8
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty AAAAAAAAAAAAAAAAAAAA",
+			"author": "Megum",
+			"more": "none",
+			"id": 44674421,
+			"pass": "Not allow copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=none",
+			"legacyKey": 7
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Deception Dive",
+			"author": "Segone and more [Segone]",
+			"more": "Segone, Megum, WorisCZ, TrewisCZ, Knali9",
+			"id": 49847855,
+			"pass": "946946",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=HVloRq0mCVM",
+			"legacyKey": 6
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Breakout Redux",
+			"author": "Megum",
+			"more": "none",
+			"id": 50939914,
+			"pass": "325896",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=btgMaP7jXUM",
+			"legacyKey": 5
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Artificial Dream",
+			"author": "Megum",
+			"more": "none",
+			"id": 47853786,
+			"pass": "137928",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=h095c68WyE8",
+			"legacyKey": 4
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Night Party",
+			"author": "Megum",
+			"more": "none",
+			"id": 48681219,
+			"pass": "666123",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=pOvZLEW79F0",
+			"legacyKey": 3
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Lucid Nightmares",
+			"author": "ShadowNinja441 and more [ShadowNinja441]",
+			"more": "AcropolisBoy, SoyNadie, Deleitor11, ItzShuvon, Megum, ThePhoenixGHG, AlexTheGS33, ShadowNinja441, Goddardl",
+			"id": 55566910,
+			"pass": "Free copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=YkGrbj0vucY",
+			"legacyKey": 2
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Heat Wave",
+			"author": "Megum and more [Megum]",
+			"more": "Megum, Segone, Zenriol, AlexTheGS33, AcropolisBoy, ThePhoenixGHG",
+			"id": 51239390,
+			"pass": "124578",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=KOR6Z0ew1QY",
+			"legacyKey": 1
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Twisted Tranquility",
+			"author": "Segone",
+			"more": "none",
+			"id": 35563780,
+			"pass": "Free copy",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=oXAEl2XyYb4",
 			"legacyKey": 0
-		}
+		},
+		/*=================================================================================*/
 	],
 	"version": [
 		1,
