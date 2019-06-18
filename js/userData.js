@@ -1,7 +1,6 @@
 function getUserData(user) {
     var user_data = [];
   
-    alert("1");
     for (var i = 0; i < list.length; i++) {
         var entry = list[i];
         for (var a = 0 ; a < entry.vids.length ; a++) {
@@ -39,7 +38,6 @@ function getUserData(user) {
         }
     }
   
-    alert("2");
     var sortingField = "point"
     user_data.sort(function(a, b) {
     return b[sortingField] - a[sortingField];
@@ -53,7 +51,6 @@ function getUserData(user) {
         return b["score"] - a["score"];
     });
     
-    alert("3");
     var progresses = '<ol>'; var clears = 0;
     for (var i = 0 ; i < user_data[user].progress.length ; i++) {
         progresses = progresses + '<li><a href="'+user_data[user].progress[i].link+'" target="blank_">' + user_data[user].progress[i].map + ' ' + user_data[user].progress[i].progress + '% </strong>(UP: '+user_data[user].progress[i].score+')<strong></a></li>'
@@ -70,7 +67,6 @@ function getUserData(user) {
             '<br>보유 기록 : '+progresses+'<br>'+
             '</strong></center>'
     });
-    alert("4");
 
 }
 
