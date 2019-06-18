@@ -123,11 +123,12 @@
     $('#hi').prop('style', 'background: hsl(' + c + ', 100%, 0%);')
     </script>
     <script name="userpoint" type="text/javascript">
+
     function getPoint(rank) {
         if (rank > 50) {
-            return roundNumber(20, 3);
+            return roundNumber(30, 3);
         } else {
-            return roundNumber(100 / Math.sqrt(0.2 * (rank + 4)), 3);
+            return roundNumber((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50, 3);
         }
     }
 
@@ -144,7 +145,7 @@
         }
     }
 
-    function getPoint(rank, percent, cutline, hz) {
+    function getUserPoint(rank, percent, cutline, hz) {
         var hzpoint = 0.0;
         if (hz == null) {
             hzpoint = 1;
@@ -160,7 +161,7 @@
                 hzpoint = 1.5;
             }
         }
-        if (rank > 100) {
+        if (rank > 50) {
             return roundNumber((((percent - cutline) / (100 - cutline)) * 30) * hzpoint, 3);
         } else {
             var score = roundNumber((((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50) * hzpoint) * ((percent - (cutline - 1)) / (100 - (cutline - 1))), 3);
@@ -192,7 +193,7 @@
                 }
             }
             var po;
-            po = getPoint(i+1, entry2.percent, entry.percentToQualify, entry2.hz);
+            po = getUserPoint(i+1, entry2.percent, entry.percentToQualify, entry2.hz);
             if (isLoot == true) {
                 for (var b = 0; b < rank_data.length; b++) {
                     var user_name = rank_data[b].name.toUpperCase();
