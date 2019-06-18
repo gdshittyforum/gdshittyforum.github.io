@@ -65,6 +65,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=mtz1lSpzw5I",
+					"percent": 95,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Orochi",
 			"author": "Keleru",
@@ -91,6 +97,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=g7s_a2hlEy8",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
@@ -117,6 +129,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=B0HlnwUKvSI",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Requiem",
 			"author": "MiiNi03",
@@ -156,6 +174,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=OnRX7lKv6VM",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -208,6 +232,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=XnA8gmTO040",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Cadrega City",
 			"author": "Megum",
@@ -325,6 +355,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=5OVrkPsE3NM",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Death Corridor",
 			"author": "Acropolisboy and more [Acropolisboy]",
@@ -338,6 +374,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=bjMpP7tRMDk",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Bausha Vortex",
 			"author": "Megum",
@@ -351,6 +393,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=4APFIW418OU",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace and more [oSpace]",
@@ -364,6 +412,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=LlYmpRZw8Ds",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Bloodlust",
 			"author": "Segone",
@@ -377,6 +431,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=EwchJFIvK5o",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Ziroikabi",
 			"author": "Megum",
@@ -403,6 +463,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=SMyNH9jDG_g",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Dark flare",
 			"author": "Megum and more [Megum]",
@@ -416,6 +482,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=pvlGMF32SJ0",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [AlexTheGS33]",
@@ -429,6 +501,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=nZuDdnlN-X4",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty NecropoliX",
 			"author": "AcropolisBoy",
@@ -442,6 +520,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=Ul1IM5zokQk",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Ancestral calamity",
 			"author": "oSpace and more [oSpace]",
@@ -455,6 +539,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=X3avuSEN1ow",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty God Eater",
 			"author": "AcropolisBoy",
@@ -468,6 +558,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=bE8K3NF8hcE",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "Segone",
@@ -481,6 +577,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=iE57GbX6nHo",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Aftermath",
 			"author": "AcropolisBoy",
@@ -494,6 +596,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=HsqJaezCiuE",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Phobos",
 			"author": "RealOptagonus",
@@ -507,6 +615,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=QTE8M5qwr40",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Conical Depression",
 			"author": "RealOptagonus",
@@ -520,6 +634,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=PPy2Wbj3Rtw",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Digital Descent",
 			"author": "Segone",
@@ -546,6 +666,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=cmY5dWNZepw",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Aurora",
 			"author": "Megum",
@@ -559,6 +685,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=oL-gAg5RUSo",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Theory of Alchemy",
 			"author": "Megum",
@@ -572,6 +704,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=yF8oHw54dA4",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Team Z",
 			"author": "Megum",
@@ -585,6 +723,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=LH5u4lMmCJQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -598,6 +742,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=2VO3RWJhkus",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Segone",
@@ -611,6 +761,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=M4CgmpS1g9A",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
@@ -624,6 +780,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=eXagLpxWdxs",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Demonicat",
 			"author": "AcropolisBoy and more [AcropolisBoy]",
@@ -637,6 +799,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=WTTH_0nJBU8",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Spacial Rend",
 			"author": "Megum",
@@ -650,6 +818,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=MHQjhncEnDc",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Firewall",
 			"author": "Megum",
@@ -676,6 +850,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=t52y7ViqnGg",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse Finale",
 			"author": "Segone",
@@ -754,6 +934,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=jksjz-kQ5-U",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Megum",
