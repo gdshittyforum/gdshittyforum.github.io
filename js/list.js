@@ -653,6 +653,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=XnA8gmTO040",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Cadrega Mode",
 			"author": "ShittyStorm",
