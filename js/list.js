@@ -55,7 +55,7 @@ const d = {
 				{
 					"user": "AlphaXIV",
 					"link": "https://youtu.be/0JWdFZhIKNI",
-					"percent": 100,
+					"percent": 95,
 					"hz": "Mobile"
 				},
 			],
