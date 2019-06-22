@@ -52,6 +52,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "AlphaXIV",
+					"link": "https://youtu.be/0JWdFZhIKNI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Missing Benefits",
 			"author": "Keleru",
@@ -65,6 +71,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=DBXQUmF9bOA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 				{
 					"user": "Lime0037",
 					"link": "https://www.youtube.com/watch?v=mtz1lSpzw5I",
@@ -84,6 +96,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "RedCraft",
+					"link": "https://youtu.be/ioP2swNrOpM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=uFExiEv5RR4&t",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "TheNatanaelGD",
@@ -103,6 +127,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "RedCraft",
+					"link": "https://youtu.be/4RUGKscmCZc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
@@ -116,6 +146,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "RedCraft",
+					"link": "https://youtu.be/g4rutNG7Drs",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "SKY",
+					"link": "https://youtu.be/p0Agg6bxPoI",
+					"percent": 61,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Sonic Wave",
 			"author": "AcropolisBoy",
@@ -135,6 +177,18 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "RedCraft",
+					"link": "https://youtu.be/d8bXNSpwVFw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Parkjaehee",
+					"link": "https://youtu.be/3Gkac6w6szg",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Requiem",
 			"author": "MiiNi03",
@@ -148,6 +202,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Redcraft",
+					"link": "https://youtu.be/9s_Mf4s6-y4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Yandere",
 			"author": "MiiNi03",
@@ -161,6 +221,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "nng12",
+					"link": "https://www.youtube.com/watch?v=Tpf-aPMNrig",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "ZenroiL and more [oSpace]",
@@ -179,6 +245,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=OnRX7lKv6VM",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "nng12",
+					"link": "https://www.youtube.com/watch?v=2d6tQfhhS30",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Paroxysm",
@@ -206,6 +278,24 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Lime0037",
+					"link": "https://youtu.be/MAE8HYDCHA4",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "nng12",
+					"link": "https://www.youtube.com/watch?v=tbumCvoeUvA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "SKY",
+					"link": "https://youtu.be/aA9-CoaSwqk",
+					"percent": 76,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Epsilon",
 			"author": "Segone",
@@ -251,6 +341,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://youtu.be/HyhnF6WUS8Q",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -264,6 +360,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://youtu.be/OCjMIMm-jAo",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Singularity",
 			"author": "Megum",
@@ -277,6 +379,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://youtu.be/7Kf0B0GWbS8",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Delta Interface",
 			"author": "Segone",
@@ -290,6 +398,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://youtu.be/9iHdrmsaufQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "SKY",
+					"link": "https://youtu.be/h15Lj-J535E",
+					"percent": 59,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -303,6 +423,24 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://youtu.be/_ueDuLZI_7k",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "K4slic",
+					"link": "https://youtu.be/alktwVpPRKo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "SKY",
+					"link": "https://youtu.be/4F4RrIs1X5A",
+					"percent": 59,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Audio Expulsion",
 			"author": "Megum and more [Megum]",
@@ -316,6 +454,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://youtu.be/9k1x8Lk6DPE",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty ATMarbl",
 			"author": "Megum and more [Megum]",
@@ -329,6 +473,24 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://youtu.be/d39pODi8t0E",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Solarzz",
+					"link": "https://youtu.be/F0Tf7qgGkBc",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://youtu.be/mgff3fWIRq4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Arctic Lights",
 			"author": "IFrankis",
@@ -342,6 +504,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://youtu.be/DlhySmIK9_U",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://youtu.be/BwkDS0_b5Dc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Atmosphere",
 			"author": "Megum",
@@ -360,6 +534,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=5OVrkPsE3NM",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://youtu.be/cXzjCWfZnCw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "SKY",
+					"link": "https://youtu.be/mRCWGKX-GF4",
+					"percent": 67,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Death Corridor",
@@ -380,6 +566,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://youtu.be/Z1VMaB_anqI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Bausha Vortex",
 			"author": "Megum",
@@ -398,6 +590,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=4APFIW418OU",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://youtu.be/8635EUNvp98",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Zodiac",
@@ -433,7 +631,7 @@ const d = {
 			"vids": [
 				{
 					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=EwchJFIvK5o",
+					"link": "https://youtu.be/jksjz-kQ5-U",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -450,6 +648,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=EwchJFIvK5o",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Artificial Ascent",
 			"author": "Megum and more [Megum]",
@@ -469,6 +673,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "SKY",
+					"link": "https://youtu.be/cTJ1InZd4G4",
+					"percent": 89,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Dark flare",
 			"author": "Megum and more [Megum]",
@@ -487,6 +697,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=pvlGMF32SJ0",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "SKY",
+					"link": "https://youtu.be/bq0qw8vdGmU",
+					"percent": 90,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Visible Ray",
@@ -843,6 +1059,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://youtu.be/V0QUaiocQxk",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Crimson Planet",
 			"author": "Megum",
@@ -861,6 +1083,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=t52y7ViqnGg",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Youngwoong2",
+					"link": "https://youtu.be/R5K9aOBVMRk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "itsNikokun",
+					"link": "https://youtu.be/CB22owH53Dg",
+					"percent": 92,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Plasma Pulse Finale",
