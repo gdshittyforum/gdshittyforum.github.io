@@ -125,7 +125,7 @@
 
     function getPoint(rank) {
         if (rank > 50) {
-            return roundNumber(30, 3);
+            return roundNumber(15, 3);
         } else {
             return roundNumber((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50, 3);
         }
@@ -161,7 +161,7 @@
             }
         }
         if (rank > 50) {
-            return roundNumber(((percent - (cutline - 1)) / (100 - (cutline - 1)) * 30) * hzpoint, 3);
+            return roundNumber(((percent - (cutline - 1)) / (100 - (cutline - 1)) * 15) * hzpoint, 3);
         } else {
             var score = roundNumber((((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50) * hzpoint) * ((percent - (cutline - 1)) / (100 - (cutline - 1))), 3);
             if (percent != 100) {
