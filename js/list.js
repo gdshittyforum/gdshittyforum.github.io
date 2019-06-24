@@ -915,6 +915,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=SjiCilKv8TM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty NecropoliX",
 			"author": "AcropolisBoy",
@@ -933,6 +939,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Ul1IM5zokQk",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=ux6ghKMRpI4",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ancestral calamity",
@@ -953,6 +965,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=4qLNpmShjxc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty God Eater",
 			"author": "AcropolisBoy",
@@ -971,6 +989,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=bE8K3NF8hcE",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=b4JGybtbkZg",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Stalemate Redux",
@@ -991,6 +1015,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=OKnmu3NYGpk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Aftermath",
 			"author": "AcropolisBoy",
@@ -1010,6 +1040,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=0YBXzcjlfaE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Phobos",
 			"author": "RealOptagonus",
@@ -1028,6 +1064,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=QTE8M5qwr40",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=MjPBR7jlTOU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Conical Depression",
@@ -1190,6 +1232,12 @@ const d = {
 				{
 					"user": "Ling330",
 					"link": "https://www.youtube.com/watch?v=qQTXn4DiMhI",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=w4jPTudyeWo",
 					"percent": 100,
 					"hz": "60hz"
 				},
