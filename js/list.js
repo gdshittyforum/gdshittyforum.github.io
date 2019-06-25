@@ -444,7 +444,7 @@ const d = {
 				},
 				{
 					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=fEmXpN9EpHQ",
+					"link": "https://www.youtube.com/watch?v=YO2eQtLRnkI",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -472,6 +472,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=4i7e8uk7Mvw",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=jFJlOn5yQwY",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -584,6 +590,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=UUA3HjzCkdw",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=j78yTIQ9MrE",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 				{
 					"user": "SKY",
@@ -1102,6 +1114,18 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=S3dFmVncfDk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=1wZmsmKxx8o",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Digital Descent",
 			"author": "Segone",
@@ -1140,6 +1164,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=i8GfllLPlms",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Aurora",
 			"author": "Megum",
@@ -1158,6 +1188,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=oL-gAg5RUSo",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=Y0nKuWsFVaY",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Theory of Alchemy",
@@ -1178,6 +1214,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=eMVKSsq8yOo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Team Z",
 			"author": "Megum",
@@ -1196,6 +1238,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=LH5u4lMmCJQ",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=HeHxwMPYO0A",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Sigma",
@@ -1221,6 +1269,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=DQ_f2Hl8814",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=hXvCLm8Ijrg",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Zaphkiel",
@@ -1253,6 +1307,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=6X-BvFCoMi0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Carnage Mode",
 			"author": "Megum",
@@ -1271,6 +1331,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=eXagLpxWdxs",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=H2s-09-Yo1s",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Demonicat",
@@ -1296,6 +1362,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=MY8V1x6DG4o",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=rHxWFkjryV4",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Spacial Rend",
@@ -1328,6 +1400,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=s3JsizSdKaA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Firewall",
 			"author": "Megum",
@@ -1352,6 +1430,24 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=iLBbyzeM6dk",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=Xtj7cweaQCk",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "GD Samsung",
+					"link": "https://www.youtube.com/watch?v=D6z6jt2YKqU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=Bn1R5wiSRho",
+					"percent": 100,
+					"hz": "144hz"
 				},
 				{
 					"user": "RedLime",
@@ -1390,6 +1486,12 @@ const d = {
 					"percent": 92,
 					"hz": "Mobile"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=0eCqZ0Phl9I",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse Finale",
 			"author": "Segone",
@@ -1403,6 +1505,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "eafan0",
+					"link": "https://www.youtube.com/watch?v=dKVQ6tiIRuM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 				{
 					"user": "RedLime",
 					"link": "https://www.youtube.com/watch?v=e7MU8HsNbUM",
