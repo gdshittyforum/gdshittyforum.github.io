@@ -1145,6 +1145,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=YO2eQtLRnkI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cadrega Mode",
 			"author": "ShittyStorm",
