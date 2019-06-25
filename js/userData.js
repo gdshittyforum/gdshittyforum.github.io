@@ -21,7 +21,7 @@ function getUserData(user) {
                         if (user_data[b].highest == "null" && parseInt(entry2.percent) == 100) {
                             user_data[b].highest = entry.name; 
                         }
-                        user_data[b].progress.push({map : entry.name.toString(), progress : entry2.percent.toString(), link : entry2.link, score : roundNumber(p,3)});
+                        user_data[b].progress.push({map : entry.name.toString(), progress : entry2.percent.toString(), link : entry2.link, score : roundNumber(p,3), rank : i+1, hz : (entry2.hz != null ? entry2.hz : "144hz")});
                     }
                 }
             } else {
@@ -31,7 +31,7 @@ function getUserData(user) {
                 }
 
                 var prog = [];
-                prog.push({map : entry.name.toString(), progress : entry2.percent.toString(), link : entry2.link, score : roundNumber(p,3)});
+                prog.push({map : entry.name.toString(), progress : entry2.percent.toString(), link : entry2.link, score : roundNumber(p,3), rank : i+1, hz : (entry2.hz != null ? entry2.hz : "144hz")});
 
                 user_data.push({name : entry2.user, highest : map, progress : prog, point : p});
             }
@@ -53,7 +53,7 @@ function getUserData(user) {
     
     var progresses = '<ol>'; var clears = 0;
     for (var i = 0 ; i < user_data[user].progress.length ; i++) {
-        progresses = progresses + '<li><a href="'+user_data[user].progress[i].link+'" target="blank_">' + user_data[user].progress[i].map + ' ' + user_data[user].progress[i].progress + '% </strong>(UP: '+user_data[user].progress[i].score+')<strong></a></li>'
+        progresses = progresses + '<li><a href="'+user_data[user].progress[i].link+'" target="blank_">' + user_data[user].progress[i].map + ' ' + user_data[user].progress[i].progress + '% </strong>(#'+user_data[user].progress[i].rank+' / UP: '+user_data[user].progress[i].score+(parseInt(user_data[user].progress[i].hz.replace("hz", "")) >= 120 ? '' : ' / '+user_data[user].progress[i].hz)+')<strong></a></li>'
         if (user_data[user].progress[i].progress == 100) {
             clears++;
         }
