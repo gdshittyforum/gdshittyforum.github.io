@@ -281,6 +281,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "RedLime",
+					"link": "https://www.youtube.com/watch?v=TXNV0_CZB3k",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "ZenroiL and more [oSpace]",
@@ -996,6 +1002,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "RedLime",
+					"link": "https://www.youtube.com/watch?v=yp1DTGc0yFE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "Segone",
@@ -1341,6 +1353,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "RedLime",
+					"link": "https://www.youtube.com/watch?v=ey5AhfzD5KA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Crimson Planet",
 			"author": "Megum",
@@ -1385,6 +1403,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "RedLime",
+					"link": "https://www.youtube.com/watch?v=e7MU8HsNbUM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
