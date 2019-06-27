@@ -160,7 +160,13 @@
                 hzpoint = 0.3;
             }
         }
-        hzpoint = 1 + (hzpoint * ((50-rank)/50));
+        var point_rank = 0;
+        if (rank > 50) {
+            point_rank = 50;
+        } else {
+            point_rank = rank;
+        }
+        hzpoint = 1 + (hzpoint * ((50-point_rank)/50));
         if (rank > 50) {
             return roundNumber(((percent - (cutline - 1)) / (100 - (cutline - 1)) * 15) * hzpoint, 3);
         } else {

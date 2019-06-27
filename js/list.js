@@ -110,9 +110,15 @@ const d = {
 				},
 				{
 					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=uFExiEv5RR4&t",
+					"link": "https://www.youtube.com/watch?v=uFExiEv5RR4",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "DenFade",
+					"link": "https://www.youtube.com/watch?v=1ealv5WuZ_4",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Ragnarok",
@@ -144,6 +150,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=bgQJOUn9Mwk",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "K4slic",
+					"link": "https://www.youtube.com/watch?v=4H8loaHJQd4",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Novalis",
@@ -324,6 +336,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "eafan0",
+					"link": "https://www.youtube.com/watch?v=Wevu1LVb9nA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -394,8 +412,8 @@ const d = {
 				},
 				{
 					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=aA9-CoaSwqk",
-					"percent": 76,
+					"link": "https://www.youtube.com/watch?v=PtxnQafQ7mc",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 			],
@@ -479,6 +497,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "SherYn",
+					"link": "https://www.youtube.com/watch?v=BMwEB4xET0w",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -559,6 +583,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=SXFCfhZzoeI",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "SherYn",
+					"link": "https://www.youtube.com/watch?v=cNxiSGumz-4",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Factory Realm X",
@@ -723,8 +753,8 @@ const d = {
 				},
 				{
 					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=mRCWGKX-GF4",
-					"percent": 67,
+					"link": "https://www.youtube.com/watch?v=fn-DZ-7rckw",
+					"percent": 69,
 					"hz": "Mobile"
 				},
 			],
@@ -1095,6 +1125,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=MKCV21XmqZA&feature=youtu.be",
+					"percent": 61,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Conical Depression",
 			"author": "RealOptagonus",
@@ -1126,6 +1162,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=a_bc1abr35E",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Digital Descent",
 			"author": "Segone",
@@ -1150,6 +1192,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=YO2eQtLRnkI",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "SherYn",
+					"link": "https://www.youtube.com/watch?v=DtXe6AGLYkY",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Cadrega Mode",
@@ -1250,6 +1298,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=HeHxwMPYO0A",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "SherYn",
+					"link": "https://www.youtube.com/watch?v=mtD5_pToQo0",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Sigma",
@@ -1542,6 +1596,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "SherYn",
+					"link": "https://www.youtube.com/watch?v=vT4QOYFqZEw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Mystic",
 			"author": "Megum",
@@ -1581,6 +1641,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "SherYn",
+					"link": "https://www.youtube.com/watch?v=JbcplYo5hZY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Breakout Redux",
 			"author": "Megum",
@@ -1639,6 +1705,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "SherYn",
+					"link": "https://www.youtube.com/watch?v=tzMVklFUSHs",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "climax",
+					"link": "https://www.youtube.com/watch?v=YN2Fs9W_SWE",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Heat Wave",
 			"author": "Megum and more [Megum]",
