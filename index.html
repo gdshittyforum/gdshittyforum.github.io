@@ -43,64 +43,62 @@
                         <hr>
                         <div id="records-title"><strong>Records</strong></div><br>
                         <div id="qualification"><strong id="levelqualify"></strong>% or better required to qualify<br><br>
-                            <center><a target="_blank" href="https://forms.gle/awmFyk6jkX4PbjHr8">> Submit Record <</a></center>
+                            <center><a target="_blank" href="https://forms.gle/awmFyk6jkX4PbjHr8">> Submit Record <</a> </center> </div> <br>
+                            </center>
+                            <hr>
+                            <div id="records-table">
+                            </div>
                         </div>
-                        <br>
-                    </center>
-                    <hr>
-                    <div id="records-table">
+                </div>
+            </div>
+            <div id="additional-information">
+                <div id="inner-right-info">
+                    <div><strong>Do you have a record to upload? Was your record updated or typed? <u><a target="_blank" href="https://forms.gle/awmFyk6jkX4PbjHr8">Request your record!</a></u></strong></div>
+                    <br>
+                    <div>
+                        This list has modified the <a href="//urdemonlist.github.io" target="_blank">Unrated Demon List</a> produced <strong>over42_delta</strong> and <strong>TheZakkAttack</strong>.
+                        <br><br>
+                        You can apply for a record entry if you meet the following requirements:
+                        <ul>
+                            <li>achieved record without using hack (However, FPS Bypass is available.)</li>
+                            <li>have achieved recordings using game maps that are not different from the original</li>
+                            <li>do not use secret routes or bug routes</li>
+                        </ul><br><br>
+                        &copy; 2019 Shitty Forum and RedLime
                     </div>
                 </div>
-            </div>
-        </div>
-        <div id="additional-information">
-            <div id="inner-right-info">
-                <div><strong>Do you have a record to upload? Was your record updated or typed? <u><a target="_blank" href="https://forms.gle/awmFyk6jkX4PbjHr8">Request your record!</a></u></strong></div>
-                <br>
-                <div>
-                    This list has modified the <a href="//urdemonlist.github.io" target="_blank">Unrated Demon List</a> produced <strong>over42_delta</strong> and <strong>TheZakkAttack</strong>.
-                    <br><br>
-                    You can apply for a record entry if you meet the following requirements:
-                    <ul>
-                        <li>achieved record without using hack (However, FPS Bypass is available.)</li>
-                        <li>have achieved recordings using game maps that are not different from the original</li>
-                        <li>do not use secret routes or bug routes</li>
-                    </ul><br><br>
-                    &copy; 2019 Shitty Forum and RedLime
+                <hr>
+                <div id="user-rank-info">
+                    <style type='text/css'>
+                    A:link {
+                        color: black !important;
+                        text-decoration: none;
+                    }
+
+                    /* 아직 방문하지 않은경우 */
+                    A:visited {
+                        color: black !important;
+                        text-decoration: none;
+                    }
+
+                    /* 한번 이상 방문한 링크 처리 */
+                    A:active {
+                        color: black !important;
+                        text-decoration: none;
+                    }
+
+                    /* 마우스로 클릭하는 순간 */
+                    A:hover {
+                        color: rgba(0, 0, 0, 0.5) !important;
+                        text-decoration: none;
+                    }
+
+                    /* 마우스 링크 위 올려 놓았을때 */
+                    </style>
+                    <center><strong>User Score List</strong></center>
+                    <div id="user-rank"></div>
                 </div>
             </div>
-            <hr>
-            <div id="user-rank-info">
-                <style type='text/css'>
-                A:link {
-                    color: black !important;
-                    text-decoration: none;
-                }
-
-                /* 아직 방문하지 않은경우 */
-                A:visited {
-                    color: black !important;
-                    text-decoration: none;
-                }
-
-                /* 한번 이상 방문한 링크 처리 */
-                A:active {
-                    color: black !important;
-                    text-decoration: none;
-                }
-
-                /* 마우스로 클릭하는 순간 */
-                A:hover {
-                    color: rgba(0, 0, 0, 0.5) !important;
-                    text-decoration: none;
-                }
-
-                /* 마우스 링크 위 올려 놓았을때 */
-                </style>
-                <center><strong>User Score List</strong></center>
-                <div id="user-rank"></div>
-            </div>
-        </div>
     </cover-all>
     <script>
     // height changing script
@@ -122,7 +120,6 @@
     $('#hi').prop('style', 'background: hsl(' + c + ', 100%, 0%);')
     </script>
     <script name="userpoint" type="text/javascript">
-
     function getPoint(rank) {
         if (rank > 50) {
             return roundNumber(15, 3);
@@ -166,7 +163,7 @@
         } else {
             point_rank = rank;
         }
-        hzpoint = 1 + (hzpoint * ((50-point_rank)/50));
+        hzpoint = 1 + (hzpoint * ((50 - point_rank) / 50));
         if (rank > 50) {
             return roundNumber(((percent - (cutline - 1)) / (100 - (cutline - 1)) * 15) * hzpoint, 3);
         } else {
@@ -185,48 +182,27 @@
         });
     }
 
-    var rank_node = $("#user-rank");
-    var rank_data = [];
 
-    for (var i = 0; i < list.length; i++) {
-        var entry = list[i];
-        for (var a = 0; a < entry.vids.length; a++) {
-            var entry2 = entry.vids[a];
-            var isLoot = false;
-            for (var b = 0; b < rank_data.length; b++) {
-                if (rank_data[b].name.toUpperCase() == entry2.user.toUpperCase()) {
-                    isLoot = true;
+
+        for (var i = 0; i < list.length; i++) {
+            for (var r = 0; r < user_data.length; r++) {
+                var verifier = "";
+                if (list[i].author.split("[").length != 2) {
+                    verifier = list[i].author;
+                } else { verifier = list[i].author.split("[")[1].replace("]", ""); }
+                if (verifier.toUpperCase() == user_data[r].name.toUpperCase()) {
+                    var userRecord = user_data[r].verified;
+                    userRecord.push(i + 1);
+                    user_data[r].point = roundNumber(user_data[r].point + getUserPoint(i + 1, 100, list[i].percentToQualify, "144hz"), 3);
+                    user_data[r].verified = userRecord;
                 }
-            }
-            var po;
-            po = getUserPoint(i+1, entry2.percent, entry.percentToQualify, entry2.hz);
-            if (isLoot == true) {
-                for (var b = 0; b < rank_data.length; b++) {
-                    var user_name = rank_data[b].name.toUpperCase();
-                    var data_name = entry2.user.toUpperCase();
-                    if (user_name == data_name) {
-                        rank_data[b].point = rank_data[b].point + po;
-                    }
-                }
-            } else {
-                rank_data.push({ name: entry2.user, point: po });
             }
         }
-    }
-
-    var sortingField = "point"
-    rank_data.sort(function(a, b) {
-        return b[sortingField] - a[sortingField];
-    });
-
-    for (var i = 0; i < rank_data.length; i++) {
-        rank_data[i].point = roundNumber(rank_data[i].point, 3);
-    }
 
     var rank = `<ol>`;
-    for (var i = 0; i < rank_data.length; i++) {
+    for (var i = 0; i < user_data.length; i++) {
         sc = `getUserData(${i})`;
-        rank = `${rank} <span onclick="${sc}" style="cursor:pointer">${i+1}. ${rank_data[i].name} : ${rank_data[i].point} ➦</span><br>`;
+        rank = `${rank} <span onclick="${sc}" style="cursor:pointer">${i+1}. ${user_data[i].name} : ${user_data[i].point} ➦</span><br>`;
     }
     rank = `${rank} </ol>`;
     rank_node.html(`${rank}`);

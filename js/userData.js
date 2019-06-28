@@ -1,4 +1,4 @@
-function getUserData(user) {
+
     var user_data = [];
   
     for (var i = 0; i < list.length; i++) {
@@ -50,6 +50,8 @@ function getUserData(user) {
     user_data[user].progress.sort(function(a, b) {
         return b["score"] - a["score"];
     });
+    
+function getUserData(user) {
     
     var progresses = '<ol>'; var clears = 0;
     for (var i = 0 ; i < user_data[user].progress.length ; i++) {
