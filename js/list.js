@@ -237,6 +237,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Wooung",
+					"link": "https://www.youtube.com/watch?v=oQClqaP6o6A",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Requiem",
 			"author": "MiiNi03",
@@ -341,6 +347,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Wevu1LVb9nA",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Wooung",
+					"link": "https://www.youtube.com/watch?v=KNLpcsm0wSs",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Paroxysm",
@@ -503,6 +515,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=va_IQT9TSr4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -573,12 +591,6 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=h15Lj-J535E",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "LJosh",
 					"link": "https://www.youtube.com/watch?v=SXFCfhZzoeI",
 					"percent": 100,
@@ -590,8 +602,14 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=fn-DZ-7rckw",
+					"percent": 69,
+					"hz": "Mobile"
+				},
 			],
-			"name": "Shitty Factory Realm X",
+			"name": "Shitty Death Corridor",
 			"author": "Megum",
 			"more": "none",
 			"id": 48073424,
@@ -690,6 +708,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "Wooung",
+					"link": "https://www.youtube.com/watch?v=AjOxeETMAIw",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
 					"user": "BlastSplash",
 					"link": "https://www.youtube.com/watch?v=RV--xls_cpk",
 					"percent": 64,
@@ -725,6 +749,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=MEaKPM3eZro",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=S7mpwtpbLA4",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Atmosphere",
@@ -923,8 +953,8 @@ const d = {
 				},
 				{
 					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=cTJ1InZd4G4",
-					"percent": 89,
+					"link": "https://www.youtube.com/watch?v=9jUVRoNaq0g",
+					"percent": 95,
 					"hz": "Mobile"
 				},
 			],
@@ -940,7 +970,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=sF-G3ZFqVKc",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -1116,7 +1151,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=0jfz-7-Z3vA",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Spectral Tentation",
 			"author": "GDStarStorm and more [GDStarStorm]",
@@ -1155,6 +1195,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=vV0g-4VNGCI",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Titan Complex",
 			"author": "ShadowNinja441",
@@ -1317,7 +1363,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=DjtBUkBDmxg",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Subsonic",
 			"author": "Goddardl and more [Goddardl]",
@@ -1645,6 +1696,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=e7MU8HsNbUM",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Wooung",
+					"link": "https://www.youtube.com/watch?v=jUkF-w3_8XI",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty VendetTa",
