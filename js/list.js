@@ -851,6 +851,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "RedLime",
+					"link": "https://www.youtube.com/watch?v=jMzwOP0hiFg",
+					"percent": 91,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace and more [oSpace]",
