@@ -47,6 +47,31 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=DBXQUmF9bOA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=mtz1lSpzw5I",
+					"percent": 95,
+					"hz": "75hz"
+				},
+			],
+			"name": "Shitty Orochi",
+			"author": "Keleru",
+			"more": "none",
+			"id": 49907278,
+			"pass": "123456",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=n-1BTK0cIvA",
+			"key": 1
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "Lime0037",
 					"link": "https://www.youtube.com/watch?v=XMOaR7X9j60",
 					"percent": 100,
@@ -72,31 +97,6 @@ const d = {
 			"pass": "Free copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=Iu08clOYt8I",
-			"key": 1
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=DBXQUmF9bOA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Lime0037",
-					"link": "https://www.youtube.com/watch?v=mtz1lSpzw5I",
-					"percent": 95,
-					"hz": "75hz"
-				},
-			],
-			"name": "Shitty Orochi",
-			"author": "Keleru",
-			"more": "none",
-			"id": 49907278,
-			"pass": "123456",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=n-1BTK0cIvA",
 			"key": 2
 		},
 		/*=================================================================================*/
@@ -282,37 +282,25 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "nng12",
-					"link": "https://www.youtube.com/watch?v=Tpf-aPMNrig",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=TdWgDiFecyU",
+					"link": "https://www.youtube.com/watch?v=tYG9tsy8zW8",
 					"percent": 100,
 					"hz": "144hz"
 				},
 				{
 					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=HpzPmvSScLI",
+					"link": "https://www.youtube.com/watch?v=f8HQ1T1HmXs",
 					"percent": 100,
 					"hz": "60hz"
 				},
-				{
-					"user": "RedLime",
-					"link": "https://www.youtube.com/watch?v=TXNV0_CZB3k",
-					"percent": 100,
-					"hz": "144hz"
-				},
 			],
-			"name": "Shitty Blade of Justice",
-			"author": "ZenroiL and more [oSpace]",
-			"more": "ZenroiL, AlexTheGS, Megum, Smajlik, TheAquaZepyr2",
-			"id": 51744070,
-			"pass": "050119",
+			"name": "Shitty Step To Hell",
+			"author": "oSpace and more [oSpace]",
+			"more": "none",
+			"id": 54868104,
+			"pass": "050319",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=ErAgqjsx6ng",
+			"verificationVid": "https://www.youtube.com/watch?v=none",
 			"key": 8
 		},
 		/*=================================================================================*/
@@ -369,24 +357,24 @@ const d = {
 			"vids": [
 				{
 					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=tYG9tsy8zW8",
+					"link": "https://www.youtube.com/watch?v=DPKZoVIGrBw",
 					"percent": 100,
 					"hz": "144hz"
 				},
 				{
 					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=f8HQ1T1HmXs",
+					"link": "https://www.youtube.com/watch?v=RoDb7kwq0iM",
 					"percent": 100,
 					"hz": "60hz"
 				},
 			],
-			"name": "Shitty Step To Hell",
-			"author": "oSpace and more [oSpace]",
+			"name": "Shitty Bloodbath",
+			"author": "RealOptagonus",
 			"more": "none",
-			"id": 54868104,
-			"pass": "050319",
+			"id": 19865573,
+			"pass": "150516",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=none",
+			"verificationVid": "https://www.youtube.com/watch?v=u4ZzloFrNWQ",
 			"key": 10
 		},
 		/*=================================================================================*/
@@ -442,31 +430,6 @@ const d = {
 		{
 			"vids": [
 				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=DPKZoVIGrBw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=RoDb7kwq0iM",
-					"percent": 100,
-					"hz": "60hz"
-				},
-			],
-			"name": "Shitty Bloodbath",
-			"author": "RealOptagonus",
-			"more": "none",
-			"id": 19865573,
-			"pass": "150516",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=u4ZzloFrNWQ",
-			"key": 12
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
 					"user": "By Player",
 					"link": "https://www.youtube.com/watch?v=aOFmwBlG8nk",
 					"percent": 100,
@@ -486,7 +449,7 @@ const d = {
 			"pass": "097643",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6l2kNZpK9Qg",
-			"key": 13
+			"key": 12
 		},
 		/*=================================================================================*/
 		{
@@ -529,7 +492,7 @@ const d = {
 			"pass": "987123",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=01V2wiWS69o",
-			"key": 14
+			"key": 13
 		},
 		/*=================================================================================*/
 		{
@@ -554,7 +517,7 @@ const d = {
 			"pass": "475869",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=GoubaPmG4zE",
-			"key": 15
+			"key": 14
 		},
 		/*=================================================================================*/
 		{
@@ -579,6 +542,43 @@ const d = {
 			"pass": "597597",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=rwQyyG-ysZ8",
+			"key": 15
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "nng12",
+					"link": "https://www.youtube.com/watch?v=Tpf-aPMNrig",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=TdWgDiFecyU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=HpzPmvSScLI",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "RedLime",
+					"link": "https://www.youtube.com/watch?v=TXNV0_CZB3k",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Blade of Justice",
+			"author": "ZenroiL and more [oSpace]",
+			"more": "ZenroiL, AlexTheGS, Megum, Smajlik, TheAquaZepyr2",
+			"id": 51744070,
+			"pass": "050119",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=ErAgqjsx6ng",
 			"key": 16
 		},
 		/*=================================================================================*/
@@ -623,74 +623,6 @@ const d = {
 			"vids": [
 				{
 					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=_ueDuLZI_7k",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "K4slic",
-					"link": "https://www.youtube.com/watch?v=alktwVpPRKo",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=UUA3HjzCkdw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=j78yTIQ9MrE",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=4F4RrIs1X5A",
-					"percent": 59,
-					"hz": "Mobile"
-				},
-			],
-			"name": "Shitty Audio Expulsion",
-			"author": "Megum and more [Megum]",
-			"more": "Megum, TheAquaZephyr2, Axasion, CorporalPikachu, XanPlayzGamez, Izender, oSpace",
-			"id": 50820782,
-			"pass": "135086",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=F7wDHu9oJCQ",
-			"key": 18
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=9k1x8Lk6DPE",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=8dpCeWVVSpA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty ATMarbl",
-			"author": "Megum and more [Megum]",
-			"more": "Megum, Segone, oSpace, Goddardl, DTDU, xSmajlik and AcropolisBoy",
-			"id": 50619560,
-			"pass": "325698",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=Km_F5aCn874",
-			"key": 19
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
 					"link": "https://www.youtube.com/watch?v=d39pODi8t0E",
 					"percent": 100,
 					"hz": "60hz"
@@ -727,7 +659,106 @@ const d = {
 			"pass": "123456",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=9tvwV-cMfiQ",
+			"key": 18
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=_ueDuLZI_7k",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "K4slic",
+					"link": "https://www.youtube.com/watch?v=alktwVpPRKo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=UUA3HjzCkdw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=j78yTIQ9MrE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=4F4RrIs1X5A",
+					"percent": 59,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Shitty Audio Expulsion",
+			"author": "Megum and more [Megum]",
+			"more": "Megum, TheAquaZephyr2, Axasion, CorporalPikachu, XanPlayzGamez, Izender, oSpace",
+			"id": 50820782,
+			"pass": "135086",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=F7wDHu9oJCQ",
+			"key": 19
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=9k1x8Lk6DPE",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=8dpCeWVVSpA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty ATMarbl",
+			"author": "Megum and more [Megum]",
+			"more": "Megum, Segone, oSpace, Goddardl, DTDU, xSmajlik and AcropolisBoy",
+			"id": 50619560,
+			"pass": "325698",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=Km_F5aCn874",
 			"key": 20
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=4APFIW418OU",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=8635EUNvp98",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "RedLime",
+					"link": "https://www.youtube.com/watch?v=jMzwOP0hiFg",
+					"percent": 91,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Zodiac",
+			"author": "oSpace and more [oSpace]",
+			"more": "oSpace, Deleitor11, Segone, SkullBytes, ShadowNinja441, AcropolisBoy, Goddardl, Megum",
+			"id": 53858796,
+			"pass": "Free copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=roX0W3rS6L8",
+			"key": 21
 		},
 		/*=================================================================================*/
 		{
@@ -764,7 +795,7 @@ const d = {
 			"pass": "120519",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=wnGLzp9gdTY",
-			"key": 21
+			"key": 22
 		},
 		/*=================================================================================*/
 		{
@@ -795,7 +826,7 @@ const d = {
 			"pass": "123666",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=Rdb-z8zRRYM",
-			"key": 22
+			"key": 23
 		},
 		/*=================================================================================*/
 		{
@@ -809,7 +840,7 @@ const d = {
 			"pass": "Free copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=4ROpnxh1nZU",
-			"key": 23
+			"key": 24
 		},
 		/*=================================================================================*/
 		{
@@ -834,37 +865,6 @@ const d = {
 			"pass": "100511",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=wl69pSw4vb4",
-			"key": 24
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=4APFIW418OU",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=8635EUNvp98",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "RedLime",
-					"link": "https://www.youtube.com/watch?v=jMzwOP0hiFg",
-					"percent": 91,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Zodiac",
-			"author": "oSpace and more [oSpace]",
-			"more": "oSpace, Deleitor11, Segone, SkullBytes, ShadowNinja441, AcropolisBoy, Goddardl, Megum",
-			"id": 53858796,
-			"pass": "Free copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=roX0W3rS6L8",
 			"key": 25
 		},
 		/*=================================================================================*/
@@ -947,30 +947,30 @@ const d = {
 			"vids": [
 				{
 					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=SMyNH9jDG_g",
+					"link": "https://www.youtube.com/watch?v=pvlGMF32SJ0",
 					"percent": 100,
 					"hz": "60hz"
 				},
 				{
 					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=YzTgYuNijV4",
+					"link": "https://www.youtube.com/watch?v=3OpK9X2r37M",
 					"percent": 100,
 					"hz": "144hz"
 				},
 				{
 					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=9jUVRoNaq0g",
-					"percent": 95,
+					"link": "https://www.youtube.com/watch?v=bq0qw8vdGmU",
+					"percent": 90,
 					"hz": "Mobile"
 				},
 			],
-			"name": "Shitty Dark flare",
-			"author": "Megum and more [Megum]",
-			"more": "Megum, ItzDevGD, Goddardl, ShadowNinja441, Kevinacho18, Miini03, AcropolisBoy, Keleru",
-			"id": 55205684,
-			"pass": "201920",
+			"name": "Shitty Visible Ray",
+			"author": "Megum and more [AlexTheGS33]",
+			"more": "Megum, Segone, AlexTheGS33, Goddardl, SkullBytes, ShadowNinja441, ShuvonIslam777, Zenriol",
+			"id": 55174871,
+			"pass": "042019",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=R0A0khSiIsw",
+			"verificationVid": "https://www.youtube.com/watch?v=6JYh8vNm-EA",
 			"key": 29
 		},
 		/*=================================================================================*/
@@ -997,31 +997,45 @@ const d = {
 			"vids": [
 				{
 					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=pvlGMF32SJ0",
+					"link": "https://www.youtube.com/watch?v=SMyNH9jDG_g",
 					"percent": 100,
 					"hz": "60hz"
 				},
 				{
 					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=3OpK9X2r37M",
+					"link": "https://www.youtube.com/watch?v=YzTgYuNijV4",
 					"percent": 100,
 					"hz": "144hz"
 				},
 				{
 					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=bq0qw8vdGmU",
-					"percent": 90,
+					"link": "https://www.youtube.com/watch?v=9jUVRoNaq0g",
+					"percent": 95,
 					"hz": "Mobile"
 				},
 			],
-			"name": "Shitty Visible Ray",
-			"author": "Megum and more [AlexTheGS33]",
-			"more": "Megum, Segone, AlexTheGS33, Goddardl, SkullBytes, ShadowNinja441, ShuvonIslam777, Zenriol",
-			"id": 55174871,
-			"pass": "042019",
+			"name": "Shitty Dark flare",
+			"author": "Megum and more [Megum]",
+			"more": "Megum, ItzDevGD, Goddardl, ShadowNinja441, Kevinacho18, Miini03, AcropolisBoy, Keleru",
+			"id": 55205684,
+			"pass": "201920",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=6JYh8vNm-EA",
+			"verificationVid": "https://www.youtube.com/watch?v=R0A0khSiIsw",
 			"key": 31
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+
+			],
+			"name": "Shitty The Hell Field",
+			"author": "AcropolisBoy",
+			"more": "",
+			"id": 55476442,
+			"pass": "000006",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=none",
+			"key": 32
 		},
 		/*=================================================================================*/
 		{
@@ -1046,7 +1060,7 @@ const d = {
 			"pass": "668111",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=nZuDdnlN-X4",
-			"key": 32
+			"key": 33
 		},
 		/*=================================================================================*/
 		{
@@ -1071,7 +1085,7 @@ const d = {
 			"pass": "300419",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=maJcSIR-SLU",
-			"key": 33
+			"key": 34
 		},
 		/*=================================================================================*/
 		{
@@ -1096,37 +1110,6 @@ const d = {
 			"pass": "606066",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=oS9og0z7wB8",
-			"key": 34
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=bE8K3NF8hcE",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=b4JGybtbkZg",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "RedLime",
-					"link": "https://www.youtube.com/watch?v=yp1DTGc0yFE",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Stalemate Redux",
-			"author": "Segone",
-			"more": "",
-			"id": 42424706,
-			"pass": "956956",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=_Fp3WWjksMM",
 			"key": 35
 		},
 		/*=================================================================================*/
@@ -1178,24 +1161,30 @@ const d = {
 			"vids": [
 				{
 					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=HsqJaezCiuE",
+					"link": "https://www.youtube.com/watch?v=bE8K3NF8hcE",
 					"percent": 100,
 					"hz": "60hz"
 				},
 				{
 					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=0YBXzcjlfaE",
+					"link": "https://www.youtube.com/watch?v=b4JGybtbkZg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "RedLime",
+					"link": "https://www.youtube.com/watch?v=yp1DTGc0yFE",
 					"percent": 100,
 					"hz": "144hz"
 				},
 			],
-			"name": "Shitty Phobos",
-			"author": "RealOptagonus",
+			"name": "Shitty Stalemate Redux",
+			"author": "Segone",
 			"more": "",
-			"id": 20319038,
-			"pass": "Not Allow copy",
+			"id": 42424706,
+			"pass": "956956",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=yDoBh6f-gL8",
+			"verificationVid": "https://www.youtube.com/watch?v=_Fp3WWjksMM",
 			"key": 38
 		},
 		/*=================================================================================*/
@@ -1216,6 +1205,31 @@ const d = {
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=w5XZEuVxwTg",
 			"key": 39
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=HsqJaezCiuE",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=0YBXzcjlfaE",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Phobos",
+			"author": "RealOptagonus",
+			"more": "",
+			"id": 20319038,
+			"pass": "Not Allow copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=yDoBh6f-gL8",
+			"key": 40
 		},
 		/*=================================================================================*/
 		{
@@ -1246,7 +1260,7 @@ const d = {
 			"pass": "Not Allow copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=7Bx622QDmN4",
-			"key": 40
+			"key": 41
 		},
 		/*=================================================================================*/
 		{
@@ -1283,37 +1297,6 @@ const d = {
 			"pass": "777777",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=9U5JKYwbIRs",
-			"key": 41
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=XnA8gmTO040",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=YO2eQtLRnkI",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "SherYn",
-					"link": "https://www.youtube.com/watch?v=DtXe6AGLYkY",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-			],
-			"name": "Shitty Cadrega Mode",
-			"author": "ShittyStorm",
-			"more": "",
-			"id": 54444622,
-			"pass": "753951",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=0G4wM1J6l-g",
 			"key": 42
 		},
 		/*=================================================================================*/
@@ -1346,75 +1329,6 @@ const d = {
 			"vids": [
 				{
 					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=oL-gAg5RUSo",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=Y0nKuWsFVaY",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Theory of Alchemy",
-			"author": "Megum",
-			"more": "",
-			"id": 44316721,
-			"pass": "Free copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=sXlylJu_K-0",
-			"key": 44
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=DjtBUkBDmxg",
-					"percent": 100,
-					"hz": "60hz"
-				},
-			],
-			"name": "Shitty Subsonic",
-			"author": "Goddardl and more [Goddardl]",
-			"more": "Megum, Segone, AlexTheGS33, TheAquaZephyr2, Goddardl, Temple, Woris367CZ",
-			"id": 51263628,
-			"pass": "555666",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=fcL-IZbS_BA",
-			"key": 45
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=yF8oHw54dA4",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=eMVKSsq8yOo",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Team Z",
-			"author": "Megum",
-			"more": "",
-			"id": 44803429,
-			"pass": "Not allow copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=mFQO0Xnc4Vc",
-			"key": 46
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
 					"link": "https://www.youtube.com/watch?v=LH5u4lMmCJQ",
 					"percent": 100,
 					"hz": "60hz"
@@ -1439,7 +1353,107 @@ const d = {
 			"pass": "167349",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=bUz7ePRVGAk",
+			"key": 44
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=oL-gAg5RUSo",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=Y0nKuWsFVaY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Theory of Alchemy",
+			"author": "Megum",
+			"more": "",
+			"id": 44316721,
+			"pass": "Free copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=sXlylJu_K-0",
+			"key": 45
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=XnA8gmTO040",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=YO2eQtLRnkI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "SherYn",
+					"link": "https://www.youtube.com/watch?v=DtXe6AGLYkY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Shitty Cadrega Mode",
+			"author": "ShittyStorm",
+			"more": "",
+			"id": 54444622,
+			"pass": "753951",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=0G4wM1J6l-g",
+			"key": 46
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=DjtBUkBDmxg",
+					"percent": 100,
+					"hz": "60hz"
+				},
+			],
+			"name": "Shitty Subsonic",
+			"author": "Goddardl and more [Goddardl]",
+			"more": "Megum, Segone, AlexTheGS33, TheAquaZephyr2, Goddardl, Temple, Woris367CZ",
+			"id": 51263628,
+			"pass": "555666",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=fcL-IZbS_BA",
 			"key": 47
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=yF8oHw54dA4",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=eMVKSsq8yOo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Team Z",
+			"author": "Megum",
+			"more": "",
+			"id": 44803429,
+			"pass": "Not allow copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=mFQO0Xnc4Vc",
+			"key": 48
 		},
 		/*=================================================================================*/
 		{
@@ -1470,7 +1484,7 @@ const d = {
 			"pass": "767676",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=Xqjz3ReDHa0",
-			"key": 48
+			"key": 49
 		},
 		/*=================================================================================*/
 		{
@@ -1507,7 +1521,7 @@ const d = {
 			"pass": "023689",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=g-NAgrh8XXI",
-			"key": 49
+			"legacyKey": 15
 		},
 		/*=================================================================================*/
 		{
