@@ -195,7 +195,7 @@ const d = {
 			"id": 55367155,
 			"pass": "001006",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=qP0v6diamBM",
+			"verificationVid": "https://www.youtube.com/watch?v=g4rutNG7Drs",
 			"key": 5
 		},
 		/*=================================================================================*/
@@ -770,6 +770,20 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				
+			],
+			"name": "Shitty Unearthed",
+			"author": "TheNatanaelGD",
+			"more": "none",
+			"id": 56109504,
+			"pass": "Free copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=4ROpnxh1nZU",
+			"key": 23
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
 				{
 					"user": "By Player",
 					"link": "https://www.youtube.com/watch?v=bjMpP7tRMDk",
@@ -790,7 +804,7 @@ const d = {
 			"pass": "100511",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=wl69pSw4vb4",
-			"key": 23
+			"key": 24
 		},
 		/*=================================================================================*/
 		{
@@ -815,7 +829,7 @@ const d = {
 			"pass": "Free copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=roX0W3rS6L8",
-			"key": 24
+			"key": 25
 		},
 		/*=================================================================================*/
 		{
@@ -840,7 +854,7 @@ const d = {
 			"pass": "910910",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6zu6AoKYLfU",
-			"key": 25
+			"key": 26
 		},
 		/*=================================================================================*/
 		{
@@ -865,7 +879,7 @@ const d = {
 			"pass": "159357",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=ZEtcNuuW8Ys",
-			"key": 26
+			"key": 27
 		},
 		/*=================================================================================*/
 		{
@@ -890,7 +904,7 @@ const d = {
 			"pass": "789321",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=1R_6CLeZ7NU",
-			"key": 27
+			"key": 28
 		},
 		/*=================================================================================*/
 		{
@@ -921,7 +935,21 @@ const d = {
 			"pass": "201920",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=R0A0khSiIsw",
-			"key": 28
+			"key": 29
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Awakening Horus",
+			"author": "oSpace and Megum [oSpace]",
+			"more": "Megum, ItzDevGD, Goddardl, ShadowNinja441, Kevinacho18, Miini03, AcropolisBoy, Keleru",
+			"id": 54447236,
+			"pass": "090319",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=URC9IuVbT7Q",
+			"key": 30
 		},
 		/*=================================================================================*/
 		{
@@ -952,7 +980,7 @@ const d = {
 			"pass": "042019",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6JYh8vNm-EA",
-			"key": 29
+			"key": 31
 		},
 		/*=================================================================================*/
 		{
@@ -977,7 +1005,7 @@ const d = {
 			"pass": "668111",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=nZuDdnlN-X4",
-			"key": 30
+			"key": 32
 		},
 		/*=================================================================================*/
 		{
@@ -1002,7 +1030,7 @@ const d = {
 			"pass": "300419",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=maJcSIR-SLU",
-			"key": 31
+			"key": 33
 		},
 		/*=================================================================================*/
 		{
@@ -1027,7 +1055,7 @@ const d = {
 			"pass": "606066",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=oS9og0z7wB8",
-			"key": 32
+			"key": 34
 		},
 		/*=================================================================================*/
 		{
@@ -1058,7 +1086,7 @@ const d = {
 			"pass": "956956",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=_Fp3WWjksMM",
-			"key": 33
+			"key": 35
 		},
 		/*=================================================================================*/
 		{
@@ -1083,7 +1111,21 @@ const d = {
 			"pass": "000450",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=none",
-			"key": 34
+			"key": 36
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+
+			],
+			"name": "Shitty Spectral Tentation",
+			"author": "GDStarStorm and more [GDStarStorm]",
+			"more": "GDStarStorm, FKaDeR, ColdBlast, Heizen, Hotdog71, Shadowninja441, Itzshuvon, SalsinhAAA",
+			"id": 56188276,
+			"pass": "835532",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=0jfz-7-Z3vA",
+			"key": 37
 		},
 		/*=================================================================================*/
 		{
@@ -1108,7 +1150,20 @@ const d = {
 			"pass": "Not Allow copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=yDoBh6f-gL8",
-			"key": 35
+			"key": 38
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Titan Complex",
+			"author": "ShadowNinja441",
+			"more": "",
+			"id": 56161135,
+			"pass": "121221",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=w5XZEuVxwTg",
+			"key": 39
 		},
 		/*=================================================================================*/
 		{
@@ -1139,7 +1194,7 @@ const d = {
 			"pass": "Not Allow copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=7Bx622QDmN4",
-			"key": 36
+			"key": 40
 		},
 		/*=================================================================================*/
 		{
@@ -1176,7 +1231,7 @@ const d = {
 			"pass": "777777",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=9U5JKYwbIRs",
-			"key": 37
+			"key": 41
 		},
 		/*=================================================================================*/
 		{
@@ -1207,7 +1262,7 @@ const d = {
 			"pass": "753951",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=0G4wM1J6l-g",
-			"key": 38
+			"key": 42
 		},
 		/*=================================================================================*/
 		{
@@ -1232,7 +1287,7 @@ const d = {
 			"pass": "145893",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=GJFF5ROZrY4",
-			"key": 39
+			"key": 43
 		},
 		/*=================================================================================*/
 		{
@@ -1257,7 +1312,21 @@ const d = {
 			"pass": "Free copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=sXlylJu_K-0",
-			"key": 40
+			"key": 44
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				
+			],
+			"name": "Shitty Subsonic",
+			"author": "Goddardl and more [Goddardl]",
+			"more": "Megum, Segone, AlexTheGS33, TheAquaZephyr2, Goddardl, Temple, Woris367CZ",
+			"id": 51263628,
+			"pass": "555666",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=fcL-IZbS_BA",
+			"key": 45
 		},
 		/*=================================================================================*/
 		{
@@ -1282,7 +1351,7 @@ const d = {
 			"pass": "Not allow copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=mFQO0Xnc4Vc",
-			"key": 41
+			"key": 46
 		},
 		/*=================================================================================*/
 		{
@@ -1313,7 +1382,7 @@ const d = {
 			"pass": "167349",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=bUz7ePRVGAk",
-			"key": 42
+			"key": 47
 		},
 		/*=================================================================================*/
 		{
@@ -1344,7 +1413,7 @@ const d = {
 			"pass": "767676",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=Xqjz3ReDHa0",
-			"key": 43
+			"key": 48
 		},
 		/*=================================================================================*/
 		{
@@ -1381,7 +1450,7 @@ const d = {
 			"pass": "023689",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=g-NAgrh8XXI",
-			"key": 44
+			"key": 49
 		},
 		/*=================================================================================*/
 		{
@@ -1406,7 +1475,7 @@ const d = {
 			"pass": "805353",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=zy_ffRfA4Y4",
-			"key": 45
+			"legacyKey": 14
 		},
 		/*=================================================================================*/
 		{
@@ -1437,7 +1506,7 @@ const d = {
 			"pass": "258046",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=0No9zvaqtsU",
-			"key": 46
+			"legacyKey": 13
 		},
 		/*=================================================================================*/
 		{
@@ -1474,7 +1543,7 @@ const d = {
 			"pass": "083003",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=tiEkO120tlc",
-			"key": 47
+			"legacyKey": 12
 		},
 		/*=================================================================================*/
 		{
@@ -1523,7 +1592,7 @@ const d = {
 			"pass": "456654",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=-Kfb7zk5u6s",
-			"key": 48
+			"legacyKey": 11
 		},
 		/*=================================================================================*/
 		{
@@ -1560,7 +1629,7 @@ const d = {
 			"pass": "656656",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=WmH9o17MVX4",
-			"key": 49
+			"legacyKey": 10
 		},
 		/*=================================================================================*/
 		{
