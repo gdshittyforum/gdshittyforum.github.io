@@ -209,6 +209,8 @@
     for (var i = 0; i < rank_data.length; i++) {
         rank_data[i].point = roundNumber(rank_data[i].point, 3);
     }
+
+    rank_data = userList();
     var rank = `<ol>`;
     for (var i = 0; i < rank_data.length; i++) {
         sc = `getUserData(${i})`;
