@@ -88,9 +88,9 @@ function getUserData(user) {
     var progresses = '<ol>'; var clears = 0;
 
     for (var i = 0 ; i < user_data[user].verified.length ; i++) {
-        rank = user_data[user].verified[i];
+        rank = user_data[user].verified[i] - 1;
         clears++;
-        progresses = progresses + '<li>' + list[rank-1].name + ' Verified </strong>(#'+rank+' / UP: '+getUserPoint(i, 100, list[rank].percentToQualify, "144hz")+')<strong></a></li>'
+        progresses = progresses + '<li>' + list[rank].name + ' Verified </strong>(#'+(rank+1)+' / UP: '+roundNumber(getUserPoint(i+1, 100, list[rank].percentToQualify, "144hz")*1.5, 3)+')<strong></a></li>'
     }
 
     for (var i = 0 ; i < user_data[user].progress.length ; i++) {
