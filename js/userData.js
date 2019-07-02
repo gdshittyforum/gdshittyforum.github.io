@@ -90,7 +90,7 @@ function getUserData(user) {
     for (var i = 0 ; i < user_data[user].verified.length ; i++) {
         rank = user_data[user].verified[i];
         clears++;
-        progresses = progresses + '<li>' + list[rank-1].name + ' Verified </strong>(#'+rank+' / UP: '+getUserPoint(i+1, 100, list[rank].percentToQualify, "144hz")+')<strong></a></li>'
+        progresses = progresses + '<li>' + list[rank-1].name + ' Verified </strong>(#'+rank+' / UP: '+getUserPoint(i, 100, list[rank].percentToQualify, "144hz")+')<strong></a></li>'
     }
 
     for (var i = 0 ; i < user_data[user].progress.length ; i++) {
