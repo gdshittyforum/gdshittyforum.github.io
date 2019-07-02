@@ -255,6 +255,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Eafan0",
+					"link": "https://www.youtube.com/watch?v=RDB2JsWFfto",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Requiem",
 			"author": "MiiNi03",
@@ -353,6 +359,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=KNLpcsm0wSs",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Redcraft",
+					"link": "https://www.youtube.com/watch?v=rTXI5cZauIU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Paroxysm",
@@ -496,6 +508,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "TherealTundra",
+					"link": "https://www.youtube.com/watch?v=MUYXQ7NJqm4",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "GDStarStorm",
+					"link": "https://www.youtube.com/watch?v=D8wgEX9Lvpk",
+					"percent": 59,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -583,6 +607,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Redcraft",
+					"link": "https://www.youtube.com/watch?v=_2DYd0vAVh8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "ZenroiL and more [oSpace]",
@@ -616,8 +646,8 @@ const d = {
 				},
 				{
 					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=fn-DZ-7rckw",
-					"percent": 69,
+					"link": "https://www.youtube.com/watch?v=h15Lj-J535E",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 			],
@@ -656,6 +686,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=AjOxeETMAIw",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Reoode",
+					"link": "https://www.youtube.com/watch?v=hXFkF-AMXQ0",
+					"percent": 100,
+					"hz": "144hz"
 				},
 				{
 					"user": "BlastSplash",
@@ -763,6 +799,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "Therealtundra",
+					"link": "https://www.youtube.com/watch?v=xVuWDt4QCJQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
 					"user": "RedLime",
 					"link": "https://www.youtube.com/watch?v=jMzwOP0hiFg",
 					"percent": 91,
@@ -831,9 +873,15 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "Reoode",
+					"link": "https://www.youtube.com/watch?v=KiXB3zb5100",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=fn-DZ-7rckw",
-					"percent": 69,
+					"link": "https://www.youtube.com/watch?v=ezkYJk5NUlY",
+					"percent": 71,
 					"hz": "Mobile"
 				},
 			],
@@ -1000,7 +1048,7 @@ const d = {
 				},
 			],
 			"name": "Shitty Visible Ray",
-			"author": "Megum and more [AlexTheGS33]",
+			"author": "Megum and more [Megum]",
 			"more": "Megum, Segone, AlexTheGS33, Goddardl, SkullBytes, ShadowNinja441, ShuvonIslam777, Zenriol",
 			"id": 55174871,
 			"pass": "042019",
@@ -1279,7 +1327,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=0-A80AbvTb0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Ultimate Phase",
 			"author": "TheNatanaelGD",
@@ -1490,6 +1543,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=DtXe6AGLYkY",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=2GKB_2UNS1Y",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Cadrega Mode",

@@ -17,7 +17,7 @@ function userList() {
             }
         }
     
-        var p = getUserPoint(i+1, 100, entry.percentToQualify, "144hz");
+        var p = roundNumber(getUserPoint(i+1, 100, entry.percentToQualify, "144hz") * 1.5, 3);
         if (checkVerify == true) {
             for (var b = 0 ; b < user_data.length ; b++) {
                 var user_name = user_data[b].name.toUpperCase(); var data_name = verifier.toUpperCase();
@@ -90,7 +90,7 @@ function getUserData(user) {
     for (var i = 0 ; i < user_data[user].verified.length ; i++) {
         rank = user_data[user].verified[i];
         clears++;
-        progresses = progresses + '<li>' + list[rank].name + ' Verified </strong>(#'+rank+' / UP: '+getUserPoint(i+1, 100, list[rank].percentToQualify, "144hz")+')<strong></a></li>'
+        progresses = progresses + '<li>' + list[rank-1].name + ' Verified </strong>(#'+rank+' / UP: '+getUserPoint(i+1, 100, list[rank].percentToQualify, "144hz")+')<strong></a></li>'
     }
 
     for (var i = 0 ; i < user_data[user].progress.length ; i++) {
