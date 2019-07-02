@@ -545,6 +545,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Xanplayzgamez",
+					"link": "https://www.youtube.com/watch?v=r7lxF-rTijg",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Singularity",
 			"author": "Megum",
@@ -847,6 +853,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "AlphaXIV",
+					"link": "https://www.youtube.com/watch?v=S7mpwtpbLA4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Atmosphere",
 			"author": "Megum",
@@ -1124,6 +1136,12 @@ const d = {
 				{
 					"user": "LJosh",
 					"link": "https://www.youtube.com/watch?v=8pbz9JNibd0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=C28Wix2qC8s",
 					"percent": 100,
 					"hz": "144hz"
 				},
