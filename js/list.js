@@ -366,6 +366,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=GCBDN97J-fs",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -516,8 +522,14 @@ const d = {
 				},
 				{
 					"user": "GDStarStorm",
-					"link": "https://www.youtube.com/watch?v=D8wgEX9Lvpk",
-					"percent": 59,
+					"link": "https://www.youtube.com/watch?v=CDIK_kXNEYI",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=bQvA6BGBoGk",
+					"percent": 100,
 					"hz": "60hz"
 				},
 			],
@@ -855,7 +867,7 @@ const d = {
 				},
 				{
 					"user": "AlphaXIV",
-					"link": "https://www.youtube.com/watch?v=S7mpwtpbLA4",
+					"link": "https://www.youtube.com/watch?v=aXCzRzSjwtQ",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -1350,6 +1362,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=0-A80AbvTb0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=JZtb8rxSFUQ",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty The Ultimate Phase",
