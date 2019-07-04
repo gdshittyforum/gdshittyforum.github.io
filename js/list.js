@@ -668,6 +668,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=QmKeRArue24",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Factory Realm X",
 			"author": "Megum",
@@ -1157,6 +1163,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=NFxkEflXrkQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty The Hell Field",
 			"author": "AcropolisBoy",
@@ -1586,6 +1598,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=faumbmwrIjA",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty Cadrega Mode",
 			"author": "ShittyStorm",
@@ -1908,6 +1926,18 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=PJRtXMaaAvc",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=FW7HQhenO9A",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -1933,6 +1963,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=C_oOo7b56BU",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Mystic",
 			"author": "Megum",
@@ -1946,6 +1982,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=KkLGTBXAwfg",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty AAAAAAAAAAAAAAAAAAAA",
 			"author": "Megum",
@@ -1959,6 +2001,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=DxMX2vg3J_o",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=NO8_M9azQSk",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Deception Dive",
 			"author": "Segone and more [Segone]",
@@ -1978,6 +2032,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=EUt5TieX1z0",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=na2N7J0Rue8",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Breakout Redux",
 			"author": "Megum",
@@ -1993,7 +2059,7 @@ const d = {
 			"vids": [
 				{
 					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=jksjz-kQ5-U",
+					"link": "https://www.youtube.com/watch?v=od89kP9kdJE",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -2010,6 +2076,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=cnIYd9LhdS4",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Night Party",
 			"author": "Megum",
@@ -2059,6 +2131,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=51hui555bHM",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=yuCslMsUA68",
+					"percent": 100,
+					"hz": "75hz"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=WGWOmKYXhKQ",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Heat Wave",
