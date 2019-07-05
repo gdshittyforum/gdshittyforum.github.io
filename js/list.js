@@ -28,6 +28,18 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=0D_9ncwADSU",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Revitin",
+					"link": "https://www.youtube.com/watch?v=YIQrKVzP0yQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "Sleynt",
 					"link": "https://www.youtube.com/watch?v=kNvBpOfXoMc",
 					"percent": 80,
@@ -100,6 +112,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=0JWdFZhIKNI",
 					"percent": 95,
 					"hz": "Mobile"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=o7axDA8040c",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Missing Benefits",
@@ -532,6 +550,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Bluescore07",
+					"link": "https://www.youtube.com/watch?v=eqE8lVnfRCk",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -674,6 +698,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "Rapter14",
+					"link": "https://www.youtube.com/watch?v=GradG_bLXvY",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Factory Realm X",
 			"author": "Megum",
@@ -714,6 +744,12 @@ const d = {
 				{
 					"user": "Reoode",
 					"link": "https://www.youtube.com/watch?v=hXFkF-AMXQ0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Revitin",
+					"link": "https://www.youtube.com/watch?v=WeBAzd7-8g0",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -1219,6 +1255,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SKY GD",
+					"link": "https://www.youtube.com/watch?v=chYLzgs0g0Q",
+					"percent": 68,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Ancestral calamity",
 			"author": "oSpace and more [oSpace]",
@@ -1629,6 +1671,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=fcL-IZbS_BA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Subsonic",
 			"author": "Goddardl and more [Goddardl]",
@@ -2013,6 +2061,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "TheRealTundra",
+					"link": "https://www.youtube.com/watch?v=pEPrnBmJ-r8",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Deception Dive",
 			"author": "Segone and more [Segone]",
@@ -2041,6 +2095,12 @@ const d = {
 				{
 					"user": "By Player",
 					"link": "https://www.youtube.com/watch?v=na2N7J0Rue8",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "TheRealTundra",
+					"link": "https://www.youtube.com/watch?v=Bc2MbAqbYnQ",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -2098,6 +2158,12 @@ const d = {
 				{
 					"user": "Itz Noob",
 					"link": "https://www.youtube.com/watch?v=etgup1t2ttQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=esb2EbTBso4",
 					"percent": 100,
 					"hz": "Mobile"
 				},
