@@ -40,6 +40,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "RedLime",
+					"link": "https://www.youtube.com/watch?v=MHad9fp25GA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "Sleynt",
 					"link": "https://www.youtube.com/watch?v=kNvBpOfXoMc",
 					"percent": 80,
@@ -67,6 +73,12 @@ const d = {
 				{
 					"user": "LJosh",
 					"link": "https://www.youtube.com/watch?v=DBXQUmF9bOA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=QFZPew7V1AU",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -108,16 +120,28 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=o7axDA8040c",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=60bIjazYhA8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "AlphaXIV",
 					"link": "https://www.youtube.com/watch?v=0JWdFZhIKNI",
 					"percent": 95,
 					"hz": "Mobile"
 				},
 				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=o7axDA8040c",
-					"percent": 100,
-					"hz": "60hz"
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=dM0Y2NHEF-E",
+					"percent": 58,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Missing Benefits",
@@ -213,6 +237,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "Reoode",
+					"link": "https://www.youtube.com/watch?v=fqOOnDLwI2A",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "SKY",
 					"link": "https://www.youtube.com/watch?v=p0Agg6bxPoI",
 					"percent": 61,
@@ -279,6 +309,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Darky",
+					"link": "https://www.youtube.com/watch?v=lE1hcr13Rx8",
+					"percent": 65,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Requiem",
 			"author": "MiiNi03",
@@ -328,6 +364,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=f8HQ1T1HmXs",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=ypsi4JIjo40",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Step To Hell",
@@ -412,6 +454,12 @@ const d = {
 				{
 					"user": "By Player",
 					"link": "https://www.youtube.com/watch?v=RoDb7kwq0iM",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=ESrhUZIllXY",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -556,6 +604,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "fgkaetvcb",
+					"link": "https://www.youtube.com/watch?v=9aoMDoRNdc0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -586,6 +640,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=r7lxF-rTijg",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=vlBls0jJ8vQ",
+					"percent": 100,
+					"hz": "75hz"
 				},
 			],
 			"name": "Shitty Singularity",
@@ -655,6 +715,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=q-P4ybSLZP4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "ZenroiL and more [oSpace]",
@@ -704,8 +770,14 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=0Vqf1Cet2vg",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
-			"name": "Factory Realm X",
+			"name": "Shitty Factory Realm X",
 			"author": "Megum",
 			"more": "none",
 			"id": 48073424,
@@ -752,6 +824,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=WeBAzd7-8g0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "AlphaXIV",
+					"link": "https://www.youtube.com/watch?v=ouaivqK3c2Y",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=22fbKV3kWMk",
+					"percent": 100,
+					"hz": "75hz"
 				},
 				{
 					"user": "BlastSplash",
@@ -865,9 +949,27 @@ const d = {
 					"hz": "60hz"
 				},
 				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=lFD9lHR562E",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=9oajSgzkrD4",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "EpsilonP",
+					"link": "https://www.youtube.com/watch?v=X3NUQguAvyM",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
 					"user": "RedLime",
-					"link": "https://www.youtube.com/watch?v=jMzwOP0hiFg",
-					"percent": 91,
+					"link": "https://www.youtube.com/watch?v=Xum0DxMPE7s",
+					"percent": 100,
 					"hz": "144hz"
 				},
 			],
@@ -943,6 +1045,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=KiXB3zb5100",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=Rdb-z8zRRYM",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 				{
 					"user": "SKY",
@@ -1143,6 +1251,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=irwPkK6x9Mg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -1167,6 +1281,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=YzTgYuNijV4",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TheRealTundra",
+					"link": "https://www.youtube.com/watch?v=Swlrvt18rSQ",
+					"percent": 100,
+					"hz": "60hz"
 				},
 				{
 					"user": "SKY",
@@ -1204,6 +1324,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=NFxkEflXrkQ",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=ZVATmwuIiIA",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "RedLime",
+					"link": "https://www.youtube.com/watch?v=Esu1CrLSRJg",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty The Hell Field",
@@ -1254,6 +1386,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=ux6ghKMRpI4",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=maJcSIR-SLU",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 				{
 					"user": "SKY GD",
@@ -1373,6 +1511,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "xBreadking06",
+					"link": "https://www.youtube.com/watch?v=bZQHZ71tO00",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "Segone",
@@ -1397,6 +1541,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=OTuxvv3_ER",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=ZRgFMGh9FrQ",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Titan Complex",
@@ -1480,6 +1630,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=0Vqf1Cet2vg",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
 					"user": "SKY",
 					"link": "https://www.youtube.com/watch?v=MKCV21XmqZA&feature=youtu.be",
 					"percent": 61,
@@ -1520,6 +1676,12 @@ const d = {
 					"user": "SKY",
 					"link": "https://www.youtube.com/watch?v=a_bc1abr35E",
 					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Darky",
+					"link": "https://www.youtube.com/watch?v=QLy4TeV9Jq8",
+					"percent": 85,
 					"hz": "Mobile"
 				},
 			],
@@ -1795,6 +1957,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=zy_ffRfA4Y4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Demonicat",
 			"author": "AcropolisBoy and more [AcropolisBoy]",
@@ -1825,6 +1993,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=rHxWFkjryV4",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Darky",
+					"link": "https://www.youtube.com/watch?v=g-NUI4omYLQ",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Spacial Rend",
@@ -2067,6 +2241,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=HVloRq0mCVM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Deception Dive",
 			"author": "Segone and more [Segone]",
@@ -2164,6 +2344,12 @@ const d = {
 				{
 					"user": "XanPlayzGamez",
 					"link": "https://www.youtube.com/watch?v=esb2EbTBso4",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=YkGrbj0vucY",
 					"percent": 100,
 					"hz": "Mobile"
 				},
