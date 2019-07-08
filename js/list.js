@@ -132,6 +132,18 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=QujrmwBzIjk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "K4slic",
+					"link": "https://www.youtube.com/watch?v=0ugMfZOT5DQ",
+					"percent": 98,
+					"hz": "Mobile"
+				},
+				{
 					"user": "AlphaXIV",
 					"link": "https://www.youtube.com/watch?v=0JWdFZhIKNI",
 					"percent": 95,
@@ -173,6 +185,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=1ealv5WuZ_4",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=pdm9nbFmIIM",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Ragnarok",
@@ -371,6 +389,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Revitin",
+					"link": "https://www.youtube.com/watch?v=6lFbtqgAQAA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Step To Hell",
 			"author": "oSpace and more [oSpace]",
@@ -432,6 +456,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Revitin",
+					"link": "https://www.youtube.com/watch?v=UrKpWk7bhcc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -462,6 +492,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=ESrhUZIllXY",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Reoode",
+					"link": "https://www.youtube.com/watch?v=_2ktji79MzA",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Bloodbath",
@@ -1290,8 +1326,8 @@ const d = {
 				},
 				{
 					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=9jUVRoNaq0g",
-					"percent": 95,
+					"link": "https://www.youtube.com/watch?v=rRgGTxxN-Y0",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 			],
@@ -1424,6 +1460,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=h_xLkxZBHmg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty God Eater",
 			"author": "AcropolisBoy",
@@ -1470,31 +1512,6 @@ const d = {
 			"vids": [
 				{
 					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=0jfz-7-Z3vA",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=ZEgwr-9FSE8",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Spectral Tentation",
-			"author": "GDStarStorm and more [GDStarStorm]",
-			"more": "GDStarStorm, FKaDeR, ColdBlast, Heizen, Hotdog71, Shadowninja441, Itzshuvon, SalsinhAAA",
-			"id": 56188276,
-			"pass": "835532",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=0jfz-7-Z3vA",
-			"key": 37
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
 					"link": "https://www.youtube.com/watch?v=bE8K3NF8hcE",
 					"percent": 100,
 					"hz": "60hz"
@@ -1517,6 +1534,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=Rmx2f1h8I8w",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "Segone",
@@ -1525,7 +1548,45 @@ const d = {
 			"pass": "956956",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=_Fp3WWjksMM",
+			"key": 37
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=0jfz-7-Z3vA",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=ZEgwr-9FSE8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Spectral Tentation",
+			"author": "GDStarStorm and more [GDStarStorm]",
+			"more": "GDStarStorm, FKaDeR, ColdBlast, Heizen, Hotdog71, Shadowninja441, Itzshuvon, SalsinhAAA",
+			"id": 56188276,
+			"pass": "835532",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=0jfz-7-Z3vA",
 			"key": 38
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Volume",
+			"author": "Depressionate7",
+			"more": "",
+			"id": 56260028,
+			"pass": "042401",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=none",
+			"key": 39
 		},
 		/*=================================================================================*/
 		{
@@ -1556,7 +1617,7 @@ const d = {
 			"pass": "121221",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=w5XZEuVxwTg",
-			"key": 39
+			"key": 40
 		},
 		/*=================================================================================*/
 		{
@@ -1581,7 +1642,7 @@ const d = {
 			"pass": "180806",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=34oA3QehRus",
-			"key": 40
+			"key": 41
 		},
 		/*=================================================================================*/
 		{
@@ -1606,7 +1667,7 @@ const d = {
 			"pass": "Not Allow copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=yDoBh6f-gL8",
-			"key": 41
+			"key": 42
 		},
 		/*=================================================================================*/
 		{
@@ -1637,8 +1698,8 @@ const d = {
 				},
 				{
 					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=MKCV21XmqZA&feature=youtu.be",
-					"percent": 61,
+					"link": "https://www.youtube.com/watch?v=WxN2K9V26uE",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 			],
@@ -1649,7 +1710,7 @@ const d = {
 			"pass": "Not Allow copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=7Bx622QDmN4",
-			"key": 42
+			"key": 43
 		},
 		/*=================================================================================*/
 		{
@@ -1692,31 +1753,6 @@ const d = {
 			"pass": "777777",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=9U5JKYwbIRs",
-			"key": 43
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=cmY5dWNZepw",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=i8GfllLPlms",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Aurora",
-			"author": "Megum",
-			"more": "",
-			"id": 51368376,
-			"pass": "145893",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=GJFF5ROZrY4",
 			"key": 44
 		},
 		/*=================================================================================*/
@@ -1749,31 +1785,6 @@ const d = {
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=bUz7ePRVGAk",
 			"key": 45
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=oL-gAg5RUSo",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=Y0nKuWsFVaY",
-					"percent": 100,
-					"hz": "144hz"
-				},
-			],
-			"name": "Shitty Theory of Alchemy",
-			"author": "Megum",
-			"more": "",
-			"id": 44316721,
-			"pass": "Free copy",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=sXlylJu_K-0",
-			"key": 46
 		},
 		/*=================================================================================*/
 		{
@@ -1816,7 +1827,57 @@ const d = {
 			"pass": "753951",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=0G4wM1J6l-g",
+			"key": 46
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=cmY5dWNZepw",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=i8GfllLPlms",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Aurora",
+			"author": "Megum",
+			"more": "",
+			"id": 51368376,
+			"pass": "145893",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=GJFF5ROZrY4",
 			"key": 47
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=oL-gAg5RUSo",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=Y0nKuWsFVaY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Theory of Alchemy",
+			"author": "Megum",
+			"more": "",
+			"id": 44316721,
+			"pass": "Free copy",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=sXlylJu_K-0",
+			"key": 48
 		},
 		/*=================================================================================*/
 		{
@@ -1847,7 +1908,7 @@ const d = {
 			"pass": "555666",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=fcL-IZbS_BA",
-			"key": 48
+			"key": 49
 		},
 		/*=================================================================================*/
 		{
@@ -1872,7 +1933,7 @@ const d = {
 			"pass": "Not allow copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=mFQO0Xnc4Vc",
-			"key": 49
+			"legacyKey": 17
 		},
 		/*=================================================================================*/
 		{
@@ -2000,6 +2061,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "TheRealTundra",
+					"link": "https://www.youtube.com/watch?v=b4rbdSPCTDA",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Spacial Rend",
 			"author": "Megum",
@@ -2116,6 +2183,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=0eCqZ0Phl9I",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "TheRealTundra",
+					"link": "https://www.youtube.com/watch?v=YXLJ4smOQMw",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Plasma Pulse Finale",
@@ -2350,6 +2423,12 @@ const d = {
 				{
 					"user": "Megum",
 					"link": "https://www.youtube.com/watch?v=YkGrbj0vucY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Hangookin",
+					"link": "https://www.youtube.com/watch?v=etgup1t2ttQ",
 					"percent": 100,
 					"hz": "Mobile"
 				},
