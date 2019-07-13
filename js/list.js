@@ -138,6 +138,12 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=_1vameShst8",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
 					"user": "K4slic",
 					"link": "https://www.youtube.com/watch?v=0ugMfZOT5DQ",
 					"percent": 98,
@@ -150,9 +156,21 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
+					"user": "MiiNi03",
+					"link": "https://www.youtube.com/watch?v=tupDFCrwYaw",
+					"percent": 90,
+					"hz": "Mobile"
+				},
+				{
+					"user": "EpsilonP",
+					"link": "https://www.youtube.com/watch?v=bPK1L41mLVs",
+					"percent": 86,
+					"hz": "60hz"
+				},
+				{
 					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=dM0Y2NHEF-E",
-					"percent": 58,
+					"link": "https://www.youtube.com/watch?v=YHwVf3TspZ8",
+					"percent": 80,
 					"hz": "Mobile"
 				},
 			],
@@ -228,6 +246,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=4H8loaHJQd4",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=LvJaFTExxbY",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Novalis",
@@ -326,6 +350,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=RDB2JsWFfto",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "D4_Mystrz",
+					"link": "https://www.youtube.com/watch?v=hNfTAbKx2oM",
+					"percent": 100,
+					"hz": "240hz"
 				},
 				{
 					"user": "Darky",
@@ -499,6 +529,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=kT_ZKuZUrIw",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "RealOptagonus",
@@ -547,6 +583,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=PtxnQafQ7mc",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "EpsilonP",
+					"link": "https://www.youtube.com/watch?v=spEU4hvEhXw",
+					"percent": 90,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Epsilon",
@@ -947,6 +989,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "EpsilonP",
+					"link": "https://www.youtube.com/watch?v=qG7rt6y7FE8",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty ATMarbl",
 			"author": "Megum and more [Megum]",
@@ -1021,7 +1069,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=Cvjr-UiHkFs",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty A Bizarre Phantasm",
 			"author": "StarStorm and more [oSpace]",
@@ -1157,6 +1210,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Z1VMaB_anqI",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=IDvdlZN9MI0",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Bausha Vortex",
@@ -1307,6 +1366,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=djDRRomiPJE",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -1444,9 +1509,9 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "SKY GD",
-					"link": "https://www.youtube.com/watch?v=chYLzgs0g0Q",
-					"percent": 68,
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=tmjoXY_Kn-k",
+					"percent": 99,
 					"hz": "Mobile"
 				},
 			],
@@ -1554,6 +1619,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=qDPJRJsLylI",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "Segone",
@@ -1592,6 +1663,24 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Revitin",
+					"link": "https://www.youtube.com/watch?v=HHA2Z3ARqkg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=DoJD-DRehjI",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=AoIwPTPW_1Q",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Volume",
 			"author": "Depressionate7",
@@ -1713,6 +1802,12 @@ const d = {
 				{
 					"user": "SKY",
 					"link": "https://www.youtube.com/watch?v=WxN2K9V26uE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "MiiNi03",
+					"link": "https://www.youtube.com/watch?v=kPz0d2MAa3w",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -1882,6 +1977,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Y0nKuWsFVaY",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "xBreaking06",
+					"link": "https://www.youtube.com/watch?v=g-qipzQTdzo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "xSinister",
+					"link": "https://www.youtube.com/watch?v=kDuY--tL6aM",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Theory of Alchemy",
@@ -2247,6 +2354,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=iP-wIjS3T8Y",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -2278,6 +2391,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=Te-CNkyg5RM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Mystic",
 			"author": "Megum",
@@ -2296,6 +2415,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=KkLGTBXAwfg",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=gwaS2r2ZYm0",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty AAAAAAAAAAAAAAAAAAAA",
@@ -2334,6 +2459,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=Zt10ef3gIQQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Deception Dive",
 			"author": "Segone and more [Segone]",
@@ -2371,6 +2502,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=GIfySjEUrEI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Breakout Redux",
 			"author": "Megum",
@@ -2390,6 +2527,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=RKNuuDHJzrg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Megum",
@@ -2408,6 +2551,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=cnIYd9LhdS4",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=1hjNWr6b9LY",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Night Party",
@@ -2445,6 +2594,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=etgup1t2ttQ",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Shadowninja441",
+					"link": "https://www.youtube.com/watch?v=oGAVCTtmThg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=8xrDaDDRwVY",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
@@ -2489,6 +2650,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=rc_HM-14Zwc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Heat Wave",
 			"author": "Megum and more [Megum]",
@@ -2507,6 +2674,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=mF2_4qCI8uc",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=Rmspbspw3c8",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Twisted Tranquility",
