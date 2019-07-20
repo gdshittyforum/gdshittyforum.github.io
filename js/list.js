@@ -663,6 +663,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "Xanplayzgamez",
+					"link": "https://www.youtube.com/watch?v==yAaKxxkdcTs",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
 					"user": "EpsilonP",
 					"link": "https://www.youtube.com/watch?v=spEU4hvEhXw",
 					"percent": 90,
@@ -1242,6 +1248,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Cvjr-UiHkFs",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Xanplayzgamez",
+					"link": "https://www.youtube.com/watch?v==yWrwPR4huzc",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty A Bizarre Phantasm",
