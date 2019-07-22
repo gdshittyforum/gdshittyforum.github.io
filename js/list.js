@@ -571,6 +571,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Flexihtala",
+					"link": "https://www.youtube.com/watch?v=_XOM6NFbSWo",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Prenstro",
+					"link": "https://www.youtube.com/watch?v=WZbbfWhUIgo",
+					"percent": 100,
+					"hz": "165hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -814,6 +826,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=YY-1nIi43QE",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=VyUvTRpRqx0",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -1097,6 +1115,12 @@ const d = {
 					"hz": "60hz"
 				},
 				{
+					"user": "Revitin",
+					"link": "https://www.youtube.com/watch?v=WeBAzd7-8g0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
 					"user": "BlastSplash",
 					"link": "https://www.youtube.com/watch?v=RV--xls_cpk",
 					"percent": 64,
@@ -1268,6 +1292,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=yf5e3tn2EiU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty A Bizarre Phantasm",
 			"author": "StarStorm and more [oSpace]",
@@ -1410,6 +1440,18 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=oBofkk-0jek",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=4TghhZ76gV0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Bausha Vortex",
 			"author": "Megum",
@@ -1432,6 +1474,12 @@ const d = {
 				{
 					"user": "LJosh",
 					"link": "https://www.youtube.com/watch?v=Z5ztm2fD1gc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=mef0ZFgkZOE",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -1521,6 +1569,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=zSmKu9QQmN0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "GMDB1S",
+					"link": "https://www.youtube.com/watch?v=RqUhQTBdVjk",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 				{
 					"user": "SKY",
@@ -1750,6 +1804,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ddddr",
+					"link": "https://youtu.be/gRNPS2JUFsw",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty God Eater",
 			"author": "AcropolisBoy",
@@ -1780,6 +1840,12 @@ const d = {
 					"link": "https://youtu.be/_kc67gT8MFg",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://youtu.be/b3oAroHf6fI",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Aftermath",
@@ -1829,6 +1895,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=qDPJRJsLylI",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=5vCZ_9kwb9A",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Stalemate Redux",
@@ -1948,6 +2020,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=aZqK5XBxK9I",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Ultimate Phase",
 			"author": "TheNatanaelGD",
@@ -1970,6 +2048,12 @@ const d = {
 				{
 					"user": "LJosh",
 					"link": "https://www.youtube.com/watch?v=0YBXzcjlfaE",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=PeZbc9WI6Ek",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -2070,6 +2154,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=a_bc1abr35E",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=LxDTqF6Yjs0",
+					"percent": 100,
+					"hz": "144hz"
 				},
 				{
 					"user": "Darky",
@@ -2318,6 +2408,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=7f4tTA1kOnM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Segone",
@@ -2472,6 +2568,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=pac0lFw8ZGE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Firewall",
 			"author": "Megum",
@@ -2520,6 +2622,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=ey5AhfzD5KA",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Bluescore07",
+					"link": "https://www.youtube.com/watch?v=0ioO75wqbyM",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Crimson Planet",
