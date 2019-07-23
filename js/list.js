@@ -76,6 +76,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "GoddardL",
+					"link": "https://www.youtube.com/watch?v=jKOEJbUxbzM",
+					"percent": 100,
+					"hz": "180hz"
+				},
 			],
 			"name": "Shitty Triple Six",
 			"author": "LJosh",
@@ -833,6 +839,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "K4slic",
+					"link": "https://www.youtube.com/watch?v=g_cdpAt3qq8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -876,6 +888,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "K4slic",
+					"link": "https://www.youtube.com/watch?v=XAh34J0ux-s",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Singularity",
 			"author": "Megum",
@@ -906,6 +924,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=MMpmTYVbyx0",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=G1T8Qna7d7o",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Delta Interface",
@@ -955,6 +979,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=q-P4ybSLZP4",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=eGZNouxNdlg",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
@@ -1267,6 +1297,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=nGnAWZBq6tQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=_5ft7mbsen0",
+					"percent": 57,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace and more [oSpace]",
@@ -1296,6 +1338,12 @@ const d = {
 					"user": "reoode",
 					"link": "https://www.youtube.com/watch?v=yf5e3tn2EiU",
 					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=FkD9Y_Q4f0k",
+					"percent": 65,
 					"hz": "144hz"
 				},
 			],
@@ -1340,6 +1388,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=aXCzRzSjwtQ",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=gxbO1EmKsio",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Atmosphere",
@@ -1668,6 +1722,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=FKPq2eQVttI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Dark flare",
 			"author": "Megum and more [Megum]",
@@ -1955,6 +2015,12 @@ const d = {
 				{
 					"user": "LJosh",
 					"link": "https://www.youtube.com/watch?v=AoIwPTPW_1Q",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=FDZDFs-HWdE",
 					"percent": 100,
 					"hz": "144hz"
 				},
