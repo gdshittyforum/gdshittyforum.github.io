@@ -1305,8 +1305,8 @@ const d = {
 				},
 				{
 					"user": "NKSWEETDREAM",
-					"link": "https://www.youtube.com/watch?v=_5ft7mbsen0",
-					"percent": 57,
+					"link": "https://www.youtube.com/watch?v=2AZ5lk0GBqU",
+					"percent": 100,
 					"hz": "144hz"
 				},
 			],
