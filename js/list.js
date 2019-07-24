@@ -589,6 +589,12 @@ const d = {
 					"percent": 100,
 					"hz": "165hz"
 				},
+				{
+					"user": "K4slic",
+					"link": "https://www.youtube.com/watch?v=RcF_hrJsx-w",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -1342,8 +1348,8 @@ const d = {
 				},
 				{
 					"user": "NKSWEETDREAM",
-					"link": "https://www.youtube.com/watch?v=FkD9Y_Q4f0k",
-					"percent": 65,
+					"link": "https://www.youtube.com/watch?v=namGxaWc8r4",
+					"percent": 100,
 					"hz": "144hz"
 				},
 			],
@@ -1431,6 +1437,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Rdb-z8zRRYM",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=q36sIJ_zh2w",
+					"percent": 100,
+					"hz": "144hz"
 				},
 				{
 					"user": "SKY",
@@ -1537,6 +1549,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=qsUDDPO159I",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Bloodlust",
 			"author": "Segone",
@@ -1593,6 +1611,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=Q9_5THQBl60",
+					"percent": 86,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Artificial Ascent",
 			"author": "Megum and more [Megum]",
@@ -1634,6 +1658,12 @@ const d = {
 					"user": "SKY",
 					"link": "https://www.youtube.com/watch?v=bq0qw8vdGmU",
 					"percent": 90,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Cenix820",
+					"link": "https://www.youtube.com/watch?v=BxuQkMrdiVg",
+					"percent": 84,
 					"hz": "Mobile"
 				},
 			],
@@ -2183,6 +2213,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=L14GCtAnIik",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=L-tcSZEPERM",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Conical Depression",
