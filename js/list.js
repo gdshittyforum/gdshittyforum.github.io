@@ -1059,6 +1059,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "ToZ",
+					"link": "https://www.youtube.com/watch?v=iAlIYbuiOj4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -1552,7 +1558,7 @@ const d = {
 				{
 					"user": "NKSWEETDREAM",
 					"link": "https://www.youtube.com/watch?v=qsUDDPO159I",
-					"percent": 100,
+					"percent": 60,
 					"hz": "144hz"
 				},
 			],
@@ -1989,6 +1995,12 @@ const d = {
 				{
 					"user": "reoode",
 					"link": "https://www.youtube.com/watch?v=5vCZ_9kwb9A",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=rxo7IOR_-GI",
 					"percent": 100,
 					"hz": "144hz"
 				},
