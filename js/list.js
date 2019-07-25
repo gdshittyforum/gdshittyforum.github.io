@@ -638,6 +638,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=vxyCO4lPV6U",
+					"percent": 79,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "RealOptagonus",
@@ -1557,8 +1563,8 @@ const d = {
 				},
 				{
 					"user": "NKSWEETDREAM",
-					"link": "https://www.youtube.com/watch?v=qsUDDPO159I",
-					"percent": 60,
+					"link": "https://www.youtube.com/watch?v=btcNDsM8d1c",
+					"percent": 100,
 					"hz": "144hz"
 				},
 			],
@@ -1618,9 +1624,9 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=Q9_5THQBl60",
-					"percent": 86,
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=pyKokS9ifIk",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 			],
@@ -1763,6 +1769,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=FKPq2eQVttI",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "GoddardL",
+					"link": "https://www.youtube.com/watch?v=gTZnY-CQbB8",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Dark flare",
@@ -1942,6 +1954,12 @@ const d = {
 					"link": "https://youtu.be/b3oAroHf6fI",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/cPVQF3rrkbw",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Aftermath",
@@ -2274,6 +2292,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=LxDTqF6Yjs0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "GoddardL",
+					"link": "https://www.youtube.com/watch?v=1DXymkQoDOI",
+					"percent": 100,
+					"hz": "180hz"
 				},
 				{
 					"user": "Darky",
@@ -3000,6 +3024,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=oSlFpJLytmc",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "GoddardL",
+					"link": "https://www.youtube.com/watch?v=Zw4KyONs9J0",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Breakout Redux",
