@@ -640,8 +640,8 @@ const d = {
 				},
 				{
 					"user": "NKSWEETDREAM",
-					"link": "https://www.youtube.com/watch?v=vxyCO4lPV6U",
-					"percent": 79,
+					"link": "https://www.youtube.com/watch?v=kNGSrX9RRk8",
+					"percent": 100,
 					"hz": "144hz"
 				},
 			],
@@ -1169,6 +1169,12 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=Iwt7XRxmExY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "BlastSplash",
 					"link": "https://www.youtube.com/watch?v=RV--xls_cpk",
 					"percent": 64,
@@ -1597,6 +1603,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Nb7PA48eICg",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=eG_JtHRURKE",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ziroikabi",
@@ -2114,6 +2126,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=ZRgFMGh9FrQ",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=3DJOFbxjab8",
+					"percent": 77,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Titan Complex",
