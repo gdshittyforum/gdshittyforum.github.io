@@ -82,6 +82,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=mKAFHnmAlWI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Triple Six",
 			"author": "LJosh",
@@ -419,6 +425,12 @@ const d = {
 					"hz": "240hz"
 				},
 				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=nHCH2aIcur0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "Darky",
 					"link": "https://www.youtube.com/watch?v=lE1hcr13Rx8",
 					"percent": 65,
@@ -712,6 +724,12 @@ const d = {
 					"hz": "60hz"
 				},
 				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=mV1pcw_-jpQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "EpsilonP",
 					"link": "https://www.youtube.com/watch?v=spEU4hvEhXw",
 					"percent": 90,
@@ -906,6 +924,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=14N7px5ic8Y",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Singularity",
 			"author": "Megum",
@@ -998,6 +1022,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=RJPgfkKjQc4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "ZenroiL and more [oSpace]",
@@ -1070,6 +1100,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=iAlIYbuiOj4",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=hUIUt1sWuhU",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Factory Realm X",
@@ -1679,6 +1715,12 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=qrlEwlW8_R0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "SKY",
 					"link": "https://www.youtube.com/watch?v=bq0qw8vdGmU",
 					"percent": 90,
@@ -1828,6 +1870,12 @@ const d = {
 				{
 					"user": "RedLime",
 					"link": "https://www.youtube.com/watch?v=Esu1CrLSRJg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=77xQDWyJzqM",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -2170,6 +2218,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=xPVutug5Yr4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty The Ultimate Phase",
 			"author": "TheNatanaelGD",
@@ -2198,6 +2252,12 @@ const d = {
 				{
 					"user": "NKSWEETDREAM",
 					"link": "https://www.youtube.com/watch?v=PeZbc9WI6Ek",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=DwYIZfGTJVw",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -2994,6 +3054,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "zOmAb",
+					"link": "https://www.youtube.com/watch?v=GzbRshyh1EY",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Deception Dive",
 			"author": "Segone and more [Segone]",
@@ -3098,6 +3164,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=1hjNWr6b9LY",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Hangookin",
+					"link": "https://www.youtube.com/watch?v=CfSVt_oFNgA",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Night Party",
