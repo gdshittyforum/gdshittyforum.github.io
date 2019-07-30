@@ -88,6 +88,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=2OP-khKaGLo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Triple Six",
 			"author": "LJosh",
@@ -607,6 +613,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "zOmAb",
+					"link": "https://www.youtube.com/watch?v=OE1IyYzqZIw",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -967,6 +979,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=vipJ_La9WB0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Delta Interface",
 			"author": "Segone",
@@ -1151,12 +1169,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Revitin",
-					"link": "https://www.youtube.com/watch?v=WeBAzd7-8g0",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
 					"user": "AlphaXIV",
 					"link": "https://www.youtube.com/watch?v=ouaivqK3c2Y",
 					"percent": 100,
@@ -1211,6 +1223,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=oZ3a7yJL8gg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "BlastSplash",
 					"link": "https://www.youtube.com/watch?v=RV--xls_cpk",
 					"percent": 64,
@@ -1258,6 +1276,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=hY398DTNO5o",
 					"percent": 100,
 					"hz": "180hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=MThqy5TIyKA",
+					"percent": 100,
+					"hz": "144hz"
 				},
 				{
 					"user": "SKY",
@@ -1721,6 +1745,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=693WgyNvc8s",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "SKY",
 					"link": "https://www.youtube.com/watch?v=bq0qw8vdGmU",
 					"percent": 90,
@@ -1901,6 +1931,12 @@ const d = {
 				{
 					"user": "LJosh",
 					"link": "https://www.youtube.com/watch?v=SjiCilKv8TM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=fnGznLtI-Lg",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -2144,6 +2180,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "YoungUng2",
+					"link": "https://www.youtube.com/watch?v=aqB0I31Qw4I",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=Op6tGX32Kn8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Volume",
 			"author": "Depressionate7",
@@ -2174,6 +2222,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=ZRgFMGh9FrQ",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=n_vpTYJkMMM",
+					"percent": 100,
+					"hz": "144hz"
 				},
 				{
 					"user": "NKSWEETDREAM",
@@ -2261,6 +2315,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "YoungUng2",
+					"link": "https://www.youtube.com/watch?v=OHnfbPPH6X0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Phobos",
 			"author": "RealOptagonus",
@@ -2325,6 +2385,12 @@ const d = {
 				{
 					"user": "NKSWEETDREAM",
 					"link": "https://www.youtube.com/watch?v=L-tcSZEPERM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "YoungUng2",
+					"link": "https://www.youtube.com/watch?v=qIlVBrdpur8",
 					"percent": 100,
 					"hz": "144hz"
 				},
