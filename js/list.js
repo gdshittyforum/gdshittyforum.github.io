@@ -52,6 +52,12 @@ const d = {
 					"hz": "180hz"
 				},
 				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=TBZ3iB-wA4Y",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "Sleynt",
 					"link": "https://www.youtube.com/watch?v=kNvBpOfXoMc",
 					"percent": 80,
@@ -93,6 +99,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=2OP-khKaGLo",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "K4slic",
+					"link": "https://www.youtube.com/watch?v=Yj7090j9Xug",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Triple Six",
@@ -887,6 +899,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=8QDW1gprYzU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -1045,6 +1063,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=RJPgfkKjQc4",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Vaxer",
+					"link": "https://www.youtube.com/watch?v=ieMMVuIMZKM",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
@@ -1225,6 +1249,12 @@ const d = {
 				{
 					"user": "RedCraft",
 					"link": "https://www.youtube.com/watch?v=oZ3a7yJL8gg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "zOmAb",
+					"link": "https://www.youtube.com/watch?v=7zBGlIzxvBk",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -1700,6 +1730,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=pyKokS9ifIk",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=hzwtPntNMAk",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Artificial Ascent",
