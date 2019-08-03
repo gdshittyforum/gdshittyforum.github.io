@@ -217,16 +217,16 @@ const d = {
 					"hz": "60hz"
 				},
 				{
+					"user": "aassbll",
+					"link": "https://www.youtube.com/watch?v=b2Samlnkxm4",
+					"percent": 98,
+					"hz": "144hz"
+				},
+				{
 					"user": "K4slic",
 					"link": "https://www.youtube.com/watch?v=0ugMfZOT5DQ",
 					"percent": 98,
 					"hz": "Mobile"
-				},
-				{
-					"user": "aassbll",
-					"link": "https://www.youtube.com/watch?v=NgI8mx2FW94",
-					"percent": 98,
-					"hz": "144hz"
 				},
 				{
 					"user": "AlphaXIV",
@@ -790,6 +790,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=xjADu49U0Zg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=Yl9sUxu9FCI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cadrega City",
 			"author": "Megum",
@@ -902,6 +914,12 @@ const d = {
 				{
 					"user": "RedCraft",
 					"link": "https://www.youtube.com/watch?v=8QDW1gprYzU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/QewrHIMDXeI",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -1149,6 +1167,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=np803-9UUx0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -1257,6 +1281,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=7zBGlIzxvBk",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "aassbll",
+					"link": "https://www.youtube.com/watch?v=cw_-IpaJuFE",
+					"percent": 100,
+					"hz": "60hz"
 				},
 				{
 					"user": "BlastSplash",
@@ -1626,6 +1656,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "aassbll",
+					"link": "https://www.youtube.com/watch?v=XQ8Sv75ZdSg",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Bausha Vortex",
 			"author": "Megum",
@@ -1699,6 +1735,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=eG_JtHRURKE",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "aassbll",
+					"link": "https://www.youtube.com/watch?v=rOBiiKmM2yw",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Ziroikabi",
@@ -2049,6 +2091,12 @@ const d = {
 					"link": "https://youtu.be/gRNPS2JUFsw",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/Li4IZsRqoYs",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty God Eater",
@@ -2429,6 +2477,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=qIlVBrdpur8",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "LJon",
+					"link": "https://www.youtube.com/watch?v=g3xHUYbletY",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Conical Depression",
