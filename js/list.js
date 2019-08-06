@@ -842,12 +842,6 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-				{
-					"user": "NKSWEETDREAM",
-					"link": "https://www.youtube.com/watch?v=Yl9sUxu9FCI",
-					"percent": 100,
-					"hz": "144hz"
-				},
 			],
 			"name": "Shitty Cadrega City",
 			"author": "Megum",
@@ -2715,6 +2709,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=faumbmwrIjA",
 					"percent": 100,
 					"hz": "75hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=Yl9sUxu9FCI",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Cadrega Mode",
