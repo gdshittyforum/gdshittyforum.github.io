@@ -573,6 +573,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=GaCsgdYZVkQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Necrocide",
 			"author": "MiiNi03 [Lime0037]",
@@ -878,6 +884,12 @@ const d = {
 					"hz": "60hz"
 				},
 				{
+					"user": "ErenFL",
+					"link": "https://www.youtube.com/watch?v=p-kbRxif9fA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
 					"user": "EpsilonP",
 					"link": "https://www.youtube.com/watch?v=spEU4hvEhXw",
 					"percent": 90,
@@ -1142,6 +1154,12 @@ const d = {
 				{
 					"user": "ddddr",
 					"link": "https://www.youtube.com/watch?v=ryyTwGXJwvg",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "aassbll",
+					"link": "https://www.youtube.com/watch?v=Ew35Yja2t8c",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -1668,6 +1686,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "GDfreeman",
+					"link": "https://www.youtube.com/watch?v=SxtSqrP-RRk",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Zodiac",
 			"author": "oSpace and more [oSpace]",
@@ -2127,6 +2151,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=tx1ZZQthxnw",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "ErenFL",
+					"link": "https://www.youtube.com/watch?v=BkOZvG6b-M0",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Awakening Horus",
@@ -2947,6 +2977,12 @@ const d = {
 				{
 					"user": "LJosh",
 					"link": "https://www.youtube.com/watch?v=i8GfllLPlms",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Hangookin",
+					"link": "https://www.youtube.com/watch?v=9usP-lZ3Aps",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -3849,6 +3885,12 @@ const d = {
 				{
 					"user": "ddddr",
 					"link": "https://www.youtube.com/watch?v=TQZcVMZLLMs",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "powerityly",
+					"link": "https://www.youtube.com/watch?v=MH17Rd8lQl0",
 					"percent": 100,
 					"hz": "Mobile"
 				},
