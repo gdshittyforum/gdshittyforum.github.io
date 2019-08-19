@@ -72,6 +72,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "1qawsz",
+					"link": "https://www.youtube.com/watch?v=15N959tmYLA",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
 					"user": "K4slic",
 					"link": "https://www.youtube.com/watch?v=T4yScoiP3QE",
 					"percent": 90,
@@ -164,6 +170,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=1nq0EuiF6Yw",
+					"percent": 99,
+					"hz": "60hz"
+				},
+				{
 					"user": "Lime0037",
 					"link": "https://www.youtube.com/watch?v=mtz1lSpzw5I",
 					"percent": 95,
@@ -199,6 +211,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=cmkdJaMGQQc",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=352ss7FIthQ",
+					"percent": 100,
+					"hz": "60hz"
 				},
 				{
 					"user": "aassbll",
@@ -522,6 +540,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=YDA-ZULn3gk",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "xXLeGeNdGamesXx",
+					"link": "https://www.youtube.com/watch?v=0dgYFr5DU5M",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "1qawsz",
+					"link": "https://www.youtube.com/watch?v=xU_wWP6ZRU0",
+					"percent": 100,
+					"hz": "120hz"
 				},
 				{
 					"user": "Darky",
@@ -890,6 +920,12 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
+					"user": "1qawsz",
+					"link": "https://www.youtube.com/watch?v=5kIchieEpA8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
 					"user": "EpsilonP",
 					"link": "https://www.youtube.com/watch?v=spEU4hvEhXw",
 					"percent": 90,
@@ -966,6 +1002,12 @@ const d = {
 				{
 					"user": "aassbll",
 					"link": "https://www.youtube.com/watch?v=-A3Akfq1RKE",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=f8f6rU57pao",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -1284,6 +1326,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=OelCII6KPxY",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "1qawsz",
+					"link": "https://www.youtube.com/watch?v=HmHEQkxK6KE",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Blade of Justice",
@@ -1790,6 +1838,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "1qawsz",
+					"link": "https://www.youtube.com/watch?v=nYAL9t1iTzg",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Atmosphere",
 			"author": "Megum",
@@ -1998,6 +2052,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=rOBiiKmM2yw",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Arcaneforce",
+					"link": "https://www.youtube.com/watch?v=LFIKv92yEW4",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ziroikabi",
@@ -2416,6 +2476,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SKY",
+					"link": "https://youtu.be/9d2QJyjRH1U",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Aftermath",
 			"author": "AcropolisBoy",
@@ -2807,6 +2873,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=isrtCK5JwiQ",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "1qawsz",
+					"link": "https://www.youtube.com/watch?v=qH0nmwlWeqI",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Conical Depression",
@@ -3493,6 +3565,12 @@ const d = {
 				{
 					"user": "LJosh",
 					"link": "https://www.youtube.com/watch?v=Te-CNkyg5RM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=Gd-H69UN9qE",
 					"percent": 100,
 					"hz": "144hz"
 				},
