@@ -43,8 +43,8 @@ const d = {
 				},
 				{
 					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=1nq0EuiF6Yw",
-					"percent": 99,
+					"link": "https://www.youtube.com/watch?v=ySXLHjvjpLg",
+					"percent": 100,
 					"hz": "60hz"
 				},
 				{
@@ -873,6 +873,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "1qawsz",
+					"link": "https://www.youtube.com/watch?v=zCX4O5DSfBc",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "RealOptagonus",
@@ -1405,7 +1411,7 @@ const d = {
 			"id": 56116136,
 			"pass": "Free copy",
 			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=ErAgqjsx6ng",
+			"verificationVid": "https://www.youtube.com/watch?v=none",
 			"key": 25
 		},
 		/*=================================================================================*/
@@ -1486,6 +1492,12 @@ const d = {
 				{
 					"user": "tool2018",
 					"link": "https://www.youtube.com/watch?v=gjUzP9F7krM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "VinXen18",
+					"link": "https://www.youtube.com/watch?v=oLvXeK3cE1s",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -1813,6 +1825,12 @@ const d = {
 					"hz": "60hz"
 				},
 				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=PAkbrlaDjtU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "GDfreeman",
 					"link": "https://www.youtube.com/watch?v=SxtSqrP-RRk",
 					"percent": 85,
@@ -2088,6 +2106,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=srDfLDQNrNM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Bloodlust",
 			"author": "Segone",
@@ -2228,6 +2252,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=693WgyNvc8s",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "1qawsz",
+					"link": "https://www.youtube.com/watch?v=SYORrgel4xA",
+					"percent": 100,
+					"hz": "120hz"
 				},
 				{
 					"user": "SKY",
@@ -2677,6 +2707,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "aassbll",
+					"link": "https://www.youtube.com/watch?v=n9moT6SWsYs",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Distraught",
 			"author": "AlexTheGS33 and more [AlexTheGS33]",
@@ -2731,6 +2767,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=tiwhbe1O018",
 					"percent": 100,
 					"hz": "240hz"
+				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://www.youtube.com/watch?v=gKtozUffsS4",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Volume",
@@ -3750,6 +3792,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=_uSoNSrxl9s",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Deception Dive",
 			"author": "Segone and more [Segone]",
@@ -3988,6 +4036,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=KOR6Z0ew1QY",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "nng12",
+					"link": "https://www.youtube.com/watch?v=IGnBkVNMH-8",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Heat Wave",
