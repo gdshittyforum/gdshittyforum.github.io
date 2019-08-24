@@ -499,7 +499,13 @@ const d = {
 					"link": "https://youtu.be/r7nqqeItH4M",
 					"percent": 100,
 					"hz": "144hz"
-				}
+				},
+				{
+					"user": "aassbll",
+					"link": "https://www.youtube.com/watch?v=WnTP0HTq04U",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Furious flames",
 			"author": "ImColdBlast",
@@ -545,9 +551,9 @@ const d = {
 				},
 				{
 					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=jViNmFlDSUA",
+					"link": " https://youtu.be/TquNWX9-rm0",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": "Mobile"
 				},
 				{
 					"user": "Wooung",
@@ -1288,6 +1294,12 @@ const d = {
 					"hz": "60hz"
 				},
 				{
+					"user": "Loutedy",
+					"link": "https://youtu.be/zlB-OM03hy0",
+					"percent": 70,
+					"hz": "60hz"
+				},
+				{
 					"user": "ErenFL",
 					"link": "https://www.youtube.com/watch?v=ogxEGW8GQ0g",
 					"percent": 58,
@@ -1731,8 +1743,13 @@ const d = {
 		},
 		/*=================================================================================*/
 		{
-			"vids": [
-				
+			"vids": [	
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/PzSoHe1vGIA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Ultrasonic",
 			"author": "AcropolisBoy",
@@ -2280,8 +2297,8 @@ const d = {
 				},
 				{
 					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=bq0qw8vdGmU",
-					"percent": 90,
+					"link": "https://youtu.be/a8st_-1grFM",
+					"percent": 100,
 					"hz": "Mobile"
 				},
 				{
