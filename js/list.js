@@ -48,6 +48,12 @@ const d = {
 					"hz": "60hz"
 				},
 				{
+					"user": "1qawsz",
+					"link": "https://youtu.be/VUkjnS2r-zw",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
 					"user": "Lime0037",
 					"link": "https://www.youtube.com/watch?v=mtz1lSpzw5I",
 					"percent": 95,
@@ -885,6 +891,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Xanplayzgamez",
+					"link": "https://www.youtube.com/watch?v=srDfLDQNrNM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Bloodbath",
 			"author": "RealOptagonus",
@@ -1075,6 +1087,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://youtu.be/STklRhBzmPk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Pixelsonic",
 			"author": "Kanae03",
@@ -1714,6 +1732,7 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				
 			],
 			"name": "Shitty Ultrasonic",
 			"author": "AcropolisBoy",
