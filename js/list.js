@@ -160,7 +160,7 @@ const d = {
 			],
 			"name": "Shitty UltraSans",
 			"author": "GDStarStorm and more [Xanplayzgamez]",
-			"more": "GDStarStorm, LJosh and SoyNadie.",
+			"more": "GDStarStorm, LJosh and SoyNadie",
 			"id": 57002669,
 			"pass": "259358",
 			"percentToQualify": 57,
