@@ -598,6 +598,12 @@ const d = {
 					"hz": "120hz"
 				},
 				{
+					"user": "AlphaXIV",
+					"link": "https://youtu.be/C2VvuD-Oj2I",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
 					"user": "Darky",
 					"link": "https://www.youtube.com/watch?v=lE1hcr13Rx8",
 					"percent": 65,
@@ -709,6 +715,30 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{	
+					"user": "ErenFL",
+					"link": "https://youtu.be/dOuusrpb05M",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{	
+					"user": "xXLeGeNdGamesXx",
+					"link": "https://youtu.be/OpKmS-4Idqo",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{	
+					"user": "aassbll",
+					"link": "https://www.youtube.com/watch?v=JPseMwMJDe4",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{	
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=FxBIMRdv3mk",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Penombre",
 			"author": "Kanae03",
@@ -1225,6 +1255,12 @@ const d = {
 					"link": "https://youtu.be/_jOM_RTSx3c",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ErenFL",
+					"link": "https://youtu.be/gUs47icoCL8",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -1750,6 +1786,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SKY",
+					"link": "https://youtu.be/sfcsuLz5W8s",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Ultrasonic",
 			"author": "AcropolisBoy",
@@ -2028,6 +2070,12 @@ const d = {
 				{
 					"user": "ArcaneForce",
 					"link": "https://www.youtube.com/watch?v=-g57TDs4f6Q",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Xanplayzgamez",
+					"link": "https://youtu.be/ouYR7VuI-nA",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -2625,6 +2673,12 @@ const d = {
 					"link": "https://youtu.be/9d2QJyjRH1U",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Xanplayzgamez",
+					"link": "https://youtu.be/PuB2RoWwC5I",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Aftermath",
@@ -4017,6 +4071,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Gz4VOQNPe1A",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Loutedy",
+					"link": "https://youtu.be/FkGwrTn9FA8",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
