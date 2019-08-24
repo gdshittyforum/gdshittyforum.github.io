@@ -493,6 +493,7 @@ const d = {
 					"link": "https://youtu.be/r7nqqeItH4M",
 					"percent": 100,
 					"hz": "144hz"
+				}
 			],
 			"name": "Shitty Furious flames",
 			"author": "ImColdBlast",
