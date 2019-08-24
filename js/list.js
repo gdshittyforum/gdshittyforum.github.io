@@ -1586,6 +1586,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ErenFL",
+					"link": "https://youtu.be/Gi-Xb6RGxy0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -1804,6 +1810,12 @@ const d = {
 					"link": "https://youtu.be/sfcsuLz5W8s",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Xanplayzgamez",
+					"link": "https://youtu.be/bKKOK6uXuEg",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Ultrasonic",
