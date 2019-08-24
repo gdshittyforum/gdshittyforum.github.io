@@ -739,6 +739,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{	
+					"user": "Xanplayzgamez",
+					"link": "https://youtu.be/9_-iheQhjpg",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Penombre",
 			"author": "Kanae03",
