@@ -2131,12 +2131,6 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-				{
-					"user": "XanPlayzGamez",
-					"link": "https://www.youtube.com/watch?v=srDfLDQNrNM",
-					"percent": 100,
-					"hz": "144hz"
-				},
 			],
 			"name": "Shitty Bloodlust",
 			"author": "Segone",
