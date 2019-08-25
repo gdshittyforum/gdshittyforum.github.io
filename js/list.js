@@ -1713,6 +1713,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "Tamori",
+					"link": "https://www.youtube.com/watch?v=mh5gpWOF6xY",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "BlastSplash",
 					"link": "https://www.youtube.com/watch?v=RV--xls_cpk",
 					"percent": 64,
