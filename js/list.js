@@ -54,6 +54,12 @@ const d = {
 					"hz": "120hz"
 				},
 				{
+					"user": "reoode",
+					"link": "https://youtu.be/6yXrR8GpO8A",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "Lime0037",
 					"link": "https://www.youtube.com/watch?v=mtz1lSpzw5I",
 					"percent": 95,
@@ -559,6 +565,12 @@ const d = {
 					"link": "https://youtu.be/C2VvuD-Oj2I",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Xanplayzgamez",
+					"link": "https://www.youtube.com/watch?v=qLbF-U27MZY",
+					"percent": 100,
+					"hz": "144hz"
 				},
 				{
 					"user": "Darky",
@@ -1092,6 +1104,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SKY",
+					"link": "https://youtu.be/sAMJQxboQZo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Pixelsonic",
 			"author": "Kanae03",
@@ -1426,6 +1444,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "Xanplayzgamez",
+					"link": "https://www.youtube.com/watch?v=TEi0zl0GIyc",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Blade of Justice",
 			"author": "ZenroiL and more [oSpace]",
@@ -1738,8 +1762,8 @@ const d = {
 				},
 				{
 					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=KBvJeFAP9gA",
-					"percent": 75,
+					"link": "https://www.youtube.com/watch?v=s8W_ycEA3Ks",
+					"percent": 86,
 					"hz": "Mobile"
 				},
 			],
@@ -1770,6 +1794,12 @@ const d = {
 				{
 					"user": "Xanplayzgamez",
 					"link": "https://youtu.be/bKKOK6uXuEg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://youtu.be/y-15Jjhoa_g",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -2139,6 +2169,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=XQ8Sv75ZdSg",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "Xanplayzgamez",
+					"link": "https://www.youtube.com/watch?v=DWIm2qe8B18",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Bausha Vortex",
@@ -2727,6 +2763,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=rxo7IOR_-GI",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "chojang",
+					"link": "https://www.youtube.com/watch?v=iF1nqwX3-7w",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Stalemate Redux",
