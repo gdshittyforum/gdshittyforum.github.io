@@ -60,6 +60,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "Dornoc429",
+					"link": "https://youtu.be/1ljUIM5_eaQ",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
 					"user": "Lime0037",
 					"link": "https://www.youtube.com/watch?v=mtz1lSpzw5I",
 					"percent": 95,
@@ -278,6 +284,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=b2Samlnkxm4",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=VKZNz0vk3vo",
+					"percent": 100,
+					"hz": "144hz"
 				},
 				{
 					"user": "K4slic",
@@ -573,6 +585,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "ErenFL",
+					"link": "https://www.youtube.com/watch?v=vGuHjqG4hW4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "Darky",
 					"link": "https://www.youtube.com/watch?v=lE1hcr13Rx8",
 					"percent": 65,
@@ -847,6 +865,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=nknFM3Nb4Jw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Paroxysm",
 			"author": "Megum",
@@ -1106,7 +1130,7 @@ const d = {
 				},
 				{
 					"user": "SKY",
-					"link": "https://youtu.be/sAMJQxboQZo",
+					"link": "https://youtu.be/pgeYQBTWI74",
 					"percent": 100,
 					"hz": "Mobile"
 				},
