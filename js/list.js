@@ -1833,6 +1833,7 @@ const d = {
 			"id": 55737274,
 			"pass": "Copy not avaliable",
 			"percentToQualify": 57,
+			"hacked": true,
 			"verificationVid": "https://www.youtube.com/watch?v=none",
 			"key": 27
 		},
@@ -2591,6 +2592,7 @@ const d = {
 			"more": "",
 			"id": 55476442,
 			"pass": "000006",
+			"hacked": true,
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=8pbz9JNibd0",
 			"key": 42
@@ -2703,6 +2705,7 @@ const d = {
 			"id": 52320737,
 			"pass": "606066",
 			"percentToQualify": 57,
+			"hacked": true
 			"verificationVid": "https://www.youtube.com/watch?v=oS9og0z7wB8",
 			"key": 45
 		},
@@ -2758,6 +2761,7 @@ const d = {
 			"id": 54642314,
 			"pass": "000450",
 			"percentToQualify": 57,
+			"hacked": true,
 			"verificationVid": "https://www.youtube.com/watch?v=none",
 			"key": 46
 		},

@@ -21,7 +21,7 @@ function userList() {
         if (checkVerify == true) {
             for (var b = 0 ; b < user_data.length ; b++) {
                 var user_name = user_data[b].name.toUpperCase(); var data_name = verifier.toUpperCase();
-                if (user_name == data_name) {
+                if (user_name == data_name && entry.hacked == null) {
                     user_data[b].point = user_data[b].point + p;
                     user_data[b].verified.push(i+1);
                 }
