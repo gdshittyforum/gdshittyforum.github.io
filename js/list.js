@@ -2705,7 +2705,7 @@ const d = {
 			"id": 52320737,
 			"pass": "606066",
 			"percentToQualify": 57,
-			"hacked": true
+			"hacked": true,
 			"verificationVid": "https://www.youtube.com/watch?v=oS9og0z7wB8",
 			"key": 45
 		},
