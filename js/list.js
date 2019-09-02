@@ -169,49 +169,6 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				{
-					"user": "RedCraft",
-					"link": "https://www.youtube.com/watch?v=jbakXMYmylk",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "Xanplayzgamez",
-					"link": "https://www.youtube.com/watch?v=o2U25g6T7iw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "reoode",
-					"link": "https://www.youtube.com/watch?v=cmkdJaMGQQc",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=352ss7FIthQ",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "aassbll",
-					"link": "https://www.youtube.com/watch?v=p-Ek6R-MTtk",
-					"percent": 81,
-					"hz": "60hz"
-				},
-			],
-			"name": "Shitty WOW",
-			"author": "oSpace [LJosh]",
-			"more": "none",
-			"id": 56712681,
-			"pass": "789123",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=138W2m_c9Gk",
-			"key": 2
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
 			],
 			"name": "Shitty AfterCataBath",
 			"author": "AcropolisBoy [LJosh]",
@@ -220,7 +177,7 @@ const d = {
 			"pass": "666660",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=gvkoieLhRLo",
-			"key": 3
+			"key": 2
 		},
 		/*=================================================================================*/
 		{
@@ -329,7 +286,7 @@ const d = {
 			"pass": "Free copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=Iu08clOYt8I",
-			"key": 4
+			"key": 3
 		},
 		/*=================================================================================*/
 		{
@@ -369,10 +326,10 @@ const d = {
 			"author": "Megum",
 			"more": "none",
 			"id": 44568953,
-			"pass": "Not allow copy",
+			"pass": "Copy not avaliable",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=qP0v6diamBM",
-			"key": 5
+			"key": 4
 		},
 		/*=================================================================================*/
 		{
@@ -427,6 +384,61 @@ const d = {
 			"pass": "001006",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=g4rutNG7Drs",
+			"key": 5
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=jbakXMYmylk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Xanplayzgamez",
+					"link": "https://www.youtube.com/watch?v=o2U25g6T7iw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=cmkdJaMGQQc",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=352ss7FIthQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Dornoc429",
+					"link": "https://www.youtube.com/watch?v=lo-83Pbw9gU",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "1qawsz",
+					"link": "https://www.youtube.com/watch?v=6FDMhSs6Obw",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "aassbll",
+					"link": "https://www.youtube.com/watch?v=p-Ek6R-MTtk",
+					"percent": 81,
+					"hz": "60hz"
+				},
+			],
+			"name": "Shitty WOW",
+			"author": "oSpace [LJosh]",
+			"more": "none",
+			"id": 56712681,
+			"pass": "789123",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=138W2m_c9Gk",
 			"key": 6
 		},
 		/*=================================================================================*/
@@ -695,12 +707,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{	
+					"user": "By Player",
+					"link": "https://youtu.be/qR_GFX3VXzc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Penombre",
 			"author": "Kanae03",
 			"more": "none",
 			"id": 56802357,
-			"pass": "Not Allow Copy",
+			"pass": "Copy not avaliable",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=OpKmS-4Idqo",
 			"key": 12
@@ -1102,7 +1120,7 @@ const d = {
 			"author": "Kanae03",
 			"more": "none",
 			"id": 56732625,
-			"pass": "Not Allow Copy",
+			"pass": "Copy not avaliable",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=CgFTi2JhFLc",
 			"key": 18
@@ -1227,6 +1245,12 @@ const d = {
 				{
 					"user": "ErenFL",
 					"link": "https://youtu.be/gUs47icoCL8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "chojang",
+					"link": "https://youtu.be/Q9Z6a_-8_Lg",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -1450,6 +1474,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=miStmjTMujA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Forever Asleep",
 			"author": "SoyNadie and GoddardL [SoyNadie]",
@@ -1459,6 +1489,67 @@ const d = {
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=none",
 			"key": 23
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=_ueDuLZI_7k",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "K4slic",
+					"link": "https://www.youtube.com/watch?v=alktwVpPRKo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "LJosh",
+					"link": "https://www.youtube.com/watch?v=UUA3HjzCkdw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=j78yTIQ9MrE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "GoddardL",
+					"link": "https://www.youtube.com/watch?v=hY398DTNO5o",
+					"percent": 100,
+					"hz": "180hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=MThqy5TIyKA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "RedCraft",
+					"link": "https://www.youtube.com/watch?v=1OPvi69trgA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=s8W_ycEA3Ks",
+					"percent": 86,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Shitty Audio Expulsion",
+			"author": "Megum and more [Megum]",
+			"more": "Megum, TheAquaZephyr2, Axasion, CorporalPikachu, XanPlayzGamez, Izender, oSpace",
+			"id": 50820782,
+			"pass": "135086",
+			"percentToQualify": 57,
+			"verificationVid": "https://www.youtube.com/watch?v=F7wDHu9oJCQ",
+			"key": 24
 		},
 		/*=================================================================================*/
 		{
@@ -1561,7 +1652,7 @@ const d = {
 			"pass": "375209",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=cUz5AlXaXxU",
-			"key": 24
+			"key": 25
 		},
 		/*=================================================================================*/
 		{
@@ -1700,67 +1791,6 @@ const d = {
 			"pass": "123456",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=9tvwV-cMfiQ",
-			"key": 25
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-				{
-					"user": "By Player",
-					"link": "https://www.youtube.com/watch?v=_ueDuLZI_7k",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
-					"user": "K4slic",
-					"link": "https://www.youtube.com/watch?v=alktwVpPRKo",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "LJosh",
-					"link": "https://www.youtube.com/watch?v=UUA3HjzCkdw",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=j78yTIQ9MrE",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "GoddardL",
-					"link": "https://www.youtube.com/watch?v=hY398DTNO5o",
-					"percent": 100,
-					"hz": "180hz"
-				},
-				{
-					"user": "reoode",
-					"link": "https://www.youtube.com/watch?v=MThqy5TIyKA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "RedCraft",
-					"link": "https://www.youtube.com/watch?v=1OPvi69trgA",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=s8W_ycEA3Ks",
-					"percent": 86,
-					"hz": "Mobile"
-				},
-			],
-			"name": "Shitty Audio Expulsion",
-			"author": "Megum and more [Megum]",
-			"more": "Megum, TheAquaZephyr2, Axasion, CorporalPikachu, XanPlayzGamez, Izender, oSpace",
-			"id": 50820782,
-			"pass": "135086",
-			"percentToQualify": 57,
-			"verificationVid": "https://www.youtube.com/watch?v=F7wDHu9oJCQ",
 			"key": 26
 		},
 		/*=================================================================================*/
@@ -1790,12 +1820,18 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{	
+					"user": "By Player",
+					"link": "https://youtu.be/Ja0vJu-8rMY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Ultrasonic",
 			"author": "AcropolisBoy",
 			"more": "none",
 			"id": 55737274,
-			"pass": "Not Allow copy",
+			"pass": "Copy not avaliable",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=none",
 			"key": 27
@@ -1840,7 +1876,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{	
+					"user": "By Player",
+					"link": "https://youtu.be/g4t4Jueura0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Ragnarok",
 			"author": "oSpace",
@@ -2489,6 +2530,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "chojang",
+					"link": "https://www.youtube.com/watch?v=DXlCUlQWPZU",
+					"percent": 92,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Dark flare",
 			"author": "Megum and more [Megum]",
@@ -2833,6 +2880,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{	
+					"user": "By Player",
+					"link": "https://youtu.be/6ornrreyIJM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Distraught",
 			"author": "AlexTheGS33 and more [AlexTheGS33]",
@@ -3034,7 +3087,7 @@ const d = {
 			"author": "RealOptagonus",
 			"more": "",
 			"id": 20319038,
-			"pass": "Not Allow copy",
+			"pass": "Copy not avaliable",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=yDoBh6f-gL8",
 			"legacyKey": 25
@@ -3125,7 +3178,7 @@ const d = {
 			"author": "RealOptagonus",
 			"more": "",
 			"id": 22889251,
-			"pass": "Not Allow copy",
+			"pass": "Copy not avaliable",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=7Bx622QDmN4",
 			"legacyKey": 24
@@ -3402,7 +3455,7 @@ const d = {
 			"author": "Megum",
 			"more": "",
 			"id": 44803429,
-			"pass": "Not allow copy",
+			"pass": "Copy not avaliable",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=mFQO0Xnc4Vc",
 			"legacyKey": 17
@@ -3673,6 +3726,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Failo",
+					"link": "https://www.youtube.com/watch?v=jJuDZx1Tvps",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Crimson Planet",
 			"author": "Megum",
@@ -3850,7 +3909,7 @@ const d = {
 			"author": "Megum",
 			"more": "none",
 			"id": 44674421,
-			"pass": "Not allow copy",
+			"pass": "Copy not avaliable",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=none",
 			"legacyKey": 7
@@ -4105,6 +4164,12 @@ const d = {
 				{
 					"user": "Loutedy",
 					"link": "https://youtu.be/FkGwrTn9FA8",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "aassbll",
+					"link": "https://youtu.be/rFyjOfAjQxQ",
 					"percent": 100,
 					"hz": "60hz"
 				},
