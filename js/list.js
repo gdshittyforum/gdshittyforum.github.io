@@ -726,7 +726,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-	
+				{	
+					"user": "Xanplayzgamez",
+					"link": "https://youtu.be/zTYmtJaKqhg",
+					"percent": 100,
+					"hz": "Xanplayzgamez"
+				},
 			],
 			"name": "Shitty Rate Demon",
 			"author": "GoddardL",
