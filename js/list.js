@@ -1816,10 +1816,10 @@ const d = {
 		{
 			"vids": [	
 				{	
-					"user": "By Player",
-					"link": "https://youtu.be/Ja0vJu-8rMY",
+					"user": "Xanplayzgamez",
+					"link": "https://www.youtube.com/watch?v=n2BLwm70usU",
 					"percent": 100,
-					"hz": "Mobile"
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Frizzantino Vibes",
