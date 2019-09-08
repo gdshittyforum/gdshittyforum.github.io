@@ -2351,6 +2351,26 @@ const d = {
 		{
 			"vids": [
 				{
+					"user": "Xanplayzgamez",
+					"link": "https://youtu.be/DPVFEN-H4s0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Firepower",
+			"author": "Acropolisboy",
+			"more": "none",
+			"id": 56139903,
+			"pass": "661616",
+			"hacked": true,
+			"percentToQualify": 57,
+			"verificationVid": "https://youtu.be/DPVFEN-H4s0",
+			"key": 41
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
 					"user": "By Player",
 					"link": "https://www.youtube.com/watch?v=LlYmpRZw8Ds",
 					"percent": 100,
@@ -2382,7 +2402,7 @@ const d = {
 			"pass": "910910",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6zu6AoKYLfU",
-			"key": 41
+			"key": 42
 		},
 		/*=================================================================================*/
 		{
@@ -2431,7 +2451,7 @@ const d = {
 			"pass": "159357",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=ZEtcNuuW8Ys",
-			"key": 42
+			"key": 43
 		},
 		/*=================================================================================*/
 		{
@@ -2474,7 +2494,7 @@ const d = {
 			"pass": "789321",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=1R_6CLeZ7NU",
-			"key": 43
+			"key": 44
 		},
 		/*=================================================================================*/
 		{
@@ -2541,7 +2561,7 @@ const d = {
 			"pass": "042019",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=6JYh8vNm-EA",
-			"key": 44
+			"key": 45
 		},
 		/*=================================================================================*/
 		{
@@ -2602,7 +2622,7 @@ const d = {
 			"pass": "090319",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=URC9IuVbT7Q",
-			"key": 45
+			"key": 46
 		},
 		/*=================================================================================*/
 		{
@@ -2663,7 +2683,7 @@ const d = {
 			"pass": "201920",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=R0A0khSiIsw",
-			"key": 46
+			"key": 47
 		},
 		/*=================================================================================*/
 		{
@@ -2713,7 +2733,7 @@ const d = {
 			"hacked": true,
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=8pbz9JNibd0",
-			"key": 47
+			"key": 48
 		},
 		/*=================================================================================*/
 		{
@@ -2744,7 +2764,7 @@ const d = {
 			"pass": "668111",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=nZuDdnlN-X4",
-			"key": 48
+			"key": 49
 		},
 		/*=================================================================================*/
 		{
@@ -2779,9 +2799,9 @@ const d = {
 			"more": "Klaro GD, ShadowNinja441, SoyNadie, oSpace, Megum, Kanae03, Kevinacho18",
 			"id": 55302658,
 			"pass": "300419",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=maJcSIR-SLU",
-			"key": 49
+			"legacykey": 34
 		},
 		/*=================================================================================*/
 		{
