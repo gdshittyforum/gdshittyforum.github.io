@@ -66,6 +66,12 @@ const d = {
 					"hz": "240hz"
 				},
 				{
+					"user": "GoddardL",
+					"link": "https://www.youtube.com/watch?v=4818A_MFZwA",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
 					"user": "Lime0037",
 					"link": "https://www.youtube.com/watch?v=mtz1lSpzw5I",
 					"percent": 95,
@@ -234,7 +240,7 @@ const d = {
 					"user": "GoddardL",
 					"link": "https://www.youtube.com/watch?v=bO6bYcfdkoE",
 					"percent": 100,
-					"hz": "60hz"
+					"hz": "180hz"
 				},
 				{
 					"user": "aassbll",
@@ -424,6 +430,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=6FDMhSs6Obw",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "GoddardL",
+					"link": "https://www.youtube.com/watch?v=xGBfvrRvIbU",
+					"percent": 100,
+					"hz": "240hz"
 				},
 				{
 					"user": "aassbll",
@@ -712,6 +724,12 @@ const d = {
 					"link": "https://youtu.be/qR_GFX3VXzc",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{	
+					"user": "GoddardL",
+					"link": "https://www.youtube.com/watch?v=_UTBNgzD6Ts",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Penombre",
@@ -1840,6 +1858,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{	
+					"user": "GoddardL",
+					"link": "https://www.youtube.com/watch?v=DwzMe-wRfFo",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Frizzantino Vibes",
 			"author": "Kanae03",
@@ -2031,6 +2055,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "GoddardL",
+					"link": "https://www.youtube.com/watch?v=yZ2MQ6_FIF8&t=12s",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
 					"user": "GDfreeman",
 					"link": "https://www.youtube.com/watch?v=SxtSqrP-RRk",
 					"percent": 85,
@@ -2158,6 +2188,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=wy3pJyTgCXM",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "GoddardL",
+					"link": "https://www.youtube.com/watch?v=GMSL76JUzvc&t=6s",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Thirteen",
