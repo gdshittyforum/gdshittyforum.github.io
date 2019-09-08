@@ -730,7 +730,7 @@ const d = {
 					"user": "Xanplayzgamez",
 					"link": "https://youtu.be/zTYmtJaKqhg",
 					"percent": 100,
-					"hz": "Xanplayzgamez"
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Rate Demon",
