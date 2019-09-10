@@ -419,7 +419,7 @@ const d = {
 		{
 			"vids": [
 				
-			]
+			],
 			"name": "Shitty Macabre",
 			"author": "oSpace and more [oSpace]",
 			"more": "oSpace, GDStarStorm, and GoddardL",
