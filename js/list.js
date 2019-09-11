@@ -2904,7 +2904,7 @@ const d = {
 			"more": "none",
 			"id": 19865573,
 			"pass": "150516",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"hacked": true,
 			"verificationVid": "https://www.youtube.com/watch?v=u4ZzloFrNWQ",
 			"legacykey": 34
@@ -3004,7 +3004,7 @@ const d = {
 			"more": "",
 			"id": 54642314,
 			"pass": "000450",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=none",
 			"legacykey": 32
 		},
@@ -3077,7 +3077,7 @@ const d = {
 			"more": "",
 			"id": 42424706,
 			"pass": "956956",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=_Fp3WWjksMM",
 			"legacykey": 31
 		},
@@ -3102,7 +3102,7 @@ const d = {
 			"more": "GDStarStorm, FKaDeR, ColdBlast, Heizen, Hotdog71, Shadowninja441, Itzshuvon, SalsinhAAA",
 			"id": 56188276,
 			"pass": "835532",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=0jfz-7-Z3vA",
 			"legacykey": 30
 		},
@@ -3145,7 +3145,7 @@ const d = {
 			"more": "ShuvonIislam777, Fkader, AlexTheGS33, SoyNadie, LZ3N, ImColdBlast, Megum, ShadowNinja441, Kanae03, oSpace+GDStarStorm, AlexTheGS33, Depressionate7, SoyNadie",
 			"id": 56698630,
 			"pass": "258852",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=KcphTwbl2wc",
 			"legacykey": 29
 		},
@@ -3206,7 +3206,7 @@ const d = {
 			"more": "",
 			"id": 56260028,
 			"pass": "042401",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=none",
 			"legacyKey": 28
 		},
@@ -3249,7 +3249,7 @@ const d = {
 			"more": "",
 			"id": 56161135,
 			"pass": "121221",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=w5XZEuVxwTg",
 			"legacyKey": 27
 		},
@@ -3292,7 +3292,7 @@ const d = {
 			"more": "",
 			"id": 55403605,
 			"pass": "180806",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=34oA3QehRus",
 			"legacyKey": 26
 		},
@@ -3341,7 +3341,7 @@ const d = {
 			"more": "",
 			"id": 20319038,
 			"pass": "Copy not avaliable",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=yDoBh6f-gL8",
 			"legacyKey": 25
 		},
@@ -3432,7 +3432,7 @@ const d = {
 			"more": "",
 			"id": 22889251,
 			"pass": "Copy not avaliable",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=7Bx622QDmN4",
 			"legacyKey": 24
 		},
@@ -3487,7 +3487,7 @@ const d = {
 			"more": "",
 			"id": 38728701,
 			"pass": "777777",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=9U5JKYwbIRs",
 			"legacyKey": 23
 		},
@@ -3530,7 +3530,7 @@ const d = {
 			"more": "",
 			"id": 52840973,
 			"pass": "167349",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=bUz7ePRVGAk",
 			"legacyKey": 22
 		},
@@ -3579,7 +3579,7 @@ const d = {
 			"more": "",
 			"id": 54444622,
 			"pass": "753951",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=0G4wM1J6l-g",
 			"legacyKey": 21
 		},
@@ -3610,7 +3610,7 @@ const d = {
 			"more": "",
 			"id": 51368376,
 			"pass": "145893",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=GJFF5ROZrY4",
 			"legacyKey": 20
 		},
@@ -3653,7 +3653,7 @@ const d = {
 			"more": "",
 			"id": 44316721,
 			"pass": "Free copy",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=sXlylJu_K-0",
 			"legacyKey": 19
 		},
@@ -3684,7 +3684,7 @@ const d = {
 			"more": "Megum, Segone, AlexTheGS33, TheAquaZephyr2, Goddardl, Temple, Woris367CZ",
 			"id": 51263628,
 			"pass": "555666",
-			"percentToQualify": 57,
+			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=fcL-IZbS_BA",
 			"legacyKey": 18
 		},
