@@ -2808,7 +2808,7 @@ const d = {
 			"pass": "668111",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=nZuDdnlN-X4",
-			"legacykey": 36
+			"legacyKey": 36
 		},
 		/*=================================================================================*/
 		{
@@ -2845,7 +2845,7 @@ const d = {
 			"pass": "300419",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=maJcSIR-SLU",
-			"legacykey": 35
+			"legacyKey": 35
 		},
 		/*=================================================================================*/
 		{
@@ -2907,7 +2907,7 @@ const d = {
 			"percentToQualify": 100,
 			"hacked": true,
 			"verificationVid": "https://www.youtube.com/watch?v=u4ZzloFrNWQ",
-			"legacykey": 34
+			"legacyKey": 34
 		},
 		/*=================================================================================*/
 		{
@@ -2951,7 +2951,7 @@ const d = {
 			"percentToQualify": 100,
 			"hacked": true,
 			"verificationVid": "https://www.youtube.com/watch?v=oS9og0z7wB8",
-			"legacykey": 33
+			"legacyKey": 33
 		},
 		/*=================================================================================*/
 		{
@@ -3006,7 +3006,7 @@ const d = {
 			"pass": "000450",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=none",
-			"legacykey": 32
+			"legacyKey": 32
 		},
 		/*=================================================================================*/
 		{
@@ -3079,7 +3079,7 @@ const d = {
 			"pass": "956956",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=_Fp3WWjksMM",
-			"legacykey": 31
+			"legacyKey": 31
 		},
 		/*=================================================================================*/
 		{
@@ -3104,7 +3104,7 @@ const d = {
 			"pass": "835532",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=0jfz-7-Z3vA",
-			"legacykey": 30
+			"legacyKey": 30
 		},
 		/*=================================================================================*/
 		{
@@ -3147,7 +3147,7 @@ const d = {
 			"pass": "258852",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=KcphTwbl2wc",
-			"legacykey": 29
+			"legacyKey": 29
 		},
 		/*=================================================================================*/
 		{
