@@ -1947,7 +1947,7 @@ const d = {
 				
 			],
 			"name": "Shitty BBBBBBBBBBBBB",
-			"author": "Flexihtala and more",
+			"author": "Flexihtala and more [Flexihtala]",
 			"more": "Marv, Flexihtala, AcropolisBoy, Celloc, Klaro, and ShadowNinja441",
 			"id": 56943825,
 			"pass": "555559",
