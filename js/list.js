@@ -2128,7 +2128,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Xanplayzgamez",
+					"link": "https://youtu.be/nSp6t9TWPCw",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Allegiance",
 			"author": "oSpace",
