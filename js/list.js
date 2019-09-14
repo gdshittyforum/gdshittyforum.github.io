@@ -350,6 +350,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Xanplayzgamez",
+					"link": "https://youtu.be/QJBjl5TlrnM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
@@ -1944,7 +1950,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [	
-				
+				{	
+					"user": "Xanplayzgamez",
+					"link": "https://www.youtube.com/watch?v=qwxPv9aY4bI",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty BBBBBBBBBBBBB",
 			"author": "Flexihtala and more [Flexihtala]",
