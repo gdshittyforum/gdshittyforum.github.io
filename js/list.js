@@ -641,7 +641,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "ErenFL",
+					"user": "ilCollet",
 					"link": "https://www.youtube.com/watch?v=vGuHjqG4hW4",
 					"percent": 100,
 					"hz": "144hz"
@@ -765,7 +765,7 @@ const d = {
 		{
 			"vids": [
 				{	
-					"user": "ErenFL",
+					"user": "ilCollet",
 					"link": "https://youtu.be/dOuusrpb05M",
 					"percent": 100,
 					"hz": "Mobile"
@@ -1062,7 +1062,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "ErenFL",
+					"user": "ilCollet",
 					"link": "https://www.youtube.com/watch?v=p-kbRxif9fA",
 					"percent": 100,
 					"hz": "Mobile"
@@ -1361,7 +1361,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "ErenFL",
+					"user": "ilCollet",
 					"link": "https://youtu.be/gUs47icoCL8",
 					"percent": 100,
 					"hz": "Mobile"
@@ -1458,7 +1458,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "ErenFL",
+					"user": "ilCollet",
 					"link": "https://www.youtube.com/watch?v=ogxEGW8GQ0g",
 					"percent": 58,
 					"hz": "Mobile"
@@ -1775,7 +1775,7 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
-					"user": "ErenFL",
+					"user": "ilCollet",
 					"link": "https://youtu.be/Gi-Xb6RGxy0",
 					"percent": 100,
 					"hz": "Mobile"
@@ -1926,7 +1926,7 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "ErenFL",
+					"user": "ilCollet",
 					"link": "https://youtu.be/NldfO60fBUM",
 					"percent": 100,
 					"hz": "Mobile"
@@ -2245,7 +2245,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "ErenFL",
+					"user": "ilCollet",
 					"link": "https://youtu.be/bMo-TdS20gs",
 					"percent": 100,
 					"hz": "Mobile"
@@ -2793,7 +2793,7 @@ const d = {
 					"hz": "240hz"
 				},
 				{
-					"user": "ErenFL",
+					"user": "ilCollet",
 					"link": "https://www.youtube.com/watch?v=BkOZvG6b-M0",
 					"percent": 100,
 					"hz": "Mobile"
