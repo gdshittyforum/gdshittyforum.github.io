@@ -356,6 +356,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Zesqur",
+					"link": "https://youtu.be/FQzT05ZGv2M",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Novalis",
 			"author": "Megum",
@@ -424,7 +430,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Nisha",
+					"link": "https://www.youtube.com/watch?v=b1OQquRKJ-Q",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Macabre",
 			"author": "oSpace and more [oSpace]",
@@ -438,7 +449,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "Nisha",
+					"link": "https://www.youtube.com/watch?v=w2eUHSeyJuY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "TheRealMap",
+					"link": "https://www.youtube.com/watch?v=xkLg27lDYac",
+					"percent": 100,
+					"hz": "Mob120hzile"
+				},
 			],
 			"name": "Shitty Zettabyte",
 			"author": "GoddardL",
@@ -650,6 +672,12 @@ const d = {
 					"user": "Zesqur",
 					"link": "https://youtu.be/tkF3ykJrx7U",
 					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Gamernangse",
+					"link": "https://youtu.be/3lUlUnxHqJA",
+					"percent": 70,
 					"hz": "Mobile"
 				},
 				{
@@ -1384,6 +1412,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Nisha",
+					"link": "https://youtu.be/aO7vk9mFEKE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -1672,6 +1706,12 @@ const d = {
 					"hz": "120hz"
 				},
 				{
+					"user": "nng12",
+					"link": "https://youtu.be/TDUbCRvYtoI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "SKY",
 					"link": "https://www.youtube.com/watch?v=s8W_ycEA3Ks",
 					"percent": 86,
@@ -1777,6 +1817,12 @@ const d = {
 				{
 					"user": "ilCollet",
 					"link": "https://youtu.be/Gi-Xb6RGxy0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Gamernangse",
+					"link": "https://youtu.be/neCIOR6mFZM",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -1928,6 +1974,12 @@ const d = {
 				{
 					"user": "ilCollet",
 					"link": "https://youtu.be/NldfO60fBUM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "HugoHMF",
+					"link": "https://youtu.be/rLe_svAp7Zk",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -2085,6 +2137,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=DsxmolVvx0Y",
+					"percent": 65,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty ATMarbl",
 			"author": "Megum and more [Megum]",
@@ -2202,6 +2260,12 @@ const d = {
 					"hz": "240hz"
 				},
 				{
+					"user": "Gamernangse",
+					"link": "https://youtu.be/g9CCV6uzolk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
 					"user": "GDfreeman",
 					"link": "https://www.youtube.com/watch?v=SxtSqrP-RRk",
 					"percent": 85,
@@ -2248,6 +2312,12 @@ const d = {
 					"user": "ilCollet",
 					"link": "https://youtu.be/bMo-TdS20gs",
 					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "SKY",
+					"link": "https://youtu.be/1Zw2JcX-tu4",
+					"percent": 84,
 					"hz": "Mobile"
 				},
 			],
@@ -2353,6 +2423,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=nYAL9t1iTzg",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Gamernangse",
+					"link": "https://youtu.be/TzLzbUgyTQw",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Atmosphere",
@@ -2803,6 +2879,12 @@ const d = {
 					"link": "https://youtu.be/6qPfLqISZvk",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Gamernangse",
+					"link": "https://youtu.be/heHuun12ZUg",
+					"percent": 61,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Awakening Horus",
@@ -3731,6 +3813,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Gamernangse",
+					"link": "https://youtu.be/iP2zLgi-wyg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Cadrega Mode",
 			"author": "ShittyStorm",
@@ -4303,6 +4391,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "HugoHMF",
+					"link": "https://youtu.be/WXD41Xp3qqM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Mystic",
 			"author": "Megum",
@@ -4606,6 +4700,18 @@ const d = {
 				{
 					"user": "DFGames",
 					"link": "https://youtu.be/4ZVbZ2b50U4",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "HugoHMF",
+					"link": "https://youtu.be/-vBNk46CLIA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Gamernangse",
+					"link": "https://youtu.be/1A6eQY681y4",
 					"percent": 100,
 					"hz": "Mobile"
 				},
