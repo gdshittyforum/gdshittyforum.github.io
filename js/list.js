@@ -2752,6 +2752,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/NQtQO9klu-k",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Artificial Ascent",
 			"author": "Megum and more [Megum]",
