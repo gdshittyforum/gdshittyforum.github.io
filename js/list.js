@@ -684,7 +684,7 @@ const d = {
 					"user": "TheRealMap",
 					"link": "https://www.youtube.com/watch?v=xkLg27lDYac",
 					"percent": 100,
-					"hz": "Mob120hzile"
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Zettabyte",
