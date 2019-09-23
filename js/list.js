@@ -2581,6 +2581,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/bstjeiMZufs",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Unearthed",
 			"author": "TheNatanaelGD",
