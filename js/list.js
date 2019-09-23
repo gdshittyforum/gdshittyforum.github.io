@@ -450,6 +450,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/PSAjB5fou68",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Macabre",
 			"author": "oSpace and more [oSpace]",
