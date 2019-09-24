@@ -756,6 +756,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/K8FwZuKe6IQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Necrocide",
 			"author": "Kanae03 [Lime0037]",
