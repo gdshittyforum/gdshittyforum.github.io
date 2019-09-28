@@ -552,7 +552,7 @@ const d = {
 					"user": "Nisha",
 					"link": "https://www.youtube.com/watch?v=cOapKV4lY-E",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Furious flames",
@@ -2117,12 +2117,6 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=qSd7p9iBWUE",
 					"percent": 100,
 					"hz": "60hz"
-				},
-				{
-					"user": "Revitin",
-					"link": "https://www.youtube.com/watch?v=WeBAzd7-8g0",
-					"percent": 100,
-					"hz": "Mobile"
 				},
 				{
 					"user": "NKSWEETDREAM",
