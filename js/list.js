@@ -223,7 +223,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
+				{
+					"user": "aassbll",
+					"link": "https://www.youtube.com/watch?v=tipmgA6xLZM",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=14f988qeUkU",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Niflheim",
 			"author": "SKY",
@@ -241,6 +252,24 @@ const d = {
 					"user": "TheRealMap",
 					"link": "https://www.youtube.com/watch?v=MeMmZPtIIU0",
 					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Zesqur",
+					"link": "https://www.youtube.com/watch?v=bzsmHGY8BqE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=GwwiZugxcT8",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=GDEjWIRbOjk",
+					"percent": 79,
 					"hz": "144hz"
 				},
 			],
@@ -327,6 +356,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=evopDhTXEfs",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "Nisha",
+					"link": "https://www.youtube.com/watch?v=sjeaIgNnxnM",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 				{
 					"user": "K4slic",
@@ -731,6 +766,12 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=JKDQCPld_70",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "Gamernangse",
 					"link": "https://www.youtube.com/watch?v=3lUlUnxHqJA",
 					"percent": 70,
@@ -898,6 +939,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{	
+					"user": "aassbll",
+					"link": "https://www.youtube.com/watch?v=L1Q8Gx1CPos",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{	
 					"user": "chojang",
 					"link": "https://www.youtube.com/watch?v=Y6lQGGnkLKU",
 					"percent": 74,
@@ -1002,6 +1049,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=p4XeHtRexhU",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{	
+					"user": "ilCollet",
+					"link": "https://www.youtube.com/watch?v=9cMoGz2Lc4I",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Rate Demon",
@@ -1592,6 +1645,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "TheRealMobile",
+					"link": "https://www.youtube.com/watch?v=lhmheNpnEXs",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -1660,6 +1719,12 @@ const d = {
 					"hz": "60hz"
 				},
 				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=UuwQ7IqiuOQ",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "Loutedy",
 					"link": "https://www.youtube.com/watch?v=zlB-OM03hy0",
 					"percent": 70,
@@ -1689,6 +1754,30 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=v_8opONNIp0",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "RedLime",
+					"link": "https://www.youtube.com/watch?v=Crts9lhz4f8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "TheRealMap",
+					"link": "https://www.youtube.com/watch?v=zB96CnnW-LY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=JRpQq3rJZQ4",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "1qawsz",
+					"link": "https://www.youtube.com/watch?v=NuinX2ZTV20",
+					"percent": 98,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Glide",
@@ -1730,6 +1819,18 @@ const d = {
 				{
 					"user": "RedCraft",
 					"link": "https://www.youtube.com/watch?v=vipJ_La9WB0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "aassbll",
+					"link": "https://www.youtube.com/watch?v=GBOXjWm5KKE",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=nyIJpg4im4k",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -1817,6 +1918,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=TEi0zl0GIyc",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ilCollet",
+					"link": "https://www.youtube.com/watch?v=HH4JQ3DV1OA",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Blade of Justice",
@@ -2535,8 +2642,8 @@ const d = {
 				},
 				{
 					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=HzcjyD33XNQ",
-					"percent": 87,
+					"link": "https://www.youtube.com/watch?v=VyvmnPoI1Hc",
+					"percent": 91,
 					"hz": "Mobile"
 				},
 			],
@@ -3110,6 +3217,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=6qPfLqISZvk",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ilCollet",
+					"link": "https://www.youtube.com/watch?v=-BMBOx6Eyt8",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 				{
 					"user": "Gamernangse",
@@ -4049,6 +4162,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=iP2zLgi-wyg",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=NpJr-gSMbPo",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Cadrega Mode",
