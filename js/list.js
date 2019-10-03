@@ -467,6 +467,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Xanplayzgamez",
+					"link": "https://www.youtube.com/watch?v=tOElkolP8Cg",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Nova",
+					"link": "https://www.youtube.com/watch?v=lm825YBusBc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
