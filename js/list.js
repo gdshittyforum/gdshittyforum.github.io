@@ -3045,12 +3045,6 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-				{
-					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=ezkYJk5NUlY",
-					"percent": 71,
-					"hz": "Mobile"
-				},
 			],
 			"name": "Shitty Death Corridor",
 			"author": "Acropolisboy and more [Acropolisboy]",
@@ -3354,12 +3348,6 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
-				{
-					"user": "Cenix820",
-					"link": "https://www.youtube.com/watch?v=BxuQkMrdiVg",
-					"percent": 84,
-					"hz": "Mobile"
-				},
 			],
 			"name": "Shitty Visible Ray",
 			"author": "Megum and more [Megum]",
@@ -3427,12 +3415,6 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
-				{
-					"user": "Gamernangse",
-					"link": "https://www.youtube.com/watch?v=heHuun12ZUg",
-					"percent": 61,
-					"hz": "Mobile"
-				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -3493,12 +3475,6 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=SR1cl6Fe_2w",
 					"percent": 100,
 					"hz": "60hz"
-				},
-				{
-					"user": "chojang",
-					"link": "https://www.youtube.com/watch?v=DXlCUlQWPZU",
-					"percent": 92,
-					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Dark flare",
@@ -4262,12 +4238,6 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
-				{
-					"user": "Darky",
-					"link": "https://www.youtube.com/watch?v=QLy4TeV9Jq8",
-					"percent": 85,
-					"hz": "Mobile"
-				},
 			],
 			"name": "Shitty Digital Descent",
 			"author": "Segone",
@@ -4844,12 +4814,6 @@ const d = {
 					"user": "NightHeroGD",
 					"link": "https://www.youtube.com/watch?v=v2uoiVF5H4Q",
 					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
-					"user": "NightHeroGD",
-					"link": "https://www.youtube.com/watch?v=_WP0Xso2WDo",
-					"percent": 70,
 					"hz": "Mobile"
 				},
 			],
