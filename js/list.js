@@ -4539,6 +4539,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "XanPlayzGamez",
+					"link": "https://youtu.be/YxvcEDFQo4o",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Zaphkiel",
 			"author": "Segone",
