@@ -32,7 +32,7 @@ var moreinfo_html = `<center><strong style="font-size: 30px">< GD Shitty Forum I
 ` - The Shitty Forum uses the user scoring system <strong>User Level Point (ULP)</strong>.<br>` +
 ` - The ULP formula is shown below.<br><center><img id="up-about" src="img/userpoint.PNG" width="40%"></center><br>` +
 ` - <strong>'p' is your record percentage and 'c' is the required record minimum percentage for that level.</strong><br>` +
-` - <strong>Eventually, this system will score 1 point when you break the level, so it doesn't affect the score of the rank of the level.</strong><br>` +
+` - <strong>Eventually, this system will score 1 point when you complete the level, so it doesn't affect the score of the rank of the level.</strong><br>` +
 `<br><hr width="80%"><br>`+
 
 `<center><strong style="font-size: 23px">< ULP Trophy ></strong></center><br>` +
