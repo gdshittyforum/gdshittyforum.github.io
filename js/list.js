@@ -143,6 +143,12 @@ const d = {
 					"hz": "120hz"
 				},
 				{
+					"user": "YoungUng2",
+					"link": "https://www.youtube.com/watch?v=gUFtEOB4yNw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "K4slic",
 					"link": "https://www.youtube.com/watch?v=T4yScoiP3QE",
 					"percent": 90,
@@ -820,12 +826,6 @@ const d = {
 					"percent": 70,
 					"hz": "Mobile"
 				},
-				{
-					"user": "Darky",
-					"link": "https://www.youtube.com/watch?v=lE1hcr13Rx8",
-					"percent": 65,
-					"hz": "Mobile"
-				},
 			],
 			"name": "Shitty Requiem",
 			"author": "Kanae03",
@@ -848,6 +848,12 @@ const d = {
 				{
 					"user": "SweetDream",
 					"link": "https://www.youtube.com/watch?v=opr1W5vbwbY",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "xXLeGeNdGamesXx",
+					"link": "https://www.youtube.com/watch?v=6cKhYpSRqcg",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -2256,6 +2262,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{	
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=r3sbt7lOtIw",
+					"percent": 98,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Factory Realm X",
 			"author": "Megum",
@@ -2652,6 +2664,12 @@ const d = {
 				{	
 					"user": "aassbll",
 					"link": "https://www.youtube.com/watch?v=RwHeNSH-qvk",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{	
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=BwZY9GqGgTo",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -4628,7 +4646,7 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "Darky",
+					"user": "Darkys",
 					"link": "https://www.youtube.com/watch?v=g-NUI4omYLQ",
 					"percent": 100,
 					"hz": "Mobile"
@@ -4773,6 +4791,18 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Darkys",
+					"link": "https://www.youtube.com/watch?v=4q7cPnyML8c",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "YoungUng2",
+					"link": "https://www.youtube.com/watch?v=rIepKXhXjeM",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Crimson Planet",
 			"author": "Megum",
@@ -4813,6 +4843,12 @@ const d = {
 				{
 					"user": "NightHeroGD",
 					"link": "https://www.youtube.com/watch?v=v2uoiVF5H4Q",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "YoungUng2",
+					"link": "https://www.youtube.com/watch?v=R5K9aOBVMRk",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -5243,6 +5279,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=1A6eQY681y4",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Darkys",
+					"link": "https://www.youtube.com/watch?v=k5rcqvTbdBM",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",

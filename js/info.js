@@ -21,7 +21,8 @@ var moreinfo_html = `<center><strong style="font-size: 30px">< GD Shitty Forum I
 
 ` - <strong>Q. I found site bug. (or need tell feedback)</strong><br>` +
 ` - A. <a href="https://discord.gg/JEmZ6cq" target="_blank"><u>If you tell on Shitty Forum Discord, We will modify or apply. :D</u></a><br>` +
-`</div>` +
+`</div><br>` +
+`<div>`+
 
 ` - <strong>Q. I want to list my level. What should I do?</strong><br>` +
 ` - A. <a href="https://discord.gg/JEmZ6cq" target="_blank"><u>You can find out how at the Shitty Forum Discord.</u></a><br>` +
