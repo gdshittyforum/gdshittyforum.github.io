@@ -2986,7 +2986,7 @@ const d = {
 				},
 			],
 			"name": "Shitty Thirteen",
-			"author": "AlexTheGS33 and GDStarStorm",
+			"author": "AlexTheGS33 and GDStarStorm [AlexTheGS33]",
 			"more": "none",
 			"id": 57198104,
 			"pass": "693396",
