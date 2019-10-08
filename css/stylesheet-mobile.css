@@ -1,0 +1,23 @@
+
+@media ( min-height: 1001px ) {
+    #userpointrank-table td:nth-child(2) {
+      width: 180px;
+    }
+  
+    .userrank-list-top-table td:nth-child(1) {
+      width: 90px;
+    }
+    .userrank-list-top-table td:nth-child(2) {
+      width: 210px;
+    }
+    .userrank-list-top-table td:nth-child(3) {
+      width: 100px;
+    }
+    .summit-record-title {
+      font-size: 30px;
+    }
+
+    #up-about {
+        width: 70%;
+    }
+}
