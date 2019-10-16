@@ -134,32 +134,8 @@
 <script type="text/javascript">
 
 
-var legacy_count = 0;
-for (var i = 0; i < list.length; i++) {
-    var entry = list[i];
-    if (entry.key == null) {
-        legacy_count++;
-    }
-}
-
-list.sort(function(a, b) {
-    var ap = 0; bp = 0;
-    for (var o = 0; o < a.vids.length ; o++) {
-        if (a.vids[o].percent == 100) ap++;
-    }
-    for (var o = 0; o < b.vids.length ; o++) {
-        if (b.vids[o].percent == 100) bp++;
-    }
-
-    if (ap == bp) {
-        return b.vids.length - a.vids.length;
-    } else {
-        return bp - ap;
-    }
-});
-
 function getAuthors(rank) {
-    alert(list[rank].mapInfo.more.toString());
+    alert(list[rank].more.toString());
 }
 
 function load(num) {
@@ -360,7 +336,7 @@ $("#search").on("propertychange change keyup paste input", function() {
         var entry = list[i];
         var name = entry.name.toString().toLowerCase();
         var author = entry.author.toString().toLowerCase();
-        var more = entry.mapInfo.more.toString().toLowerCase();
+        var more = entry.more.toString().toLowerCase();
         if ((name.includes(text) == true || author.includes(text) == true || more.includes(text)) == true || currentVal.toString() == "") {
             y = y + 1;
             var victor = 0;

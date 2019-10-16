@@ -1,4 +1,20 @@
 
+list.sort(function(a, b) {
+  var ap = 0; bp = 0;
+  for (var o = 0; o < a.vids.length ; o++) {
+      if (a.vids[o].percent == 100) ap++;
+  }
+  for (var o = 0; o < b.vids.length ; o++) {
+      if (b.vids[o].percent == 100) bp++;
+  }
+
+  if (ap == bp) {
+      return b.vids.length - a.vids.length;
+  } else {
+      return bp - ap;
+  }
+});
+
 
 var userData = []; //{name : username, point : point, records : [{rank, percent, link, hz}], verified : [rank]}
 for (var i = 0; i < list.length; i++) {
