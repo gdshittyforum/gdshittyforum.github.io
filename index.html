@@ -439,7 +439,7 @@ function loadUserPointInfo(order) {
             isbest_verify = true;
             vid = list[user.verified[i] - 1].verificationVid.replace('https://www.youtube.com/watch?v=', '');
         }
-        verified = verified + `<a href="${list[user.verified[i]-1].verificationVid}">` + (user.verified[i] < 51 ? "<strong style='font-size: 16px'>" : "") + list[user.verified[i] - 1].name + (user.verified[i] < 76 ? "</strong>" : "") + "</a>" + (user.verified.length - 1 == i ? "" : ", ");
+        verified = verified + `<a href="${list[user.verified[i]-1].verificationVid}">` + list[user.verified[i] - 1].name + "</a>" + (user.verified.length - 1 == i ? "" : ", ");
     }
     $("#popup-up-user-verified").html(verified);
     $("#popup-up-user-clear").html(`<center style="font-size: 18px"><strong>< Complete / All Records ><br><span style="font-size: 16px">${clear_records.length} Records / ${user.records.length} Records</span></strong><br><span style="font-size: 14px">> <u onclick="moreInfoClear(${order})" style="cursor: pointer">Show All Records</u> <</span></center>`);
@@ -459,7 +459,7 @@ function moreInfoClear(order) {
     var clear_html = `<center><table id="uplist-user-clear"><tr><td><strong style="font-size=28px">Level</strong></td><td><strong style="font-size=28px">Rank, Used hz</strong></td><td><strong style="font-size=35px">ULP</strong></td></tr>`;
     for (var i = 0; i < user.records.length; i++) {
         var alink = `<a href=${user.records[i].link}>`;
-        clear_html = clear_html + `<tr><td>${alink}${user.records[i].percent==100 ?`<strong>` : ``}${list[user.records[i].rank-1].name} ${user.records[i].percent}%${user.records[i].percent==100 ?`</strong>` : ``}</a></td><td>${alink}#${user.records[i].rank}, ${user.records[i].hz}</a></td><td>${alink}(+ULP ${getPoint(user.records[i].rank, user.records[i].percent, parseInt(list[user.records[i].rank-1].percentToQualify), user.records[i].hz)})</a></td></tr>`;
+        clear_html = clear_html + `<tr><td>${alink}${user.records[i].percent==100 ?`<strong>` : ``}${list[user.records[i].rank-1].name} ${user.records[i].percent}%${user.records[i].percent==100 ?`</strong>` : ``}</a></td><td>${alink}${user.records[i].hz}</a></td><td>${alink}(+ULP ${getPoint(user.records[i].rank, user.records[i].percent, parseInt(list[user.records[i].rank-1].percentToQualify), user.records[i].hz)})</a></td></tr>`;
     }
     clear_html = clear_html + `</table></center>`;
     Swal.fire({
