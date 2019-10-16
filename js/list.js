@@ -77,6 +77,7 @@ const d = {
 			"pass": "123456",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=n-1BTK0cIvA",
+			"difficulty": "8.6",
 			"key": 0
 		},
 		/*=================================================================================*/
