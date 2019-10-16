@@ -197,7 +197,7 @@ function load(num) {
         final_author = final_author.replace(' [', ', Verified by ').replace(']', "");
         var vid_link = entry.verificationVid.replace('https://www.youtube.com/watch?v=', '');
 
-        $("#title").html(`<center><strong>${num < 151 ? "#"+num+". " : ""}${entry.name}</strong></center>`);
+        $("#title").html(`<center><strong>${entry.name}</strong></center>`);
         $("#author").html(`<center>by ${final_author}${entry.hacked == null ? "" : entry.hacked == true ? "<br><small><strong>[Hacked]</small></strong>" : "<br><small><strong>[Possibly Hacked]</small></strong>"}</center>`);
         $("#vid").html(`<center><hr><iframe class="vid" src="https://www.youtube.com/embed/${vid_link}?enablejsapi=1&version=3&playerapiid=ytplayer" frameborder="0" allowfullscreen></iframe><hr></center>`);
         if ($("#display").width() < 760) {
@@ -363,7 +363,11 @@ $("#search").on("propertychange change keyup paste input", function() {
         var more = entry.mapInfo.more.toString().toLowerCase();
         if ((name.includes(text) == true || author.includes(text) == true || more.includes(text)) == true || currentVal.toString() == "") {
             y = y + 1;
-            $("<div>").addClass(i + 1 != select ? "entry" : "entry selected").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''">${i+1 > 150 ? "" : "#"+(i+1)+" "} ${entry.name}<br><em class="list_author">${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
+            var victor = 0;
+            for (var o = 0; o < entry.vids.length ; o++) {
+                if (entry.vids[o].percent == 100) victor++;
+            }
+            $("<div>").addClass("entry").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''"><strong>${entry.name}</strong><br><small><strong>${victor} Victors </strong>/ ${entry.vids.length} Records</small><br><em class="list_author">by ${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
         }
     }
 });
