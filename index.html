@@ -43,6 +43,7 @@
                                 <div class="Info-mapInfo-line" id="mapInfo-line-f">
                                     <div class="Info-mapInfo" id="level-id"></div>
                                     <div class="Info-mapInfo" id="level-password"></div>
+                                    <div class="Info-mapInfo" id="level-diff"></div>
                                 </div>
                             </center>
                         </div>
@@ -142,35 +143,19 @@ for (var i = 0; i < list.length; i++) {
 }
 
 list.sort(function(a, b) {
-    var legacy_count = 0;
-    for (var i = 0; i < list.length; i++) {
-        var entry = list[i];
-        if (entry.key == null) {
-            legacy_count++;
-        }
+    var ap = 0; bp = 0;
+    for (var o = 0; o < a.vids.length ; o++) {
+        if (a.vids[o].percent == 100) ap++;
+    }
+    for (var o = 0; o < b.vids.length ; o++) {
+        if (b.vids[o].percent == 100) bp++;
     }
 
-    var arank = 0;
-    var brank = 0;
-    if (a.key == null) {
-        if (a.legacyKey == null) {
-            arank = list.length + a.unlist;
-        }
-        arank = 100 + (legacy_count - a.legacyKey);
+    if (ap == bp) {
+        return b.vids.length - a.vids.length;
     } else {
-        arank = (a.key) + 1;
+        return bp - ap;
     }
-
-    if (b.key == null) {
-        if (b.legacyKey == null) {
-            brank = list.length + b.unlist;
-        }
-        brank = 100 + (legacy_count - b.legacyKey);
-    } else {
-        brank = (b.key) + 1;
-    }
-
-    return arank - brank;
 });
 
 function getAuthors(rank) {
@@ -222,6 +207,7 @@ function load(num) {
 
         $("#level-id").html(`<center><strong>Level ID</strong><br>${entry.id}</center><br>`);
         $("#level-password").html(`<center><strong>Password</strong><br>${entry.pass}</center><br>`);
+        $("#level-diff").html(`<center><strong>Difficulty</strong><br>${entry.difficult != null ? entry.difficult + "/10.0" : "rating/10.0"}</center><br>`);
         $("#cutline-percent").html(`<strong>${entry.percentToQualify}</strong>`);
 
         $("#info-record-table").html("");
@@ -266,7 +252,11 @@ $("<div>").html(`<div class="list"><strong>Search : </strong><input id="search" 
 
 for (i = 0; i < list.length; i++) {
     var entry = list[i];
-    $("<div>").addClass("entry").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''"><strong>${i+1 > 150 ? "" : "#"+(i+1)+" "}${entry.name}</strong><br><em class="list_author">${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
+    var victor = 0;
+    for (var o = 0; o < entry.vids.length ; o++) {
+        if (entry.vids[o].percent == 100) victor++;
+    }
+    $("<div>").addClass("entry").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''"><strong>${entry.name}</strong><br><small><strong>${victor} Victors </strong>/ ${entry.vids.length} Records</small><br><em class="list_author">by ${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
 }
 
 var res = function() {

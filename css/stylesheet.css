@@ -95,7 +95,7 @@ header{
 }
 
 #userpointrank {
-  height: 550px;
+  height: 475px;
 }
 #userpointrank-table td:nth-child(2) {
   width: 150px;
@@ -283,7 +283,7 @@ header{
 #popup-up-display {
   width: 570px;
   float: left;
-  height: 520px;
+  height: 550px;
   overflow: auto;
 }
 

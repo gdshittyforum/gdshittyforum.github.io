@@ -36,6 +36,16 @@ var moreinfo_html = `<center><strong style="font-size: 30px">< GD Shitty Forum I
 ` - <strong>Eventually, this system will score 1 point when you complete the level, so it doesn't affect the score of the rank of the level.</strong><br>` +
 `<br><hr width="80%"><br>`+
 
+`<center><strong style="font-size: 23px">< Shitty Forum - Difficulty Rating ></strong></center><br>` +
+` - <strong>0.0~1.0</strong> : Harder<br>` +
+` - <strong>1.1~2.0</strong> : Insane<br>` +
+` - <strong>2.1~3.5</strong> : Easy Demon<br>` +
+` - <strong>3.6~5.0</strong> : Medium Demon<br>` +
+` - <strong>5.1~7.0</strong> : Hard Demon<br>` +
+` - <strong>7.1~9.0</strong> : Insane Demon<br>` +
+` - <strong>9.1~10.0</strong> : Extreme Demon<br>` +
+`<br><hr width="80%"><br>`+
+
 `<center><strong style="font-size: 23px">< ULP Trophy ></strong></center><br>` +
 ` User Level Point(ULP) are awarded a trophy (a kind of tier), like in-game rankings.<br><br>` +
 ` <strong>Each Trophy Condition : </strong><br>` +
@@ -76,7 +86,7 @@ var home_html = `<center><strong style="font-size: 30px;">Welcome to GD Shitty F
 `You can look at the ranking of each level and find the records.</strong><br>` +
 `We have <strong>${list.length} Levels</strong>, <strong>${record_length} Records</strong>! and <strong>${userData.length} Players</strong> are having a records on list.<br><br>` +
 `There is also a <strong>User Level Point (ULP)</strong> that numerically indicates who completed a lot of Shitty levels.<br><br>` +
-`<strong>You can see the ranking and daemons in the sidebar at the top (<img src="img/sidebar.png" width="17px">).</strong><br><br>` +
+`<strong>You can see the ranking and demons in the sidebar at the top (<img src="img/sidebar.png" width="17px">).</strong><br><br>` +
 `<strong>In the menu on the right(Below if mobile), there is a User Level Point ranking and record registration application tab.</strong>` +
 `<br><br><br>` +
 /*`<strong>관련 링크들 : </strong>` +
