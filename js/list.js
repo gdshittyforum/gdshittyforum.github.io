@@ -77,7 +77,7 @@ const d = {
 			"pass": "123456",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=n-1BTK0cIvA",
-			"difficulty": "8.6",
+			"difficult": "8.6",
 			"key": 0
 		},
 		/*=================================================================================*/
@@ -2537,6 +2537,7 @@ const d = {
 			"pass": "123456",
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=9tvwV-cMfiQ",
+			"difficult": "3.6",
 			"key": 40
 		},
 		/*=================================================================================*/
