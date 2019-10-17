@@ -657,15 +657,21 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "EveL79",
-					"link": "https://www.youtube.com/watch?v=yfWJiQlrkfg",
-					"percent": 90,
+					"user": "TreeBo",
+					"link": "https://www.youtube.com/watch?v=pik6uGv5saY",
+					"percent": 100,
 					"hz": "144hz"
 				},
 				{
-					"user": "TreeBo",
-					"link": "https://www.youtube.com/watch?v=wKGaMkVLONo",
-					"percent": 81,
+					"user": "ItzPhoee",
+					"link": "https://www.youtube.com/watch?v=wTMV56nNZEQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "EveL79",
+					"link": "https://www.youtube.com/watch?v=V2I8YsUgHkI",
+					"percent": 100,
 					"hz": "144hz"
 				},
 			],
