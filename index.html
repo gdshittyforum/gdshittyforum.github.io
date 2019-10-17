@@ -235,7 +235,7 @@ for (i = 0; i < list.length; i++) {
         if (entry.vids[o].percent == 100) victor++;
     }
     $("<div>").addClass("entry").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''"><strong>${entry.name}</strong><br><small><strong>${victor} Victors </strong>/ ${entry.vids.length} Records</small><br><em class="list_author">by ${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
-    $("<div>").html(`<hr>`).appendTo($("#menu"));
+    $("<div>").html(`<hr>`).appendTo($("#demonlist"));
 }
 
 var res = function() {
@@ -347,7 +347,7 @@ $("#search").on("propertychange change keyup paste input", function() {
                 if (entry.vids[o].percent == 100) victor++;
             }
             $("<div>").addClass("entry").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''"><strong>${entry.name}</strong><br><small><strong>${victor} Victors </strong>/ ${entry.vids.length} Records</small><br><em class="list_author">by ${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
-            $("<div>").html(`<hr>`).appendTo($("#menu"));
+            $("<div>").html(`<hr>`).appendTo($("#demonlist"));
         }
     }
 });
