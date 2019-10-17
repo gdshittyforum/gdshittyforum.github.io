@@ -3187,7 +3187,7 @@ const d = {
 			"name": "Shitty Death Corridor",
 			"author": "Acropolisboy and more [Acropolisboy]",
 			"more": "Megum, AcropolisBoy, R4mm1337, oSpace, TheAquaZephyr2 (ShadowNinja), AlexTheGS33, IZender, Axasion",
-			"id": 55501961,
+			"id": 50628404,
 			"pass": "123666",
 			"percentToQualify": 100,
 			"hacked": true,
