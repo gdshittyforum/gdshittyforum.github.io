@@ -64,6 +64,12 @@ const d = {
 					"hz": "120hz"
 				},
 				{
+					"user": "Fenuguu",
+					"link": "https://www.youtube.com/watch?v=e6OojKCAz8w",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
 					"user": "Lime0037",
 					"link": "https://www.youtube.com/watch?v=mtz1lSpzw5I",
 					"percent": 95,
@@ -228,6 +234,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=Uc_eA5oKGrg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Niflheim",
 			"author": "SKY",
@@ -267,8 +279,8 @@ const d = {
 				},
 				{
 					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=GDEjWIRbOjk",
-					"percent": 79,
+					"link": "https://www.youtube.com/watch?v=MV3JdhMZQbg",
+					"percent": 94,
 					"hz": "144hz"
 				},
 			],
@@ -672,7 +684,7 @@ const d = {
 					"user": "EveL79",
 					"link": "https://www.youtube.com/watch?v=V2I8YsUgHkI",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Concaved Memories",
@@ -855,6 +867,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=JKDQCPld_70",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ilCollet",
+					"link": "https://www.youtube.com/watch?v=vGuHjqG4hW4",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 				{
 					"user": "Gamernangse",
@@ -1382,6 +1400,12 @@ const d = {
 				{
 					"user": "SKY",
 					"link": "https://www.youtube.com/watch?v=pgeYQBTWI74",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=vT0CavuJPBQ",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -2732,6 +2756,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=3kqvFSF_QIY",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Altair",
 			"author": "SoyNadie",
@@ -3188,6 +3218,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Gho67K7aeBo",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=ezkYJk5NUlY",
+					"percent": 71,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Death Corridor",
@@ -4125,6 +4161,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "ilCollet",
+					"link": "https://www.youtube.com/watch?v=sB16o4CjBWw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Volume",
 			"author": "Depressionate7",
@@ -4509,6 +4551,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=NpJr-gSMbPo",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ilCollet",
+					"link": "https://www.youtube.com/watch?v=7VrNimLm76s",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Cadrega Mode",
@@ -5433,6 +5481,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "ilCollet",
+					"link": "https://www.youtube.com/watch?v=GrTkmOMJUN8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Breakout Redux",
 			"author": "Megum",
@@ -5463,6 +5517,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=DTZq8CHztuI",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "ilCollet",
+					"link": "https://www.youtube.com/watch?v=c2zEAyk-pE0",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Artificial Dream",
@@ -5790,7 +5850,7 @@ const d = {
 					"user": "RespectYou",
 					"link": "https://www.youtube.com/watch?v=lO_AnK7iDh8",
 					"percent": 100,
-					"hz": "144hz"
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Twisted Tranquility",
