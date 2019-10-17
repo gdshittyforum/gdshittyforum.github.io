@@ -3219,12 +3219,6 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
-				{
-					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=ezkYJk5NUlY",
-					"percent": 71,
-					"hz": "Mobile"
-				},
 			],
 			"name": "Shitty Death Corridor",
 			"author": "Acropolisboy and more [Acropolisboy]",
