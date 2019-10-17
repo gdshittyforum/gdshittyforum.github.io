@@ -223,9 +223,11 @@ $("#more").animate({ "opacity": "0.0" }, 0);
 $("#more").animate({ "opacity": "1.0" }, 300);
 
 $("<div>").addClass("entry selected").html(`<div class="list" id="list0" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''"><strong>Home</strong></div>`).data('order', 0).appendTo($("#menu"));
+$("<div>").html(`<hr>`).appendTo($("#menu"));
 $("<div>").addClass("entry").html(`<div class="list" id="list-2" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''"><strong>Infomation</strong></div>`).data('second-order', -2).appendTo($("#menu"));
+$("<div>").html(`<hr>`).appendTo($("#menu"));
 $("<div>").html(`<div class="list"><strong>Search : </strong><input id="search" type="text"></div>`).appendTo($("#menu"));
-
+$("<div>").html(`<hr>`).appendTo($("#menu"));
 for (i = 0; i < list.length; i++) {
     var entry = list[i];
     var victor = 0;
@@ -233,6 +235,7 @@ for (i = 0; i < list.length; i++) {
         if (entry.vids[o].percent == 100) victor++;
     }
     $("<div>").addClass("entry").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''"><strong>${entry.name}</strong><br><small><strong>${victor} Victors </strong>/ ${entry.vids.length} Records</small><br><em class="list_author">by ${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
+    $("<div>").html(`<hr>`).appendTo($("#menu"));
 }
 
 var res = function() {
@@ -344,6 +347,7 @@ $("#search").on("propertychange change keyup paste input", function() {
                 if (entry.vids[o].percent == 100) victor++;
             }
             $("<div>").addClass("entry").html(`<div class="list" id="list${i+1}" onMouseOver="this.style.backgroundColor='rgba(163, 163, 163, 0.6)'" onMouseOut="this.style.backgroundColor=''"><strong>${entry.name}</strong><br><small><strong>${victor} Victors </strong>/ ${entry.vids.length} Records</small><br><em class="list_author">by ${entry.author}</em></div>`).data('order', i + 1).appendTo($("#demonlist"));
+            $("<div>").html(`<hr>`).appendTo($("#menu"));
         }
     }
 });

@@ -78,7 +78,6 @@ const d = {
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=n-1BTK0cIvA",
 			"difficult": "8.6",
-			"key": 0
 		},
 		/*=================================================================================*/
 		{
@@ -181,7 +180,7 @@ const d = {
 			"pass": "000005",
 			"percentToQualify": 49,
 			"verificationVid": "https://www.youtube.com/watch?v=ETrEuWM18Lk",
-			"key": 1
+			"difficult": "8.6",
 		},
 		/*=================================================================================*/
 		{
@@ -200,7 +199,7 @@ const d = {
 			"pass": "666660",
 			"percentToQualify": 59,
 			"verificationVid": "https://www.youtube.com/watch?v=gvkoieLhRLo",
-			"key": 2
+			"difficult": "8.5",
 		},
 		/*=================================================================================*/
 		{
@@ -237,7 +236,7 @@ const d = {
 			"pass": "008550",
 			"percentToQualify": 62,
 			"verificationVid": "https://www.youtube.com/watch?v=wqQY56DgY1k",
-			"key": 3
+			"difficult": "8.2",
 		},
 		/*=================================================================================*/
 		{
@@ -280,7 +279,7 @@ const d = {
 			"pass": "152378",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=r5EhROwT9UE",
-			"key": 4
+			"difficult": "7.6",
 		},
 		/*=================================================================================*/
 		{
@@ -341,7 +340,7 @@ const d = {
 			"pass": "Copy not avaliable",
 			"percentToQualify": 65,
 			"verificationVid": "https://www.youtube.com/watch?v=qP0v6diamBM",
-			"key": 5
+			"difficult": "7.4",
 		},
 		/*=================================================================================*/
 		{
@@ -459,10 +458,10 @@ const d = {
 			"author": "Keleru",
 			"more": "none",
 			"id": 52494510,
-			"pass": "Free copy",
+			"pass": "Free to Copy",
 			"percentToQualify": 64,
 			"verificationVid": "https://www.youtube.com/watch?v=Iu08clOYt8I",
-			"key": 6
+			"difficult": "7.0",
 		},
 		/*=================================================================================*/
 		{
@@ -508,10 +507,10 @@ const d = {
 			"author": "oSpace",
 			"more": "none",
 			"id": 57632273,
-			"pass": "Free copy",
+			"pass": "Free to Copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=Wbikk6_WTpc",
-			"key": 7
+			"difficult": "6.5",
 		},
 		/*=================================================================================*/
 		{
@@ -566,7 +565,7 @@ const d = {
 			"pass": "001006",
 			"percentToQualify": 56,
 			"verificationVid": "https://www.youtube.com/watch?v=g4rutNG7Drs",
-			"key": 8
+			"difficult": "6.7",
 		},
 		/*=================================================================================*/
 		{
@@ -597,7 +596,7 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": 59,
 			"verificationVid": "https://www.youtube.com/watch?v=72THO_lErmg",
-			"key": 9
+			"difficult": "6.2",
 		},
 		/*=================================================================================*/
 		{
@@ -646,7 +645,7 @@ const d = {
 			"pass": "939434",
 			"percentToQualify": 64,
 			"verificationVid": "https://www.youtube.com/watch?v=WnTP0HTq04U",
-			"key": 10
+			"difficult": "7.0",
 		},
 		/*=================================================================================*/
 		{
@@ -674,10 +673,10 @@ const d = {
 			"author": "RedLime and Kanae03 [RedLime]",
 			"more": "none",
 			"id": 57665487,
-			"pass": "Free Copy",
+			"pass": "Free to Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=U99hyAuQRvA",
-			"key": 11
+			"difficult": "6.2",
 		},
 		/*=================================================================================*/
 		{
@@ -738,7 +737,7 @@ const d = {
 			"pass": "789123",
 			"percentToQualify": 62,
 			"verificationVid": "https://www.youtube.com/watch?v=138W2m_c9Gk",
-			"key": 12
+			"difficult": "5.8",
 		},
 		/*=================================================================================*/
 		{
@@ -862,10 +861,10 @@ const d = {
 			"author": "Kanae03",
 			"more": "none",
 			"id": 52460725,
-			"pass": "Free copy",
+			"pass": "Free to Copy",
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=vG0ReCqJT_c",
-			"key": 13
+			"difficult": "5.3",
 		},
 		/*=================================================================================*/
 		{
@@ -949,7 +948,7 @@ const d = {
 			"author": "Kanae03",
 			"more": "none",
 			"id": 54644929,
-			"pass": "Free copy",
+			"pass": "Free to Copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=f8IPsUcXNYI",
 			"key": 16
@@ -980,7 +979,7 @@ const d = {
 			"author": "Kanae03 [Lime0037]",
 			"more": "none",
 			"id": 54673272,
-			"pass": "Free copy",
+			"pass": "Free to Copy",
 			"percentToQualify": 54,
 			"verificationVid": "https://www.youtube.com/watch?v=8ptsJEqGMnc",
 			"key": 17
@@ -1060,7 +1059,7 @@ const d = {
 			"author": "oSpace",
 			"more": "none",
 			"id": 57483449,
-			"pass": "Free Copy",
+			"pass": "Free to Copy",
 			"percentToQualify": 63,
 			"verificationVid": "https://www.youtube.com/watch?v=sj0_JIJJMAA",
 			"key": 19
@@ -2134,7 +2133,7 @@ const d = {
 			"author": "SoyNadie and GoddardL [SoyNadie]",
 			"more": "",
 			"id": 56116136,
-			"pass": "Free copy",
+			"pass": "Free to Copy",
 			"percentToQualify": 57,
 			"verificationVid": "https://www.youtube.com/watch?v=miStmjTMujA",
 			"key": 36
@@ -2896,7 +2895,7 @@ const d = {
 			"author": "oSpace and more [oSpace]",
 			"more": "oSpace, Deleitor11, Segone, SkullBytes, ShadowNinja441, AcropolisBoy, Goddardl, Megum",
 			"id": 53858796,
-			"pass": "Free copy",
+			"pass": "Free to Copy",
 			"percentToQualify": 61,
 			"verificationVid": "https://www.youtube.com/watch?v=roX0W3rS6L8",
 			"key": 47
@@ -3221,7 +3220,7 @@ const d = {
 			"author": "TheNatanaelGD",
 			"more": "none",
 			"id": 56109504,
-			"pass": "Free copy",
+			"pass": "Free to Copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=4ROpnxh1nZU",
 			"key": 53
@@ -4590,7 +4589,7 @@ const d = {
 			"author": "Megum",
 			"more": "",
 			"id": 44316721,
-			"pass": "Free copy",
+			"pass": "Free to Copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=sXlylJu_K-0",
             "key": 80
@@ -5159,7 +5158,7 @@ const d = {
 			"author": "Megum",
 			"more": "none",
 			"id": 52617967,
-			"pass": "Free copy",
+			"pass": "Free to Copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=-u-ijZwZuz4",
 			"key": 90
@@ -5640,7 +5639,7 @@ const d = {
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
 			"more": "AcropolisBoy, SoyNadie, Deleitor11, ItzShuvon, Megum, ThePhoenixGHG, AlexTheGS33, ShadowNinja441, Goddardl",
 			"id": 55566910,
-			"pass": "Free copy",
+			"pass": "Free to Copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=YkGrbj0vucY",
 			"key": 97
@@ -5792,10 +5791,36 @@ const d = {
 			"author": "Segone",
 			"more": "none",
 			"id": 35563780,
-			"pass": "Free copy",
+			"pass": "Free to Copy",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=oXAEl2XyYb4",
-			"key": 99
+			"difficult": "1.8",
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty f150",
+			"author": "Kanae03",
+			"more": "none",
+			"id": 57203200,
+			"pass": "Copy not avaliable",
+			"percentToQualify": 67,
+			"verificationVid": "https://www.youtube.com/watch?v=o4Rc1pmbfrU",
+			"difficult": "4.2",
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Explosion",
+			"author": "goddardl",
+			"more": "none",
+			"id": 57580516,
+			"pass": "Free to Copy",
+			"percentToQualify": 46,
+			"verificationVid": "https://www.youtube.com/watch?v=I7BGa0HFusI",
+			"difficult": "6.0",
 		},
 		/*=================================================================================*/
 	],
