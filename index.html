@@ -425,9 +425,10 @@ function loadUserPointInfo(order) {
         return getPoint(b.rank, b.percent, parseInt(list[b.rank - 1].percentToQualify), b.hz) - getPoint(a.rank, a.percent, parseInt(list[a.rank - 1].percentToQualify), a.hz);
     })
     for (var i = 0; i < user.records.length; i++) {
+        var dif = 2.0;
         if (user.records[i].percent == 100) {
             clear_records.push(user.records[i].percent);
-            if (user.records[i].rank < best_records) {
+            if (parseFloat(user.records[i].difficult) > best_records) {
                 best_records = user.records[i].rank;
                 vid = user.records[i].link.replace('https://www.youtube.com/watch?v=', '');
             }
