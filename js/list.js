@@ -6005,12 +6005,6 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
-				{
-					"user": "TheRealLOLU",
-					"link": "https://www.youtube.com/watch?v=yvUCxxQBWY8",
-					"percent": 100,
-					"hz": "Mobile"
-				},
 			],
 			"name": "Shitty Madmansion",
 			"author": "GDStarStorm and more [oSpace]",
