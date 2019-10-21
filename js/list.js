@@ -279,9 +279,9 @@ const d = {
 				},
 				{
 					"user": "SKY",
-					"link": "https://www.youtube.com/watch?v=MV3JdhMZQbg",
-					"percent": 94,
-					"hz": "144hz"
+					"link": "https://www.youtube.com/watch?v=P-J_8TRzv_s",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Killbot",
@@ -1373,6 +1373,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "EveL79",
+					"link": "https://www.youtube.com/watch?v=FRdoO3R8p5c",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
 					"user": "chojang",
 					"link": "https://www.youtube.com/watch?v=qvdM47aM51I",
 					"percent": 91,
@@ -1653,6 +1659,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "YoungUng2",
+					"link": "https://www.youtube.com/watch?v=vi52qUD9x6w",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Sakupen Hell",
 			"author": "ShadowNinja411 [GoddardL]",
@@ -1852,6 +1864,24 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=cbknFRnsLCA",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "YoungUng2",
+					"link": "https://www.youtube.com/watch?v=coN5TWoftCQ",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "mizisu",
+					"link": "https://www.youtube.com/watch?v=mNj--3Se_KI",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "EveL79",
+					"link": "https://www.youtube.com/watch?v=J6Bg0z6zSgQ",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -2553,6 +2583,12 @@ const d = {
 					"hz": "Mobile"
 				},
 				{
+					"user": "EveL79",
+					"link": "https://www.youtube.com/watch?v=RrT4wPpBLfo",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
 					"user": "BlastSplash",
 					"link": "https://www.youtube.com/watch?v=RV--xls_cpk",
 					"percent": 64,
@@ -3248,6 +3284,12 @@ const d = {
 				{
 					"user": "XanPlayzGamez",
 					"link": "https://www.youtube.com/watch?v=bstjeiMZufs",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=C1q428XNBbU",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -4008,6 +4050,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Caribie",
+					"link": "https://www.youtube.com/watch?v=YUUmindExRM",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "Segone",
@@ -4246,6 +4294,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=xPVutug5Yr4",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=Na1B8kf8i0Y",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty The Ultimate Phase",
@@ -4629,6 +4683,12 @@ const d = {
 				{
 					"user": "YoungUng2",
 					"link": "https://www.youtube.com/watch?v=j-pYJOyNTJk",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=k3bbYKTwnp8",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -5067,6 +5127,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ilCollet",
+					"link": "https://www.youtube.com/watch?v=kq0retPErxg",
+					"percent": 98,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Crimson Planet",
 			"author": "Megum",
@@ -5305,8 +5371,14 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=f2VPQClIPJE",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
-			"name": "Shitty AAAAAAAAAAAAAAAAAAAA",
+			"name": "Shitty AAAAAAAAAAAAA",
 			"author": "Megum",
 			"more": "none",
 			"id": 44674421,
@@ -5518,6 +5590,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=DTZq8CHztuI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Artificial Dream",
 			"author": "Megum",
@@ -5694,6 +5772,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=duluq-Y5FkE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "EveL79",
+					"link": "https://www.youtube.com/watch?v=EflBG6ckj6o",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -5846,6 +5936,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "charlie0216",
+					"link": "https://www.youtube.com/watch?v=-n_G8U8aFv8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Twisted Tranquility",
 			"author": "Segone",
@@ -5859,6 +5955,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=Ukiob5EIWF0",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=XOiE9uRiVzA",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty f150",
 			"author": "Kanae03",
@@ -5872,6 +5980,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=oANESrP4ddU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Explosion",
 			"author": "goddardl",
@@ -5883,12 +5997,32 @@ const d = {
 			"difficult": "6.0",
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "Megum",
+					"link": "https://www.youtube.com/watch?v=xzys584dXdc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "TheRealLOLU",
+					"link": "https://www.youtube.com/watch?v=yvUCxxQBWY8",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Shitty Madmansion",
+			"author": "GDStarStorm and more [oSpace]",
+			"more": "GDStarStorm, AlexTheGS33, SoyNadie, Megum, itzShuvon, Kanae03, ImColdBlast",
+			"id": 57855806,
+			"pass": "326236",
+			"percentToQualify": 60,
+			"verificationVid": "https://www.youtube.com/watch?v=-7zY-vLmisw",
+			"difficult": "5.1",
+		},
+		/*=================================================================================*/
 	],
-	"version": [
-		1,
-		5,
-		1
-	]
 };
 
 const list = d.list;const version = d.version;
