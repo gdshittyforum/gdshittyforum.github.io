@@ -6022,6 +6022,56 @@ const d = {
 			"difficult": "5.1",
 		},
 		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "ddddr",
+					"link": "https://www.youtube.com/watch?v=R-eNYL9Y2Zo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "nng12",
+					"link": "https://www.youtube.com/watch?v=sfC9f4UeTEA",
+					"percent": 100,
+					"hz": "144hz"
+				},
+			],
+			"name": "Shitty Necrofantasia",
+			"author": "Kanae03 [RedLime]",
+			"more": "",
+			"id": 57709897,
+			"pass": "Copy not avaliable",
+			"percentToQualify": 59,
+			"verificationVid": "https://www.youtube.com/watch?v=hUXA-XTnMeE",
+			"difficult": "3.9",
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+				{
+					"user": "AlphaXIV",
+					"link": "https://www.youtube.com/watch?v=eKBUVBFVQEM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=FNr7q9d1Byk",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+			],
+			"name": "Shitty Ecensia",
+			"author": "Megum",
+			"more": "",
+			"id": 57833596,
+			"pass": "Free Copy",
+			"percentToQualify": 58,
+			"verificationVid": "https://www.youtube.com/watch?v=0FM56f4CdH8",
+			"difficult": "4.5",
+		},
+		/*=================================================================================*/
 	],
 };
 
