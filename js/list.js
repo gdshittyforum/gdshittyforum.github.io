@@ -514,6 +514,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=7pDzAi-G_PA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -1379,6 +1385,12 @@ const d = {
 					"hz": "60hz"
 				},
 				{
+					"user": "Pororo7",
+					"link": "https://www.youtube.com/watch?v=BJK3ubCWsE0",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
 					"user": "chojang",
 					"link": "https://www.youtube.com/watch?v=qvdM47aM51I",
 					"percent": 91,
@@ -1880,6 +1892,12 @@ const d = {
 				{
 					"user": "EveL79",
 					"link": "https://www.youtube.com/watch?v=J6Bg0z6zSgQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Dirtd",
+					"link": "https://www.youtube.com/watch?v=5Qe35kd6_mo",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -3698,6 +3716,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "ByJoes",
+					"link": "https://www.youtube.com/watch?v=n5MeeAWmVMQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Dark flare",
 			"author": "Megum and more [Megum]",
@@ -4206,6 +4230,24 @@ const d = {
 				{
 					"user": "ilCollet",
 					"link": "https://www.youtube.com/watch?v=sB16o4CjBWw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Pororo7",
+					"link": "https://www.youtube.com/watch?v=8Z9a3bWHQ2E",
+					"percent": 100,
+					"hz": "240hz"
+				},
+				{
+					"user": "Darkys",
+					"link": "https://www.youtube.com/watch?v=iWUJxuesjdQ",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "ByJoes",
+					"link": "https://www.youtube.com/watch?v=5u-KljtjGR8",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -4735,6 +4777,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=HCBih9iDymg",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Subsonic",
 			"author": "Goddardl and more [Goddardl]",
@@ -4826,6 +4874,18 @@ const d = {
 					"link": "https://youtu.be/gnwMjV40eAE",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Fenuguu",
+					"link": "https://youtu.be/pXYt-akBk9M",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "AlphaXIV",
+					"link": "https://youtu.be/QBgo6woDrdM",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Zaphkiel",
@@ -4974,6 +5034,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=BiTggRUrqhE",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "ByJoes",
+					"link": "https://www.youtube.com/watch?v=79PBfXV_2EU",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Spacial Rend",
@@ -5185,6 +5251,12 @@ const d = {
 				{
 					"user": "Nova",
 					"link": "https://www.youtube.com/watch?v=t4i2FcD-gxE",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "AlphaXIV",
+					"link": "https://www.youtube.com/watch?v=eKyiMcsYJ_g",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -5553,6 +5625,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "nng12",
+					"link": "https://www.youtube.com/watch?v=KMbafx3AS8o",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Breakout Redux",
 			"author": "Megum",
@@ -5593,6 +5671,12 @@ const d = {
 				{
 					"user": "ddddr",
 					"link": "https://www.youtube.com/watch?v=DTZq8CHztuI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "ByJoes",
+					"link": "https://www.youtube.com/watch?v=fVyAYKFU8RU",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -5783,6 +5867,18 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=EflBG6ckj6o",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "nng12",
+					"link": "https://www.youtube.com/watch?v=DuBuc2o-vpU",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Lime0037",
+					"link": "https://www.youtube.com/watch?v=732yQ4YlKTI",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Lucid Nightmares",
@@ -6036,6 +6132,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "SherYn",
+					"link": "https://www.youtube.com/watch?v=qTu2gImw5Cw",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Necrofantasia",
 			"author": "Kanae03 [RedLime]",
@@ -6061,8 +6163,20 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "ByJoes",
+					"link": "https://www.youtube.com/watch?v=gTaojSWgwcY",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "AlphaXIV",
+					"link": "https://www.youtube.com/watch?v=eKBUVBFVQEM",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
-			"name": "Shitty Ecensia",
+			"name": "Shitty Esencia",
 			"author": "Megum",
 			"more": "",
 			"id": 57833596,
@@ -6070,6 +6184,32 @@ const d = {
 			"percentToQualify": 58,
 			"verificationVid": "https://www.youtube.com/watch?v=0FM56f4CdH8",
 			"difficult": "4.5",
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Cataclysm",
+			"author": "AcropolisBoy",
+			"more": "",
+			"id": 57920891,
+			"pass": "Free Copy",
+			"percentToQualify": 55,
+			"verificationVid": "https://www.youtube.com/watch?v=none",
+			"difficult": "4.7",
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Matilda The Machine",
+			"author": "XanPlayzGamez and GoddardL [XanPlayzGamez]",
+			"more": "",
+			"id": 57920891,
+			"pass": "563562",
+			"percentToQualify": 60,
+			"verificationVid": "https://www.youtube.com/watch?v=szhP_KYmea",
+			"difficult": "7.7",
 		},
 		/*=================================================================================*/
 	],
