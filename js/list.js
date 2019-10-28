@@ -283,6 +283,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fenuguu",
+					"link": "https://www.youtube.com/watch?v=3f8MzDhMrSs",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Killbot",
 			"author": "TheRealMap [1qawsz]",
@@ -434,6 +440,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=sjeaIgNnxnM",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=HMU_TVA7U14",
+					"percent": 100,
+					"hz": "120hz"
 				},
 				{
 					"user": "K4slic",
@@ -1391,6 +1403,12 @@ const d = {
 					"hz": "240hz"
 				},
 				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=aFZsevhsvvQ",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
 					"user": "chojang",
 					"link": "https://www.youtube.com/watch?v=qvdM47aM51I",
 					"percent": 91,
@@ -1975,6 +1993,12 @@ const d = {
 					"hz": "144hz"
 				},
 				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=kKcSTXWyvvA",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
 					"user": "Loutedy",
 					"link": "https://www.youtube.com/watch?v=zlB-OM03hy0",
 					"percent": 70,
@@ -2405,6 +2429,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=r3sbt7lOtIw",
 					"percent": 98,
 					"hz": "60hz"
+				},
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=jUs2PRbtB88",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Factory Realm X",
@@ -2858,6 +2888,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=kmxCQxySmCw",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=0YAWYj6Y7Ig",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Ragnarok",
@@ -3472,6 +3508,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Pororo7",
+					"link": "https://www.youtube.com/watch?v=sxHTDc0uYc0",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Ziroikabi",
 			"author": "Megum",
@@ -4080,6 +4122,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=UDKzXcEMxqI",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "Segone",
@@ -4574,6 +4622,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=wwDpiz1PPlg",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=Sq0Qdb05TPs",
+					"percent": 100,
+					"hz": "120hz"
 				},
 			],
 			"name": "Shitty Sigma",
@@ -5096,6 +5150,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "GMDB1S",
+					"link": "https://www.youtube.com/watch?v=E6AdCf9V7O8",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Firewall",
 			"author": "Megum",
@@ -5192,6 +5252,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=ez0aBMTPyIk",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=4oIYveBub4g",
+					"percent": 100,
+					"hz": "120hz"
 				},
 				{
 					"user": "ilCollet",
@@ -5449,6 +5515,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=yh0x0ms0uV4",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty AAAAAAAAAAAAA",
 			"author": "Megum",
@@ -5533,6 +5605,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=gRU679bOkqE",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Pororo7",
+					"link": "https://www.youtube.com/watch?v=4nzYAKoL9R4",
+					"percent": 100,
+					"hz": "240hz"
 				},
 			],
 			"name": "Shitty Deception Dive",
@@ -5628,6 +5706,12 @@ const d = {
 				{
 					"user": "nng12",
 					"link": "https://www.youtube.com/watch?v=KMbafx3AS8o",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Blader113",
+					"link": "https://www.youtube.com/watch?v=Efj1YX2ZQ3I",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -5877,6 +5961,18 @@ const d = {
 				{
 					"user": "Lime0037",
 					"link": "https://www.youtube.com/watch?v=732yQ4YlKTI",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=Tk1Ve6HeVlc",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "chojang",
+					"link": "https://www.youtube.com/watch?v=L-tavhmJjFc",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -6138,6 +6234,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Loutedy",
+					"link": "https://www.youtube.com/watch?v=B45aHE6QUgc",
+					"percent": 76,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Necrofantasia",
 			"author": "Kanae03 [RedLime]",
@@ -6175,6 +6277,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "SKY",
+					"link": "https://www.youtube.com/watch?v=iHWGgvaZiiA",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "Loutedy",
+					"link": "https://www.youtube.com/watch?v=KTgUA34G9ME",
+					"percent": 100,
+					"hz": "240hz"
+				},
 			],
 			"name": "Shitty Esencia",
 			"author": "Megum",
@@ -6188,6 +6302,24 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "Whiliams8080",
+					"link": "https://www.youtube.com/watch?v=e809-z_aOds",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=urSFche9_iw",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "Am0s",
+					"link": "https://www.youtube.com/watch?v=6pAenruVkHk",
+					"percent": 58,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Cataclysm",
 			"author": "AcropolisBoy",
