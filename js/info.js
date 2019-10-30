@@ -82,7 +82,7 @@ var home_html = `<center><strong style="font-size: 30px;">Welcome to GD Shitty F
 `<br>` +
 `<strong><center style="font-size: 26px;">Welcome to the Geometry Dash Shitty Forum!</strong></center>` +
 `<br><center><img src="img/main_screen.png" width="70%"></center><br><br>` +
-`<div style="line-height: 35px"><strong>This forum is a list of sorted levels in difficult order.<br>` +
+`<div style="line-height: 35px"><strong>This forum is a list of sorted levels in Victors order.<br>` +
 `You can look at the ranking of each level and find the records.</strong><br>` +
 `We have <strong>${list.length} Levels</strong>, <strong>${record_length} Records</strong>! and <strong>${userData.length} Players</strong> are having a records on list.<br><br>` +
 `There is also a <strong>User Level Point (ULP)</strong> that numerically indicates who completed a lot of Shitty levels.<br><br>` +

@@ -985,6 +985,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "Kanae03",
+					"link": "https://www.youtube.com/watch?v=tvOEc5nBX0w",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty The Yandere",
 			"author": "Kanae03",
@@ -1089,6 +1095,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=L1Q8Gx1CPos",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{	
+					"user": "nng12",
+					"link": "https://www.youtube.com/watch?v=X2Av1r4sF0s",
+					"percent": 100,
+					"hz": "144hz"
 				},
 				{	
 					"user": "chojang",
@@ -5405,6 +5417,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "DrinkSoda",
+					"link": "https://www.youtube.com/watch?v=vMDsbpYj_C8",
+					"percent": 100,
+					"hz": "75hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -6055,6 +6073,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Fenuguu",
+					"link": "https://www.youtube.com/watch?v=DpaQNfbbbfU",
+					"percent": 100,
+					"hz": "120hz"
+				},
 			],
 			"name": "Shitty Heat Wave",
 			"author": "Megum and more [Megum]",
@@ -6272,12 +6296,6 @@ const d = {
 					"hz": "60hz"
 				},
 				{
-					"user": "AlphaXIV",
-					"link": "https://www.youtube.com/watch?v=eKBUVBFVQEM",
-					"percent": 100,
-					"hz": "Mobile"
-				},
-				{
 					"user": "SKY",
 					"link": "https://www.youtube.com/watch?v=iHWGgvaZiiA",
 					"percent": 100,
@@ -6342,6 +6360,19 @@ const d = {
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=szhP_KYmea",
 			"difficult": "7.7",
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Surge of Creations",
+			"author": "Kanae03 and more [Kanae03]",
+			"more": "",
+			"id": 54726730,
+			"pass": "Copy not avaliable",
+			"percentToQualify": 60,
+			"verificationVid": "https://www.youtube.com/watch?v=none",
+			"difficult": "4.2",
 		},
 		/*=================================================================================*/
 	],
