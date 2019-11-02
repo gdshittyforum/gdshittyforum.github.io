@@ -532,6 +532,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "Vaxer",
+					"link": "https://www.youtube.com/watch?v=uf1UUyeEh6c",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=j1PpN7zHuSE",
+					"percent": 92,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Cognition",
 			"author": "oSpace",
@@ -1101,6 +1113,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=X2Av1r4sF0s",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{	
+					"user": "EpsilonP",
+					"link": "https://www.youtube.com/watch?v=7wXxFDRz9-c",
+					"percent": 100,
+					"hz": "60hz"
 				},
 				{	
 					"user": "chojang",
@@ -1931,6 +1949,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Cenix820",
+					"link": "https://www.youtube.com/watch?v=_jOM_RTSx3c",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -2645,6 +2669,12 @@ const d = {
 				{
 					"user": "EveL79",
 					"link": "https://www.youtube.com/watch?v=RrT4wPpBLfo",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Vaxer",
+					"link": "https://www.youtube.com/watch?v=-O0z9YztKpc",
 					"percent": 100,
 					"hz": "60hz"
 				},
@@ -4354,6 +4384,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "chojang",
+					"link": "https://www.youtube.com/watch?v=gmqOG6JX9Fc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Titan Complex",
 			"author": "ShadowNinja441",
@@ -4638,6 +4674,12 @@ const d = {
 				{
 					"user": "Whiliams8080",
 					"link": "https://www.youtube.com/watch?v=Sq0Qdb05TPs",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
+					"user": "Vaxer",
+					"link": "https://www.youtube.com/watch?v=tZAKbxwEco4",
 					"percent": 100,
 					"hz": "120hz"
 				},
@@ -5272,6 +5314,18 @@ const d = {
 					"hz": "120hz"
 				},
 				{
+					"user": "Vaxer",
+					"link": "https://www.youtube.com/watch?v=Zu8xmx_MXA4",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Fenuguu",
+					"link": "https://www.youtube.com/watch?v=sVFQ_8HAnj8",
+					"percent": 100,
+					"hz": "120hz"
+				},
+				{
 					"user": "ilCollet",
 					"link": "https://www.youtube.com/watch?v=kq0retPErxg",
 					"percent": 98,
@@ -5283,7 +5337,7 @@ const d = {
 			"more": "",
 			"id": 48784423,
 			"pass": "456654",
-			"percentToQualify": 100,
+			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=-Kfb7zk5u6s",
 			"key": 88
 		},
@@ -5994,6 +6048,18 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=qpIgt2C0Ma8",
+					"percent": 100,
+					"hz": "60hz"
+				},
+				{
+					"user": "Vaxer",
+					"link": "https://www.youtube.com/watch?v=nykefuBcmJU",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Lucid Nightmares",
 			"author": "ShadowNinja441 and more [ShadowNinja441]",
@@ -6334,8 +6400,14 @@ const d = {
 				},
 				{
 					"user": "Am0s",
-					"link": "https://www.youtube.com/watch?v=6pAenruVkHk",
-					"percent": 58,
+					"link": "https://www.youtube.com/watch?v=Iwdbbjq5bTU",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=LeykUbA7N5Y",
+					"percent": 100,
 					"hz": "144hz"
 				},
 			],
