@@ -6488,7 +6488,7 @@ const d = {
 			"pass": "Free to Copy",
 			"percentToQualify": 53,
 			"verificationVid": "https://www.youtube.com/watch?v=w_UX8sAnXkE",
-			"difficult": "6.2",
+			"difficult": "5.2",
 		},
 		/*=================================================================================*/
 		{
