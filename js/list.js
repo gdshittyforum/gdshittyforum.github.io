@@ -1955,6 +1955,12 @@ const d = {
 					"percent": 100,
 					"hz": "60hz"
 				},
+				{
+					"user": "Loutedy",
+					"link": "https://www.youtube.com/watch?v=nwh3u3TQ94I",
+					"percent": 77,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty Celestial Force",
 			"author": "Megum",
@@ -4238,6 +4244,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=mRRX8K555u0",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Distraught",
 			"author": "AlexTheGS33 and more [AlexTheGS33]",
@@ -6373,6 +6385,12 @@ const d = {
 					"percent": 100,
 					"hz": "240hz"
 				},
+				{
+					"user": "NKSWEETDREAM",
+					"link": "https://www.youtube.com/watch?v=Mt_Lxaj1V6s",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Esencia",
 			"author": "Megum",
@@ -6445,6 +6463,45 @@ const d = {
 			"percentToQualify": 60,
 			"verificationVid": "https://www.youtube.com/watch?v=none",
 			"difficult": "4.2",
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Night Terrors",
+			"author": "Bluethumb",
+			"more": "",
+			"id": 57852294,
+			"pass": "357896",
+			"percentToQualify": 61,
+			"verificationVid": "https://www.youtube.com/watch?v=bsjJTX90R8g",
+			"difficult": "6.5",
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Plasma Pulse",
+			"author": "aassbll",
+			"more": "",
+			"id": 58030170,
+			"pass": "Free to Copy",
+			"percentToQualify": 53,
+			"verificationVid": "https://www.youtube.com/watch?v=w_UX8sAnXkE",
+			"difficult": "6.2",
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+			],
+			"name": "Shitty Achondrite",
+			"author": "Kanae03",
+			"more": "",
+			"id": 54726730,
+			"pass": "Copy not avaliable",
+			"percentToQualify": 61,
+			"verificationVid": "https://www.youtube.com/watch?v=ftg50gDulzA",
+			"difficult": "4.3",
 		},
 		/*=================================================================================*/
 	],
