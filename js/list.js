@@ -1957,8 +1957,8 @@ const d = {
 				},
 				{
 					"user": "Loutedy",
-					"link": "https://www.youtube.com/watch?v=nwh3u3TQ94I",
-					"percent": 77,
+					"link": "https://www.youtube.com/watch?v=IC9ktaEtgGg",
+					"percent": 100,
 					"hz": "60hz"
 				},
 			],
@@ -2814,6 +2814,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{	
+					"user": "AcropolisBoy",
+					"link": "https://www.youtube.com/watch?v=Grenpf2qWeI",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty BBBBBBBBBBBBB",
 			"author": "Flexihtala and more [Flexihtala]",
@@ -3063,6 +3069,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=6wOhcOVB0bg",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "Darkys",
+					"link": "https://www.youtube.com/watch?v=pMAWlpmy314",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Zodiac",
@@ -3745,6 +3757,12 @@ const d = {
 					"percent": 100,
 					"hz": "Mobile"
 				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=KZsMZKWus_A",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Awakening Horus",
 			"author": "oSpace and Megum [oSpace]",
@@ -4175,6 +4193,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=UDKzXcEMxqI",
 					"percent": 100,
 					"hz": "120hz"
+				},
+				{
+					"user": "mizisu",
+					"link": "https://www.youtube.com/watch?v=S7wTKWcs1k8",
+					"percent": 100,
+					"hz": "180hz"
 				},
 			],
 			"name": "Shitty Stalemate Redux",
@@ -4799,6 +4823,12 @@ const d = {
 					"percent": 100,
 					"hz": "144hz"
 				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=JtwRDZBczkk",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Aurora",
 			"author": "Megum",
@@ -4937,6 +4967,12 @@ const d = {
 				{
 					"user": "YoungUng2",
 					"link": "https://www.youtube.com/watch?v=1fw03IDTjuM",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=-OE1sZOWSSc",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -5553,6 +5589,12 @@ const d = {
 				{
 					"user": "KanaE03",
 					"link": "https://www.youtube.com/watch?v=RHQwN9bKGjo",
+					"percent": 100,
+					"hz": "Mobile"
+				},
+				{
+					"user": "UsrailGD",
+					"link": "http://tv.naver.com/v/10820259",
 					"percent": 100,
 					"hz": "Mobile"
 				},
@@ -6467,6 +6509,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=bsjJTX90R8g",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=3udaKN8HwMc",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Night Terrors",
 			"author": "Bluethumb",
@@ -6480,6 +6534,12 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=7_tYH5NQPn4",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Plasma Pulse",
 			"author": "aassbll",
@@ -6493,6 +6553,18 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=bJTzN1SN7Fo",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "By Player",
+					"link": "https://www.youtube.com/watch?v=hh4Umhaf53k",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Achondrite",
 			"author": "Kanae03",
