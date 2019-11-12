@@ -1121,6 +1121,12 @@ const d = {
 					"hz": "60hz"
 				},
 				{	
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=wKNF5Qt4K4Y",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{	
 					"user": "chojang",
 					"link": "https://www.youtube.com/watch?v=Y6lQGGnkLKU",
 					"percent": 74,
@@ -1213,7 +1219,6 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
-				
 			],
 			"name": "Shitty PV II",
 			"author": "GoddardL and more [GoddardL]",
@@ -1960,6 +1965,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=IC9ktaEtgGg",
 					"percent": 100,
 					"hz": "60hz"
+				},
+				{
+					"user": "error4850",
+					"link": "https://www.youtube.com/watch?v=C1ZxIiKBdxo",
+					"percent": 100,
+					"hz": "Mobile"
 				},
 			],
 			"name": "Shitty Celestial Force",
@@ -4200,6 +4211,12 @@ const d = {
 					"percent": 100,
 					"hz": "180hz"
 				},
+				{	
+					"user": "YoungUng2",
+					"link": "https://www.youtube.com/watch?v=fg4TLDQtuOo",
+					"percent": 100,
+					"hz": "144hz"
+				},
 			],
 			"name": "Shitty Stalemate Redux",
 			"author": "Segone",
@@ -4271,6 +4288,12 @@ const d = {
 				{
 					"user": "NKSWEETDREAM",
 					"link": "https://www.youtube.com/watch?v=mRRX8K555u0",
+					"percent": 100,
+					"hz": "144hz"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=96SKom3OV9U",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -4719,6 +4742,12 @@ const d = {
 					"percent": 100,
 					"hz": "120hz"
 				},
+				{
+					"user": "BakeryGD",
+					"link": "https://www.youtube.com/watch?v=w-cU8jZYm_A",
+					"percent": 100,
+					"hz": "Mobile"
+				},
 			],
 			"name": "Shitty Sigma",
 			"author": "Megum",
@@ -4975,6 +5004,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=-OE1sZOWSSc",
 					"percent": 100,
 					"hz": "144hz"
+				},
+				{
+					"user": "RespectYou",
+					"link": "https://www.youtube.com/watch?v=C_0mxZRcJcA",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Team Z",
@@ -5525,6 +5560,12 @@ const d = {
 					"percent": 100,
 					"hz": "75hz"
 				},
+				{
+					"user": "RespectYou",
+					"link": "https://www.youtube.com/watch?v=nw5vUf8ofBw",
+					"percent": 100,
+					"hz": "60hz"
+				},
 			],
 			"name": "Shitty VendetTa",
 			"author": "Megum",
@@ -5840,6 +5881,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=Efj1YX2ZQ3I",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "reoode",
+					"link": "https://www.youtube.com/watch?v=Azlwkuylpui",
+					"percent": 100,
+					"hz": "144hz"
 				},
 			],
 			"name": "Shitty Breakout Redux",
@@ -6277,6 +6324,12 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=-n_G8U8aFv8",
 					"percent": 100,
 					"hz": "Mobile"
+				},
+				{
+					"user": "RespectYou",
+					"link": "https://www.youtube.com/watch?v=2CdXcvTrtS8",
+					"percent": 100,
+					"hz": "60hz"
 				},
 			],
 			"name": "Shitty Twisted Tranquility",
