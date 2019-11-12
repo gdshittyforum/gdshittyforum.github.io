@@ -4988,12 +4988,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "RespectYou",
-					"link": "https://www.youtube.com/watch?v=-6FQi61hcWw",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
 					"user": "YoungUng2",
 					"link": "https://www.youtube.com/watch?v=1fw03IDTjuM",
 					"percent": 100,
@@ -5537,12 +5531,6 @@ const d = {
 					"hz": "144hz"
 				},
 				{
-					"user": "RespectYou",
-					"link": "https://www.youtube.com/watch?v=ExThsbARA2Y",
-					"percent": 100,
-					"hz": "60hz"
-				},
-				{
 					"user": "ilCollet",
 					"link": "https://www.youtube.com/watch?v=aJ2Q7Ghocio",
 					"percent": 100,
@@ -5910,12 +5898,6 @@ const d = {
 				{
 					"user": "LJosh",
 					"link": "https://www.youtube.com/watch?v=RKNuuDHJzrg",
-					"percent": 100,
-					"hz": "144hz"
-				},
-				{
-					"user": "ddddr",
-					"link": "https://www.youtube.com/watch?v=DTZq8CHztuI",
 					"percent": 100,
 					"hz": "144hz"
 				},
@@ -6312,12 +6294,6 @@ const d = {
 					"link": "https://www.youtube.com/watch?v=-VGrPjHjSfo",
 					"percent": 100,
 					"hz": "144hz"
-				},
-				{
-					"user": "RespectYou",
-					"link": "https://www.youtube.com/watch?v=lO_AnK7iDh8",
-					"percent": 100,
-					"hz": "60hz"
 				},
 				{
 					"user": "charlie0216",
